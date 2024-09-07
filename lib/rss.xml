@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Workshop03]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Workshop03</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Sep 2024 19:57:42 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Sep 2024 19:57:38 GMT</pubDate><copyright><![CDATA[jmgcfdea]]></copyright><ttl>60</ttl><dc:creator>jmgcfdea</dc:creator><item><title><![CDATA[Introdução à Bioinformática]]></title><description><![CDATA[<a class="tag" href="?query=tag:undidadeCurricular" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#undidadeCurricular</a> <a class="tag" href="?query=tag:lbcm" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#lbcm</a> <a class="tag" href="?query=tag:jmgcfdea" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#jmgcfdea</a> 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md<br>
+Created: 2024-09-03 15:47<br>
+Updated: 2024-09-03 15:47<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Introdução à Bioinformática</a><br>
+Subject:  Introdução à Bioinformática<br>
+Tags: <a href=".?query=tag:undidadeCurricular" class="tag" target="_blank" rel="noopener">#undidadeCurricular</a> <a href=".?query=tag:lbcm" class="tag" target="_blank" rel="noopener">#lbcm</a> <a href=".?query=tag:jmgcfdea" class="tag" target="_blank" rel="noopener">#jmgcfdea</a> <br>Ontology
+parent::[[]]
+<br>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\introdução-à-bioinformática.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:21:48 GMT</pubDate></item><item><title><![CDATA[Ontologies & Knowledge Representation]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies &amp; Knowledge Representation.md<br>
+Created: 2024-09-05 10:18<br>
+Updated: 2024-09-05 10:18<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Ontologies &amp; Knowledge Representation</a><br>
+Subject:  Ontologies &amp; Knowledge Representation<br>
+Tags:<br>Ontology
+parent::<a data-href="Programa" href="notes\bioinformatics\introdução-à-bioinformárica\programa.html" class="internal-link" target="_self" rel="noopener">Programa</a>
+<br><br>Definition
+"an ontology is the description of what exist specifically within a determined field. For example, every part that exists in a specific information system. This includes the relationship and hierarchy between these parts."<br>
+Kent Lofgren<br>
+<a data-tooltip-position="top" aria-label="https://youtu.be/XTsaZWzVJ4c?t=154" rel="noopener" class="external-link" href="https://youtu.be/XTsaZWzVJ4c?t=154" target="_blank">The whole concept of ontology</a>
+
+
+
+<br><br><br><br><br>
+Fonte: [EDAM](http://edamontology.org)<br><br>
+<br><a data-tooltip-position="top" aria-label="https://data.lhncbc.nlm.nih.gov/public/mor/pubs/pdf/2022-springer_ch19-kwf.pdf" rel="noopener" class="external-link" href="https://data.lhncbc.nlm.nih.gov/public/mor/pubs/pdf/2022-springer_ch19-kwf.pdf" target="_blank">Knowledge Representation and Ontologies.pdf</a>
+
+<br>
+
+
+
+
+
+
+<br><a data-tooltip-position="top" aria-label="https://courses.csail.mit.edu/6.803/pdf/davis.pdf" rel="noopener" class="external-link" href="https://courses.csail.mit.edu/6.803/pdf/davis.pdf" target="_blank">What Is a Knowledge Representation.pdf</a>
+
+<br>
+
+
+
+
+
+
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\ontologies-&amp;-knowledge-representation.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies &amp; Knowledge Representation.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Thu, 05 Sep 2024 18:51:18 GMT</pubDate></item><item><title><![CDATA[Programa]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Programa.md<br>
+Created: 2024-09-02 14:55<br>
+Updated: 2024-09-02 14:55<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Programa</a><br>
+Subject:  Programa<br>
+Tags:<br>Ontology
+parent::<a data-href="Introdução à Bioinformática" href="notes\bioinformatics\introdução-à-bioinformárica\introdução-à-bioinformática.html" class="internal-link" target="_self" rel="noopener">Introdução à Bioinformática</a>
+<br><br><br><br>
+<br>Topic 0: <a data-href="Ontologies &amp; Knowledge Representation" href="notes\bioinformatics\introdução-à-bioinformárica\ontologies-&amp;-knowledge-representation.html" class="internal-link" target="_self" rel="noopener">Ontologies &amp; Knowledge Representation</a>
+<br><br>
+<br>
+Lecture 1: <a data-href="Biological Sequences" href="Biological Sequences" class="internal-link" target="_self" rel="noopener">Biological Sequences</a>
+
+<br>Support Topic 1: <a data-href="Relational Databases" href="notes\bioinformatics\introdução-à-bioinformárica\relational-databases.html" class="internal-link" target="_self" rel="noopener">Relational Databases</a>
+<br>Lab Session 1: <a data-href="Protocolo_1.pdf" href="notes\bioinformatics\introdução-à-bioinformárica\materials\protocolo_1.pdf" class="internal-link" target="_self" rel="noopener">Protocolo_1.pdf</a><br>
+
+
+
+<br>
+Lecture 2: 
+
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\programa.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Programa.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Thu, 05 Sep 2024 19:04:40 GMT</pubDate></item><item><title><![CDATA[Protocolo_1_Registo_Armazenamento_Sequências]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md<br>
+Created: 2024-09-05 18:02<br>
+Updated: 2024-09-05 18:02<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Protocolo_1_Registo_Armazenamento_Sequências</a><br>
+Subject:  Protocolo_1_Registo_Armazenamento_Sequências<br>
+Tags:<br>Ontology
+parent::<a data-href="Programa" href="notes\bioinformatics\introdução-à-bioinformárica\programa.html" class="internal-link" target="_self" rel="noopener">Programa</a>
+<br><br>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\protocolo_1_registo_armazenamento_sequências.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Thu, 05 Sep 2024 18:57:48 GMT</pubDate></item><item><title><![CDATA[Relational Databases]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md<br>
+Created: 2024-09-05 14:52<br>
+Updated: 2024-09-05 14:52<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Relational Databases</a><br>
+Subject:  Relational Databases<br>
+Tags:<br>Ontology
+parent::<a data-href="Programa" href="notes\bioinformatics\introdução-à-bioinformárica\programa.html" class="internal-link" target="_self" rel="noopener">Programa</a> 
+<br><br>Concept definition
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Database)
+<br>Concept definition
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
+<br><br>
+<br>The Entry
+
+<br>Set of Fields / Attributes
+
+<br>Where Data resides
+<br>
+
+Before: <img alt="Pasted image 20240905154759.png" src="lib\media\pasted-image-20240905154759.png" style="width: 500px; max-width: 100%;">
+
+
+<br>
+
+After: <img alt="Pasted image 20240905154833.png" src="lib\media\pasted-image-20240905154833.png">
+
+
+
+
+
+
+<br>The Table
+
+<br>Operational unit of a Relational Database
+
+<br>
+
+Before: <img alt="Pasted image 20240905154142.png" src="lib\media\pasted-image-20240905154142.png" style="width: 300px; max-width: 100%;">
+
+
+<br>
+
+Now: <img alt="Pasted image 20240905154253.png" src="lib\media\pasted-image-20240905154253.png">
+
+
+
+
+
+
+<br>The Database
+
+<br>Set of Tables &amp; required software
+
+<br>
+
+Before: <img alt="Pasted image 20240905162035.png" src="lib\media\pasted-image-20240905162035.png">
+
+
+<br>
+
+Now: <img alt="Pasted image 20240905162318.png" src="lib\media\pasted-image-20240905162318.png" style="width: 500px; max-width: 100%;">
+
+
+
+
+
+
+<br>The Database Management System - DBMS 
+
+<br>Software for management &amp; data I/O
+
+<br>
+
+Before: <img alt="Pasted image 20240905173548.png" src="lib\media\pasted-image-20240905173548.png">
+
+
+<br>
+
+After: <img alt="Pasted image 20240905174043.png" src="lib\media\pasted-image-20240905174043.png" style="width: 500px; max-width: 100%;">
+
+
+
+
+
+
+<br><br>
+<br>Primary Key (PK)
+
+<br>The exclusive identifier for a single Entry in a specific Table
+<br>Unique as identifier
+
+
+<br>Foreign Key (FK)
+
+<br>The otherwise PK may be used as needed in other Tables as reference to
+
+<br>The referenced Entry
+<br>In the source Table
+
+
+
+
+<br>(Table) Join
+
+<br>Relation between two Tables on a PK:FK pair
+
+<br>
+
+<img alt="Pasted image 20240905161542.png" src="lib\media\pasted-image-20240905161542.png">
+
+
+
+
+
+
+<br>Fields / Attributes must be atomic
+
+<br>No array storage allowed.
+
+
+<br>Data redundancy is to be avoided at all costs
+
+<br>To streamline the data structure
+<br>To avoid typing errors
+
+
+<br>Standard Language across different RDBMS
+
+<br>SQL
+
+<br>
+
+Selection<br>
+<img alt="Pasted image 20240905174337.png" src="lib\media\pasted-image-20240905174337.png" style="width: 700px; max-width: 100%;">
+
+
+<br>
+
+Projection<br>
+<img alt="Pasted image 20240905174541.png" src="lib\media\pasted-image-20240905174541.png" style="width: 500px; max-width: 100%;">
+
+
+<br>
+
+Join (Tables)<br>
+<img alt="Pasted image 20240905174724.png" src="lib\media\pasted-image-20240905174724.png">
+
+
+
+
+
+
+<br><br>
+<br>Databases can be accessed seamlessly through the World Wide Web
+
+<br>
+
+<img alt="Pasted image 20240905175216.png" src="lib\media\pasted-image-20240905175216.png" style="width: 500px; max-width: 100%;">
+
+
+
+
+<br>Clusters of different DBMS can be made available through middleware plus client software as single system
+
+<br>
+
+<img alt="Pasted image 20240905175343.png" src="lib\media\pasted-image-20240905175343.png" style="width: 600px; max-width: 100%;">
+
+
+
+
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\relational-databases.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Thu, 05 Sep 2024 16:54:12 GMT</pubDate><enclosure url="lib\media\pasted-image-20240905154759.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240905154759.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
