@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Workshop03]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Workshop03</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Sep 2024 19:57:42 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Sep 2024 19:57:38 GMT</pubDate><copyright><![CDATA[jmgcfdea]]></copyright><ttl>60</ttl><dc:creator>jmgcfdea</dc:creator><item><title><![CDATA[Introdução à Bioinformática]]></title><description><![CDATA[<a class="tag" href="?query=tag:undidadeCurricular" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#undidadeCurricular</a> <a class="tag" href="?query=tag:lbcm" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#lbcm</a> <a class="tag" href="?query=tag:jmgcfdea" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#jmgcfdea</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Workshop03]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Workshop03</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 08 Sep 2024 15:12:29 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 08 Sep 2024 15:12:28 GMT</pubDate><copyright><![CDATA[jmgcfdea]]></copyright><ttl>60</ttl><dc:creator>jmgcfdea</dc:creator><item><title><![CDATA[Introdução à Bioinformática]]></title><description><![CDATA[<a class="tag" href="?query=tag:undidadeCurricular" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#undidadeCurricular</a> <a class="tag" href="?query=tag:lbcm" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#lbcm</a> <a class="tag" href="?query=tag:jmgcfdea" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#jmgcfdea</a> 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md<br>
 Created: 2024-09-03 15:47<br>
 Updated: 2024-09-03 15:47<br>
-Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Introdução à Bioinformática</a><br>
+Source: <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0091" rel="noopener" class="external-link" href="http://edamontology.org/topic_0091" target="_blank">Introdução à Bioinformática</a><br>
 Subject:  Introdução à Bioinformática<br>
 Tags: <a href=".?query=tag:undidadeCurricular" class="tag" target="_blank" rel="noopener">#undidadeCurricular</a> <a href=".?query=tag:lbcm" class="tag" target="_blank" rel="noopener">#lbcm</a> <a href=".?query=tag:jmgcfdea" class="tag" target="_blank" rel="noopener">#jmgcfdea</a> <br>Ontology
-parent::[[]]
-<br>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\introdução-à-bioinformática.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:21:48 GMT</pubDate></item><item><title><![CDATA[Ontologies & Knowledge Representation]]></title><description><![CDATA[ 
+parent::<a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/topics/Bioinformatics" data-href="Workshop/EDAM__Nodes/topics/Bioinformatics" href="workshop\edam__nodes\topics\bioinformatics.html" class="internal-link" target="_self" rel="noopener">Bioinformatics</a>
+<br><br>EDAM::topic_0091<br>Definition
+The archival, curation, processing and analysis of complex biological data.<br>
+This includes data processing in general, including basic handling of files and databases, datatypes, workflows and annotation.<br>
+Source: EDAM
+<br><br>Bioinformatics in time
+
+<br>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\introdução-à-bioinformática.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 08 Sep 2024 15:11:14 GMT</pubDate></item><item><title><![CDATA[Ontologies & Knowledge Representation]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies &amp; Knowledge Representation.md<br>
 Created: 2024-09-05 10:18<br>
 Updated: 2024-09-05 10:18<br>
@@ -21,8 +27,7 @@ Kent Lofgren<br>
 
 
 
-<br><br><br><br><br>
-Fonte: [EDAM](http://edamontology.org)<br><br>
+<br><br><br><br><br><br>Fonte: <a data-tooltip-position="top" aria-label="https://edamontology.org" rel="noopener" class="external-link" href="https://edamontology.org" target="_blank">EDAM</a><br><br>
 <br><a data-tooltip-position="top" aria-label="https://data.lhncbc.nlm.nih.gov/public/mor/pubs/pdf/2022-springer_ch19-kwf.pdf" rel="noopener" class="external-link" href="https://data.lhncbc.nlm.nih.gov/public/mor/pubs/pdf/2022-springer_ch19-kwf.pdf" target="_blank">Knowledge Representation and Ontologies.pdf</a>
 
 <br>
@@ -32,6 +37,7 @@ Fonte: [EDAM](http://edamontology.org)<br><br>
 
 
 
+<br><br>
 <br><a data-tooltip-position="top" aria-label="https://courses.csail.mit.edu/6.803/pdf/davis.pdf" rel="noopener" class="external-link" href="https://courses.csail.mit.edu/6.803/pdf/davis.pdf" target="_blank">What Is a Knowledge Representation.pdf</a>
 
 <br>
@@ -41,7 +47,7 @@ Fonte: [EDAM](http://edamontology.org)<br><br>
 
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\ontologies-&amp;-knowledge-representation.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies &amp; Knowledge Representation.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Thu, 05 Sep 2024 18:51:18 GMT</pubDate></item><item><title><![CDATA[Programa]]></title><description><![CDATA[ 
+<br><br>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\ontologies-&amp;-knowledge-representation.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies &amp; Knowledge Representation.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sat, 07 Sep 2024 18:48:02 GMT</pubDate></item><item><title><![CDATA[Programa]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Programa.md<br>
 Created: 2024-09-02 14:55<br>
 Updated: 2024-09-02 14:55<br>
@@ -245,4 +251,4 @@ Join (Tables)<br>
 
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\relational-databases.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Thu, 05 Sep 2024 16:54:12 GMT</pubDate><enclosure url="lib\media\pasted-image-20240905154759.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240905154759.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\relational-databases.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Thu, 05 Sep 2024 16:54:12 GMT</pubDate><enclosure url="lib\media\pasted-image-20240905154759.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240905154759.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
