@@ -1,6 +1,6 @@
 {
   "vaultName": "Workshop03",
-  "lastExport": 1725808348806,
+  "lastExport": 1725873604298,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon check-color check-bg",
   "useCustomHeadContent": false,
@@ -51,14 +51,20 @@
     "Images/iBi_Course/Pasted image 20240905174724.png",
     "Images/iBi_Course/Pasted image 20240905175216.png",
     "Images/iBi_Course/Pasted image 20240905175343.png",
+    "Images/iBi_Course/Pasted image 20240909094830.png",
+    "Images/iBi_Course/Pasted image 20240909095817.png",
+    "Images/iBi_Course/Pasted image 20240909100650.png",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Knowledge Representation and Ontologies.pdf",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Protocolo_1.pdf",
+    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Protocolo_2.pdf",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/What Is a Knowledge Representation.pdf",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies & Knowledge Representation.md",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Programa.md",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md",
+    "lib/media/pasted-image-20240909094830.png",
+    "lib/media/pasted-image-20240909095817.png",
+    "lib/media/pasted-image-20240909100650.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -145,193 +151,193 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1725808348806,
-      "sourceSize": 53267,
+      "modifiedTime": 1725873604298,
+      "sourceSize": 55913,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 908,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 19750,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 711831,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 368,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 2836,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1725808348806,
+      "modifiedTime": 1725873604298,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -612,12 +618,6 @@
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/knowledge-representation-and-ontologies.pdf",
       "dependencies": []
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Protocolo_1.pdf": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 213394,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/protocolo_1.pdf",
-      "dependencies": []
-    },
     "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/What Is a Knowledge Representation.pdf": {
       "modifiedTime": 1725734448873,
       "sourceSize": 49,
@@ -625,8 +625,8 @@
       "dependencies": []
     },
     "Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md": {
-      "modifiedTime": 1725808348806,
-      "sourceSize": 1125,
+      "modifiedTime": 1725809428840,
+      "sourceSize": 1189,
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/introdução-à-bioinformática.html",
       "dependencies": []
     },
@@ -646,11 +646,14 @@
       "dependencies": []
     },
     "Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 623,
+      "modifiedTime": 1725873604298,
+      "sourceSize": 2088,
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/protocolo_1_registo_armazenamento_sequências.html",
       "dependencies": [
-        "lib/media/protocolo_2.pdf"
+        "lib/media/pasted-image-20240909094830.png",
+        "lib/media/pasted-image-20240909095817.png",
+        "lib/media/pasted-image-20240909100650.png",
+        "notes/bioinformatics/introdução-à-bioinformárica/materials/protocolo_2.pdf"
       ]
     },
     "Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md": {
@@ -774,6 +777,54 @@
       "modifiedTime": 1725735001351,
       "sourceSize": 49,
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/what-is-a-knowledge-representation.pdf",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240909094830.png": {
+      "modifiedTime": 1725873604298,
+      "sourceSize": 10740,
+      "exportedPath": "images/ibi_course/pasted-image-20240909094830.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240909095817.png": {
+      "modifiedTime": 1725873604298,
+      "sourceSize": 11388,
+      "exportedPath": "images/ibi_course/pasted-image-20240909095817.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240909100650.png": {
+      "modifiedTime": 1725873604298,
+      "sourceSize": 1875,
+      "exportedPath": "images/ibi_course/pasted-image-20240909100650.png",
+      "dependencies": []
+    },
+    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Protocolo_2.pdf": {
+      "modifiedTime": 1725873604298,
+      "sourceSize": 213394,
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/protocolo_2.pdf",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240909094830.png": {
+      "modifiedTime": 1725873604298,
+      "sourceSize": 10740,
+      "exportedPath": "lib/media/pasted-image-20240909094830.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240909095817.png": {
+      "modifiedTime": 1725873604298,
+      "sourceSize": 11388,
+      "exportedPath": "lib/media/pasted-image-20240909095817.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240909100650.png": {
+      "modifiedTime": 1725873604298,
+      "sourceSize": 1875,
+      "exportedPath": "lib/media/pasted-image-20240909100650.png",
+      "dependencies": []
+    },
+    "notes/bioinformatics/introdução-à-bioinformárica/materials/protocolo_2.pdf": {
+      "modifiedTime": 1725873604298,
+      "sourceSize": 213394,
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/protocolo_2.pdf",
       "dependencies": []
     }
   }

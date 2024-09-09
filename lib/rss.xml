@@ -1,4 +1,55 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Workshop03]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Workshop03</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 08 Sep 2024 15:12:29 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 08 Sep 2024 15:12:28 GMT</pubDate><copyright><![CDATA[jmgcfdea]]></copyright><ttl>60</ttl><dc:creator>jmgcfdea</dc:creator><item><title><![CDATA[Introdução à Bioinformática]]></title><description><![CDATA[<a class="tag" href="?query=tag:undidadeCurricular" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#undidadeCurricular</a> <a class="tag" href="?query=tag:lbcm" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#lbcm</a> <a class="tag" href="?query=tag:jmgcfdea" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#jmgcfdea</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Workshop03]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Workshop03</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 09 Sep 2024 09:20:05 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 09 Sep 2024 09:20:04 GMT</pubDate><copyright><![CDATA[jmgcfdea]]></copyright><ttl>60</ttl><dc:creator>jmgcfdea</dc:creator><item><title><![CDATA[Protocolo_1_Registo_Armazenamento_Sequências]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md<br>
+Created: 2024-09-05 18:02<br>
+Updated: 2024-09-05 18:02<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Protocolo_1_Registo_Armazenamento_Sequências</a><br>
+Subject:  Protocolo_1_Registo_Armazenamento_Sequências<br>
+Tags:<br>Ontology
+parent::<a data-href="Programa" href="notes\bioinformatics\introdução-à-bioinformárica\programa.html" class="internal-link" target="_self" rel="noopener">Programa</a>
+<br><br><br>
+<br>NotePad++
+
+<br><img alt="Pasted image 20240909094830.png" src="lib\media\pasted-image-20240909094830.png" style="width: 100px; max-width: 100%;">
+<br>
+Description
+"Based on the powerful editing component Scintilla, Notepad++ is written in C++ and uses pure Win32 API and STL which ensures a higher execution speed and smaller program size."
+
+
+<br><a data-tooltip-position="top" aria-label="https://notepad-plus-plus.org/" rel="noopener" class="external-link" href="https://notepad-plus-plus.org/" target="_blank">Main Site</a>
+<br><a data-tooltip-position="top" aria-label="https://portableapps.com/apps/development/notepadpp_portable" rel="noopener" class="external-link" href="https://portableapps.com/apps/development/notepadpp_portable" target="_blank">PortableApps</a>
+
+<br>"Runs anywhere (cloud, removable, local) without 'installing'. Use the PortableApps.com Platform for easy installs and automatic updates."
+
+
+
+
+<br>SQLiteMan
+
+<br><img alt="Pasted image 20240909095817.png" src="lib\media\pasted-image-20240909095817.png" style="width: 50px; max-width: 100%;">
+<br><a data-tooltip-position="top" aria-label="https://sourceforge.net/projects/sqliteman/files/sqliteman/1.2.2/" rel="noopener" class="external-link" href="https://sourceforge.net/projects/sqliteman/files/sqliteman/1.2.2/" target="_blank">SourceForge</a>
+<br><a data-tooltip-position="top" aria-label="https://portableapps.com/apps/development/sqliteman-portable" rel="noopener" class="external-link" href="https://portableapps.com/apps/development/sqliteman-portable" target="_blank">PortableApps</a>
+
+
+<br>SQLiteBrowser (advanced manager)
+
+<br><img alt="Pasted image 20240909100650.png" src="lib\media\pasted-image-20240909100650.png">
+<br>
+Description
+"DB Browser for SQLite (DB4S) is a high quality, visual, open source tool designed for people who want to create, search, and edit SQLite database files. DB4S gives a familiar spreadsheet-like interface on the database in addition to providing a full SQL query facility. It works with Windows, macOS, and most versions of Linux and Unix."
+
+
+<br><a data-tooltip-position="top" aria-label="https://sqlitebrowser.org/dl/" rel="noopener" class="external-link" href="https://sqlitebrowser.org/dl/" target="_blank">Main Site</a>
+
+<br>
+Note
+As usual, Windows systems are advised to go for the <a data-tooltip-position="top" aria-label="https://download.sqlitebrowser.org/SQLiteDatabaseBrowserPortable_3.12.2_English.paf.exe" rel="noopener" class="external-link" href="https://download.sqlitebrowser.org/SQLiteDatabaseBrowserPortable_3.12.2_English.paf.exe" target="_blank">portable version</a>.
+
+
+
+
+
+
+<br><br><br><a data-tooltip-position="top" aria-label="Protocolo_2.pdf" data-href="Protocolo_2.pdf" href="notes\bioinformatics\introdução-à-bioinformárica\materials\protocolo_2.pdf" class="internal-link" target="_self" rel="noopener">Protocol</a>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\protocolo_1_registo_armazenamento_sequências.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 09 Sep 2024 09:18:03 GMT</pubDate><enclosure url="lib\media\pasted-image-20240909094830.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240909094830.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Introdução à Bioinformática]]></title><description><![CDATA[<a class="tag" href="?query=tag:undidadeCurricular" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#undidadeCurricular</a> <a class="tag" href="?query=tag:lbcm" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#lbcm</a> <a class="tag" href="?query=tag:jmgcfdea" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#jmgcfdea</a> 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md<br>
 Created: 2024-09-03 15:47<br>
 Updated: 2024-09-03 15:47<br>
@@ -12,7 +63,8 @@ This includes data processing in general, including basic handling of files and 
 Source: EDAM
 <br><br>Bioinformatics in time
 
-<br>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\introdução-à-bioinformática.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 08 Sep 2024 15:11:14 GMT</pubDate></item><item><title><![CDATA[Ontologies & Knowledge Representation]]></title><description><![CDATA[ 
+Source: <a data-tooltip-position="top" aria-label="https://doi.org/10.1093/bib/bby063" rel="noopener" class="external-link" href="https://doi.org/10.1093/bib/bby063" target="_blank">Briefings in Bioinformatics</a>
+<br>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\introdução-à-bioinformática.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 08 Sep 2024 15:29:11 GMT</pubDate></item><item><title><![CDATA[Ontologies & Knowledge Representation]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies &amp; Knowledge Representation.md<br>
 Created: 2024-09-05 10:18<br>
 Updated: 2024-09-05 10:18<br>
@@ -69,15 +121,7 @@ Lecture 1: <a data-href="Biological Sequences" href="Biological Sequences" class
 <br>
 Lecture 2: 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\programa.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Programa.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Thu, 05 Sep 2024 19:04:40 GMT</pubDate></item><item><title><![CDATA[Protocolo_1_Registo_Armazenamento_Sequências]]></title><description><![CDATA[ 
- <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md<br>
-Created: 2024-09-05 18:02<br>
-Updated: 2024-09-05 18:02<br>
-Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Protocolo_1_Registo_Armazenamento_Sequências</a><br>
-Subject:  Protocolo_1_Registo_Armazenamento_Sequências<br>
-Tags:<br>Ontology
-parent::<a data-href="Programa" href="notes\bioinformatics\introdução-à-bioinformárica\programa.html" class="internal-link" target="_self" rel="noopener">Programa</a>
-<br><br>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\protocolo_1_registo_armazenamento_sequências.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Thu, 05 Sep 2024 18:57:48 GMT</pubDate></item><item><title><![CDATA[Relational Databases]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\programa.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Programa.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Thu, 05 Sep 2024 19:04:40 GMT</pubDate></item><item><title><![CDATA[Relational Databases]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md<br>
 Created: 2024-09-05 14:52<br>
 Updated: 2024-09-05 14:52<br>
