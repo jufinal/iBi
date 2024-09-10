@@ -1,6 +1,6 @@
 {
   "vaultName": "Workshop03",
-  "lastExport": 1725873604298,
+  "lastExport": 1725990573363,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon check-color check-bg",
   "useCustomHeadContent": false,
@@ -57,14 +57,59 @@
     "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Knowledge Representation and Ontologies.pdf",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Protocolo_2.pdf",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/What Is a Knowledge Representation.pdf",
+    "Notes/Bioinformatics/Introdução à Bioinformárica/Biological Sequences.md",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies & Knowledge Representation.md",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Programa.md",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md",
     "Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md",
+    "lib/media/pasted-image-20240904150308.png",
+    "lib/media/pasted-image-20240904150202.png",
+    "lib/media/pasted-image-20240904152337.png",
+    "lib/media/pasted-image-20240904152412.png",
+    "lib/media/pasted-image-20240904165644.png",
+    "lib/media/pasted-image-20240904165926.png",
+    "lib/media/pasted-image-20240904173216.png",
+    "lib/media/pasted-image-20240904174533.png",
+    "lib/media/pasted-image-20240904181118.png",
+    "lib/media/pasted-image-20240904190452.png",
+    "lib/media/pasted-image-20240904190932.png",
+    "lib/media/pasted-image-20240904191010.png",
+    "lib/media/pasted-image-20240904191310.png",
+    "lib/media/pasted-image-20240904192404.png",
+    "lib/media/pasted-image-20240904192603.png",
+    "lib/media/pasted-image-20240904192747.png",
+    "lib/media/pasted-image-20240904192846.png",
+    "lib/media/pasted-image-20240904193017.png",
+    "lib/media/pasted-image-20240904193643.png",
+    "lib/media/pasted-image-20240904193729.png",
+    "lib/media/pasted-image-20240904201541.png",
+    "lib/media/pasted-image-20240904201634.png",
+    "lib/media/pasted-image-20240904200143.png",
+    "lib/media/pasted-image-20240904200217.png",
+    "lib/media/pasted-image-20240904200308.png",
+    "lib/media/pasted-image-20240904200816.png",
+    "lib/media/pasted-image-20240904201401.png",
+    "lib/media/pasted-image-20240905120939.png",
+    "lib/media/pasted-image-20240905123253.png",
+    "lib/media/pasted-image-20240905123658.png",
     "lib/media/pasted-image-20240909094830.png",
     "lib/media/pasted-image-20240909095817.png",
     "lib/media/pasted-image-20240909100650.png",
+    "lib/media/pasted-image-20240905154759.png",
+    "lib/media/pasted-image-20240905154833.png",
+    "lib/media/pasted-image-20240905154142.png",
+    "lib/media/pasted-image-20240905154253.png",
+    "lib/media/pasted-image-20240905162035.png",
+    "lib/media/pasted-image-20240905162318.png",
+    "lib/media/pasted-image-20240905173548.png",
+    "lib/media/pasted-image-20240905174043.png",
+    "lib/media/pasted-image-20240905161542.png",
+    "lib/media/pasted-image-20240905174337.png",
+    "lib/media/pasted-image-20240905174541.png",
+    "lib/media/pasted-image-20240905174724.png",
+    "lib/media/pasted-image-20240905175216.png",
+    "lib/media/pasted-image-20240905175343.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -96,24 +141,7 @@
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css",
-    "notes/bioinformatics/introdução-à-bioinformárica/materials/knowledge-representation-and-ontologies.pdf",
-    "notes/bioinformatics/introdução-à-bioinformárica/materials/what-is-a-knowledge-representation.pdf",
-    "lib/media/protocolo_2.pdf",
-    "lib/media/pasted-image-20240905154759.png",
-    "lib/media/pasted-image-20240905154833.png",
-    "lib/media/pasted-image-20240905154142.png",
-    "lib/media/pasted-image-20240905154253.png",
-    "lib/media/pasted-image-20240905162035.png",
-    "lib/media/pasted-image-20240905162318.png",
-    "lib/media/pasted-image-20240905173548.png",
-    "lib/media/pasted-image-20240905174043.png",
-    "lib/media/pasted-image-20240905161542.png",
-    "lib/media/pasted-image-20240905174337.png",
-    "lib/media/pasted-image-20240905174541.png",
-    "lib/media/pasted-image-20240905174724.png",
-    "lib/media/pasted-image-20240905175216.png",
-    "lib/media/pasted-image-20240905175343.png"
+    "lib/styles/main-styles.css"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -150,488 +178,357 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
-      "dependencies": []
-    },
-    "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 66800,
-      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
-      "dependencies": []
-    },
-    "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 104232,
-      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 104332,
-      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 98868,
-      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 106876,
-      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 105804,
-      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 106108,
-      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 111708,
-      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 192740,
-      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 161376,
-      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 191568,
-      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 155288,
-      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 7876,
-      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-      "dependencies": []
-    },
-    "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 317,
-      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
-      "dependencies": []
-    },
-    "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 279,
-      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
-      "dependencies": []
-    },
-    "lib/html/file-tree.html": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 55913,
-      "exportedPath": "lib/html/file-tree.html",
-      "dependencies": []
-    },
-    "lib/scripts/webpage.js": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 47290,
-      "exportedPath": "lib/scripts/webpage.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-view.js": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 15519,
-      "exportedPath": "lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 14021,
-      "exportedPath": "lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 5179,
-      "exportedPath": "lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 29832,
-      "exportedPath": "lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "lib/scripts/pixi.js": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 449509,
-      "exportedPath": "lib/scripts/pixi.js",
-      "dependencies": []
-    },
-    "lib/scripts/minisearch.js": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 29422,
-      "exportedPath": "lib/scripts/minisearch.js",
-      "dependencies": []
-    },
-    "lib/media/favicon.png": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 1105,
-      "exportedPath": "lib/media/favicon.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 908,
-      "exportedPath": "lib/scripts/graph-data.js",
-      "dependencies": []
-    },
-    "lib/styles/obsidian.css": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 130471,
-      "exportedPath": "lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "lib/styles/other-plugins.css": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 19750,
-      "exportedPath": "lib/styles/other-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/theme.css": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 711831,
-      "exportedPath": "lib/styles/theme.css",
-      "dependencies": []
-    },
-    "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 368,
-      "exportedPath": "lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 2836,
-      "exportedPath": "lib/styles/supported-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/main-styles.css": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 23130,
-      "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
     "Images/iBi_Course/Pasted image 20240904150202.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 68947,
       "exportedPath": "images/ibi_course/pasted-image-20240904150202.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904150308.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 187559,
       "exportedPath": "images/ibi_course/pasted-image-20240904150308.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904152337.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 57386,
       "exportedPath": "images/ibi_course/pasted-image-20240904152337.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904152412.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 249728,
       "exportedPath": "images/ibi_course/pasted-image-20240904152412.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904165644.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 68158,
       "exportedPath": "images/ibi_course/pasted-image-20240904165644.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904165926.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 2120952,
       "exportedPath": "images/ibi_course/pasted-image-20240904165926.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904173216.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 43215,
       "exportedPath": "images/ibi_course/pasted-image-20240904173216.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904174533.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 83830,
       "exportedPath": "images/ibi_course/pasted-image-20240904174533.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904181118.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 79304,
       "exportedPath": "images/ibi_course/pasted-image-20240904181118.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904190452.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 91097,
       "exportedPath": "images/ibi_course/pasted-image-20240904190452.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904190932.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 121446,
       "exportedPath": "images/ibi_course/pasted-image-20240904190932.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904191010.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 99152,
       "exportedPath": "images/ibi_course/pasted-image-20240904191010.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904191310.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 136663,
       "exportedPath": "images/ibi_course/pasted-image-20240904191310.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904192404.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 705084,
       "exportedPath": "images/ibi_course/pasted-image-20240904192404.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904192603.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 99114,
       "exportedPath": "images/ibi_course/pasted-image-20240904192603.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904192747.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 30778,
       "exportedPath": "images/ibi_course/pasted-image-20240904192747.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904192846.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 147628,
       "exportedPath": "images/ibi_course/pasted-image-20240904192846.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904193017.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 107805,
       "exportedPath": "images/ibi_course/pasted-image-20240904193017.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904193643.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 225195,
       "exportedPath": "images/ibi_course/pasted-image-20240904193643.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904193729.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 93024,
       "exportedPath": "images/ibi_course/pasted-image-20240904193729.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904200143.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 117983,
       "exportedPath": "images/ibi_course/pasted-image-20240904200143.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904200217.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 73264,
       "exportedPath": "images/ibi_course/pasted-image-20240904200217.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904200308.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 91316,
       "exportedPath": "images/ibi_course/pasted-image-20240904200308.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904200816.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 392023,
       "exportedPath": "images/ibi_course/pasted-image-20240904200816.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904201401.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 111568,
       "exportedPath": "images/ibi_course/pasted-image-20240904201401.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904201541.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 47687,
       "exportedPath": "images/ibi_course/pasted-image-20240904201541.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904201634.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 77389,
       "exportedPath": "images/ibi_course/pasted-image-20240904201634.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905120939.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 1332609,
       "exportedPath": "images/ibi_course/pasted-image-20240905120939.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905123253.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 565105,
       "exportedPath": "images/ibi_course/pasted-image-20240905123253.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905123658.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 182886,
       "exportedPath": "images/ibi_course/pasted-image-20240905123658.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905154142.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 299302,
       "exportedPath": "images/ibi_course/pasted-image-20240905154142.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905154242.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 44685,
       "exportedPath": "images/ibi_course/pasted-image-20240905154242.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905154253.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 44685,
       "exportedPath": "images/ibi_course/pasted-image-20240905154253.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905154759.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 332768,
       "exportedPath": "images/ibi_course/pasted-image-20240905154759.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905154833.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 14694,
       "exportedPath": "images/ibi_course/pasted-image-20240905154833.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905161542.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 82258,
       "exportedPath": "images/ibi_course/pasted-image-20240905161542.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905162035.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 466064,
       "exportedPath": "images/ibi_course/pasted-image-20240905162035.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905162318.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 1932622,
       "exportedPath": "images/ibi_course/pasted-image-20240905162318.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905173548.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 150714,
       "exportedPath": "images/ibi_course/pasted-image-20240905173548.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905174043.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 54845,
       "exportedPath": "images/ibi_course/pasted-image-20240905174043.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905174337.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 120935,
       "exportedPath": "images/ibi_course/pasted-image-20240905174337.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905174541.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 111705,
       "exportedPath": "images/ibi_course/pasted-image-20240905174541.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905174724.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 177427,
       "exportedPath": "images/ibi_course/pasted-image-20240905174724.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905175216.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 182191,
       "exportedPath": "images/ibi_course/pasted-image-20240905175216.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905175343.png": {
-      "modifiedTime": 1725730887210,
+      "modifiedTime": 1725990573363,
       "sourceSize": 162360,
       "exportedPath": "images/ibi_course/pasted-image-20240905175343.png",
       "dependencies": []
     },
+    "Images/iBi_Course/Pasted image 20240909094830.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 10740,
+      "exportedPath": "images/ibi_course/pasted-image-20240909094830.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240909095817.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 11388,
+      "exportedPath": "images/ibi_course/pasted-image-20240909095817.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240909100650.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 1875,
+      "exportedPath": "images/ibi_course/pasted-image-20240909100650.png",
+      "dependencies": []
+    },
     "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Knowledge Representation and Ontologies.pdf": {
-      "modifiedTime": 1725734448873,
+      "modifiedTime": 1725990573363,
       "sourceSize": 78,
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/knowledge-representation-and-ontologies.pdf",
       "dependencies": []
     },
+    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Protocolo_2.pdf": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 213394,
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/protocolo_2.pdf",
+      "dependencies": []
+    },
     "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/What Is a Knowledge Representation.pdf": {
-      "modifiedTime": 1725734448873,
+      "modifiedTime": 1725990573363,
       "sourceSize": 49,
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/what-is-a-knowledge-representation.pdf",
       "dependencies": []
     },
+    "Notes/Bioinformatics/Introdução à Bioinformárica/Biological Sequences.md": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 9004,
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/biological-sequences.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240904150308.png",
+        "lib/media/pasted-image-20240904150202.png",
+        "lib/media/pasted-image-20240904152337.png",
+        "lib/media/pasted-image-20240904152412.png",
+        "lib/media/pasted-image-20240904165644.png",
+        "lib/media/pasted-image-20240904165926.png",
+        "lib/media/pasted-image-20240904173216.png",
+        "lib/media/pasted-image-20240904174533.png",
+        "lib/media/pasted-image-20240904181118.png",
+        "lib/media/pasted-image-20240904190452.png",
+        "lib/media/pasted-image-20240904190932.png",
+        "lib/media/pasted-image-20240904191010.png",
+        "lib/media/pasted-image-20240904191310.png",
+        "lib/media/pasted-image-20240904192404.png",
+        "lib/media/pasted-image-20240904192603.png",
+        "lib/media/pasted-image-20240904192747.png",
+        "lib/media/pasted-image-20240904192846.png",
+        "lib/media/pasted-image-20240904193017.png",
+        "lib/media/pasted-image-20240904193643.png",
+        "lib/media/pasted-image-20240904193729.png",
+        "lib/media/pasted-image-20240904201541.png",
+        "lib/media/pasted-image-20240904201634.png",
+        "lib/media/pasted-image-20240904200143.png",
+        "lib/media/pasted-image-20240904200217.png",
+        "lib/media/pasted-image-20240904200308.png",
+        "lib/media/pasted-image-20240904200816.png",
+        "lib/media/pasted-image-20240904201401.png",
+        "lib/media/pasted-image-20240905120939.png",
+        "lib/media/pasted-image-20240905123253.png",
+        "lib/media/pasted-image-20240905123658.png"
+      ]
+    },
     "Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md": {
-      "modifiedTime": 1725809428840,
+      "modifiedTime": 1725990573363,
       "sourceSize": 1189,
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/introdução-à-bioinformática.html",
       "dependencies": []
     },
     "Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies & Knowledge Representation.md": {
-      "modifiedTime": 1725735001351,
+      "modifiedTime": 1725990573363,
       "sourceSize": 2434,
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/ontologies-&-knowledge-representation.html",
       "dependencies": [
@@ -640,13 +537,13 @@
       ]
     },
     "Notes/Bioinformatics/Introdução à Bioinformárica/Programa.md": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 846,
+      "modifiedTime": 1725990573363,
+      "sourceSize": 821,
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/programa.html",
       "dependencies": []
     },
     "Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md": {
-      "modifiedTime": 1725873604298,
+      "modifiedTime": 1725990573363,
       "sourceSize": 2088,
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/protocolo_1_registo_armazenamento_sequências.html",
       "dependencies": [
@@ -657,7 +554,7 @@
       ]
     },
     "Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md": {
-      "modifiedTime": 1725734448873,
+      "modifiedTime": 1725990573363,
       "sourceSize": 2878,
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/relational-databases.html",
       "dependencies": [
@@ -677,154 +574,496 @@
         "lib/media/pasted-image-20240905175343.png"
       ]
     },
+    "lib/media/pasted-image-20240904150308.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 187559,
+      "exportedPath": "lib/media/pasted-image-20240904150308.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904150202.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 68947,
+      "exportedPath": "lib/media/pasted-image-20240904150202.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904152337.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 57386,
+      "exportedPath": "lib/media/pasted-image-20240904152337.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904152412.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 249728,
+      "exportedPath": "lib/media/pasted-image-20240904152412.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904165644.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 68158,
+      "exportedPath": "lib/media/pasted-image-20240904165644.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904165926.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 2120952,
+      "exportedPath": "lib/media/pasted-image-20240904165926.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904173216.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 43215,
+      "exportedPath": "lib/media/pasted-image-20240904173216.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904174533.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 83830,
+      "exportedPath": "lib/media/pasted-image-20240904174533.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904181118.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 79304,
+      "exportedPath": "lib/media/pasted-image-20240904181118.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904190452.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 91097,
+      "exportedPath": "lib/media/pasted-image-20240904190452.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904190932.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 121446,
+      "exportedPath": "lib/media/pasted-image-20240904190932.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904191010.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 99152,
+      "exportedPath": "lib/media/pasted-image-20240904191010.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904191310.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 136663,
+      "exportedPath": "lib/media/pasted-image-20240904191310.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904192404.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 705084,
+      "exportedPath": "lib/media/pasted-image-20240904192404.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904192603.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 99114,
+      "exportedPath": "lib/media/pasted-image-20240904192603.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904192747.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 30778,
+      "exportedPath": "lib/media/pasted-image-20240904192747.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904192846.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 147628,
+      "exportedPath": "lib/media/pasted-image-20240904192846.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904193017.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 107805,
+      "exportedPath": "lib/media/pasted-image-20240904193017.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904193643.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 225195,
+      "exportedPath": "lib/media/pasted-image-20240904193643.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904193729.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 93024,
+      "exportedPath": "lib/media/pasted-image-20240904193729.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904201541.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 47687,
+      "exportedPath": "lib/media/pasted-image-20240904201541.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904201634.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 77389,
+      "exportedPath": "lib/media/pasted-image-20240904201634.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904200143.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 117983,
+      "exportedPath": "lib/media/pasted-image-20240904200143.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904200217.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 73264,
+      "exportedPath": "lib/media/pasted-image-20240904200217.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904200308.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 91316,
+      "exportedPath": "lib/media/pasted-image-20240904200308.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904200816.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 392023,
+      "exportedPath": "lib/media/pasted-image-20240904200816.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240904201401.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 111568,
+      "exportedPath": "lib/media/pasted-image-20240904201401.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905120939.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 1332609,
+      "exportedPath": "lib/media/pasted-image-20240905120939.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905123253.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 565105,
+      "exportedPath": "lib/media/pasted-image-20240905123253.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905123658.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 182886,
+      "exportedPath": "lib/media/pasted-image-20240905123658.png",
+      "dependencies": []
+    },
     "notes/bioinformatics/introdução-à-bioinformárica/materials/knowledge-representation-and-ontologies.pdf": {
-      "modifiedTime": 1725735001351,
+      "modifiedTime": 1725990573363,
       "sourceSize": 78,
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/knowledge-representation-and-ontologies.pdf",
       "dependencies": []
     },
-    "lib/media/protocolo_2.pdf": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 213394,
-      "exportedPath": "lib/media/protocolo_2.pdf",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905154759.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 332768,
-      "exportedPath": "lib/media/pasted-image-20240905154759.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905154833.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 14694,
-      "exportedPath": "lib/media/pasted-image-20240905154833.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905154142.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 299302,
-      "exportedPath": "lib/media/pasted-image-20240905154142.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905154253.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 44685,
-      "exportedPath": "lib/media/pasted-image-20240905154253.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905162035.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 466064,
-      "exportedPath": "lib/media/pasted-image-20240905162035.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905162318.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 1932622,
-      "exportedPath": "lib/media/pasted-image-20240905162318.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905173548.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 150714,
-      "exportedPath": "lib/media/pasted-image-20240905173548.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905174043.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 54845,
-      "exportedPath": "lib/media/pasted-image-20240905174043.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905161542.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 82258,
-      "exportedPath": "lib/media/pasted-image-20240905161542.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905174337.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 120935,
-      "exportedPath": "lib/media/pasted-image-20240905174337.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905174541.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 111705,
-      "exportedPath": "lib/media/pasted-image-20240905174541.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905174724.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 177427,
-      "exportedPath": "lib/media/pasted-image-20240905174724.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905175216.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 182191,
-      "exportedPath": "lib/media/pasted-image-20240905175216.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240905175343.png": {
-      "modifiedTime": 1725734448873,
-      "sourceSize": 162360,
-      "exportedPath": "lib/media/pasted-image-20240905175343.png",
-      "dependencies": []
-    },
     "notes/bioinformatics/introdução-à-bioinformárica/materials/what-is-a-knowledge-representation.pdf": {
-      "modifiedTime": 1725735001351,
+      "modifiedTime": 1725990573363,
       "sourceSize": 49,
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/what-is-a-knowledge-representation.pdf",
       "dependencies": []
     },
-    "Images/iBi_Course/Pasted image 20240909094830.png": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 10740,
-      "exportedPath": "images/ibi_course/pasted-image-20240909094830.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240909095817.png": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 11388,
-      "exportedPath": "images/ibi_course/pasted-image-20240909095817.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240909100650.png": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 1875,
-      "exportedPath": "images/ibi_course/pasted-image-20240909100650.png",
-      "dependencies": []
-    },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Protocolo_2.pdf": {
-      "modifiedTime": 1725873604298,
-      "sourceSize": 213394,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/protocolo_2.pdf",
-      "dependencies": []
-    },
     "lib/media/pasted-image-20240909094830.png": {
-      "modifiedTime": 1725873604298,
+      "modifiedTime": 1725990573363,
       "sourceSize": 10740,
       "exportedPath": "lib/media/pasted-image-20240909094830.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240909095817.png": {
-      "modifiedTime": 1725873604298,
+      "modifiedTime": 1725990573363,
       "sourceSize": 11388,
       "exportedPath": "lib/media/pasted-image-20240909095817.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240909100650.png": {
-      "modifiedTime": 1725873604298,
+      "modifiedTime": 1725990573363,
       "sourceSize": 1875,
       "exportedPath": "lib/media/pasted-image-20240909100650.png",
       "dependencies": []
     },
     "notes/bioinformatics/introdução-à-bioinformárica/materials/protocolo_2.pdf": {
-      "modifiedTime": 1725873604298,
+      "modifiedTime": 1725990573363,
       "sourceSize": 213394,
       "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/protocolo_2.pdf",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905154759.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 332768,
+      "exportedPath": "lib/media/pasted-image-20240905154759.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905154833.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 14694,
+      "exportedPath": "lib/media/pasted-image-20240905154833.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905154142.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 299302,
+      "exportedPath": "lib/media/pasted-image-20240905154142.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905154253.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 44685,
+      "exportedPath": "lib/media/pasted-image-20240905154253.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905162035.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 466064,
+      "exportedPath": "lib/media/pasted-image-20240905162035.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905162318.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 1932622,
+      "exportedPath": "lib/media/pasted-image-20240905162318.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905173548.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 150714,
+      "exportedPath": "lib/media/pasted-image-20240905173548.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905174043.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 54845,
+      "exportedPath": "lib/media/pasted-image-20240905174043.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905161542.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 82258,
+      "exportedPath": "lib/media/pasted-image-20240905161542.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905174337.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 120935,
+      "exportedPath": "lib/media/pasted-image-20240905174337.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905174541.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 111705,
+      "exportedPath": "lib/media/pasted-image-20240905174541.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905174724.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 177427,
+      "exportedPath": "lib/media/pasted-image-20240905174724.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905175216.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 182191,
+      "exportedPath": "lib/media/pasted-image-20240905175216.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240905175343.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 162360,
+      "exportedPath": "lib/media/pasted-image-20240905175343.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 56676,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 1038,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 19750,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 711831,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 368,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 2836,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1725990573363,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     }
   }
