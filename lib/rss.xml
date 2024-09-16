@@ -1,110 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Workshop03]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Workshop03</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 10 Sep 2024 17:49:38 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 10 Sep 2024 17:49:33 GMT</pubDate><copyright><![CDATA[jmgcfdea]]></copyright><ttl>60</ttl><dc:creator>jmgcfdea</dc:creator><item><title><![CDATA[Biological Sequences]]></title><description><![CDATA[ 
- <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Biological Sequences.md<br>
-Created: 2024-09-03 15:51<br>
-Updated: 2024-09-03 15:51<br>
-Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Biological Sequences</a><br>
-Subject:  Biological Sequences<br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Workshop03]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Workshop03</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 16 Sep 2024 12:08:27 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 16 Sep 2024 12:08:22 GMT</pubDate><copyright><![CDATA[jmgcfdea]]></copyright><ttl>60</ttl><dc:creator>jmgcfdea</dc:creator><item><title><![CDATA[Algorithms for Bioinformatics]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Algorithms for Bioinformatics.md<br>
+Created: 2024-09-13 15:10<br>
+Updated: 2024-09-13 15:10<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Algorithms for Bioinformatics</a><br>
+Subject:  Algorithms for Bioinformatics<br>
 Tags:<br>Ontology
-parent::<a data-href="Programa" href="notes\bioinformatics\introdução-à-bioinformárica\programa.html" class="internal-link" target="_self" rel="noopener">Programa</a> <a data-href="Sequence" href="workshop\edam__nodes\data\sequence.html" class="internal-link" target="_self" rel="noopener">Sequence</a> <a data-href="Nucleic acids" href="workshop\edam__nodes\topics\nucleic-acids.html" class="internal-link" target="_self" rel="noopener">Nucleic acids</a> <a data-href="Proteins" href="workshop\edam__nodes\topics\proteins.html" class="internal-link" target="_self" rel="noopener">Proteins</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/topics/RNA" data-href="Workshop/EDAM__Nodes/topics/RNA" href="workshop\edam__nodes\topics\rna.html" class="internal-link" target="_self" rel="noopener">RNA</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/topics/DNA" data-href="Workshop/EDAM__Nodes/topics/DNA" href="workshop\edam__nodes\topics\dna.html" class="internal-link" target="_self" rel="noopener">DNA</a> <a data-href="Format" href="workshop\edam__nodes\formats\format.html" class="internal-link" target="_self" rel="noopener">Format</a> <a data-href="Sequence annotation" href="workshop\edam__nodes\operations\sequence-annotation.html" class="internal-link" target="_self" rel="noopener">Sequence annotation</a> <a data-href="Sequencing" href="workshop\edam__nodes\topics\sequencing.html" class="internal-link" target="_self" rel="noopener">Sequencing</a> <a data-href="Scaffolding" href="workshop\edam__nodes\operations\scaffolding.html" class="internal-link" target="_self" rel="noopener">Scaffolding</a>
-<br><br><a data-tooltip-position="top" aria-label="http://edamontology.org/data_2044" rel="noopener" class="external-link" href="http://edamontology.org/data_2044" target="_blank">EDAM::data_2044</a><br><br>Definition
-“Polymers are very large molecules made of repeating patterns of small molecules, called monomers.  Many polymers are made by repeating the same small molecule over and over again.  Others are made from two monomers linked in a pattern.”<br>
-<a data-tooltip-position="top" aria-label="http://chemistry.need.org/curriculum/polymers" rel="noopener" class="external-link" href="http://chemistry.need.org/curriculum/polymers" target="_blank">Source</a>
-&nbsp;  
+parent::<a data-href="Programa" href="notes\bioinformatics\introdução-à-bioinformárica\programa.html" class="internal-link" target="_self" rel="noopener">Programa</a> <a data-href="Biological Sequences" href="notes\bioinformatics\introdução-à-bioinformárica\biological-sequences.html" class="internal-link" target="_self" rel="noopener">Biological Sequences</a> <a data-href="molecular mass" href="workshop\edam__nodes\data\molecular-mass.html" class="internal-link" target="_self" rel="noopener">molecular mass</a> <a data-href="Nucleic acid melting temperature" href="workshop\edam__nodes\data\nucleic-acid-melting-temperature.html" class="internal-link" target="_self" rel="noopener">Nucleic acid melting temperature</a> <a data-href="CpG island and isochore detection" href="workshop\edam__nodes\operations\cpg-island-and-isochore-detection.html" class="internal-link" target="_self" rel="noopener">CpG island and isochore detection</a> <a data-href="k-mer counting" href="workshop\edam__nodes\data\k-mer-counting.html" class="internal-link" target="_self" rel="noopener">k-mer counting</a> <a data-href="Regular expression" href="workshop\edam__nodes\data\regular-expression.html" class="internal-link" target="_self" rel="noopener">Regular expression</a> <a data-href="Hidden Markov model" href="workshop\edam__nodes\data\hidden-markov-model.html" class="internal-link" target="_self" rel="noopener">Hidden Markov model</a> <a data-href="Position-specific scoring matrix" href="workshop\edam__nodes\data\position-specific-scoring-matrix.html" class="internal-link" target="_self" rel="noopener">Position-specific scoring matrix</a> <a data-href="Genetic engineering" href="workshop\edam__nodes\topics\genetic-engineering.html" class="internal-link" target="_self" rel="noopener">Genetic engineering</a> <a data-href="Quality control report" href="workshop\edam__nodes\quality-control-report.html" class="internal-link" target="_self" rel="noopener">Quality control report</a> <a data-href="Probes and primers" href="workshop\edam__nodes\topics\probes-and-primers.html" class="internal-link" target="_self" rel="noopener">Probes and primers</a> <a data-href="PCR primer design" href="workshop\edam__nodes\operations\pcr-primer-design.html" class="internal-link" target="_self" rel="noopener">PCR primer design</a>
+<br><br><br>Definition
+An algorithm is a specific set of instructions for carrying out a procedure or solving a problem, usually with the requirement that the procedure terminate at some point. Specific algorithms sometimes also go by the name method, procedure, or technique. The word "algorithm" is a distortion of al-Khwārizmī, a Persian mathematician who wrote an influential treatise about algebraic methods.
+  <img alt="Pasted image 20240913151759.png" src="lib\media\pasted-image-20240913151759.png" style="width: 600px; max-width: 100%;"> 
+Source: <a data-tooltip-position="top" aria-label="https://mathworld.wolfram.com/Algorithm.html#:~:text=An%20algorithm%20is%20a%20specific%20set" rel="noopener" class="external-link" href="https://mathworld.wolfram.com/Algorithm.html#:~:text=An%20algorithm%20is%20a%20specific%20set" target="_blank">Wolfram MathWorld</a>
+<br><br><br>
+<br>The occurrence of a feature is counted (or  measured) along the sequence from end to end.
 
-&nbsp;  <img alt="Pasted image 20240904150308.png" src="lib\media\pasted-image-20240904150308.png" style="width: 400px; max-width: 100%;">
-
-<br><br>
-<br>Sugars, e.g cellulose
-<br>Amino-acids, e.g. <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0078" rel="noopener" class="external-link" href="http://edamontology.org/topic_0078" target="_blank">proteins</a>
-<br>Nucleotides, e.g. <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0077" rel="noopener" class="external-link" href="http://edamontology.org/topic_0077" target="_blank">nucleic acids</a>
-<br><br>
-<br>Structural, e.g. <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0078" rel="noopener" class="external-link" href="http://edamontology.org/topic_0078" target="_blank">proteins</a>, cellulose
-<br>Enzymatic Activity, e.g. <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0078" rel="noopener" class="external-link" href="http://edamontology.org/topic_0078" target="_blank">proteins</a>
-<br>Storage, e.g. glycogen
-<br>Information Transmission, e.g. <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0099" rel="noopener" class="external-link" href="http://edamontology.org/topic_0099" target="_blank">RNA</a>, <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0078" rel="noopener" class="external-link" href="http://edamontology.org/topic_0078" target="_blank">proteins</a>
-<br>Information Storage, e.g. <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0077" rel="noopener" class="external-link" href="http://edamontology.org/topic_0077" target="_blank">nucleic acids</a>
-<br><br>
-<br>Linear
-
-<br>Sequence of residues
-
-
-<br>Branched
-<br>Network
-<br>
-<img alt="Pasted image 20240904150202.png" src="lib\media\pasted-image-20240904150202.png" style="width: 400px; max-width: 100%;">
-<br><br>
-<br>The <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Polymer" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Polymer" target="_blank">polymer</a> is an existing <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Chemical_substance" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Chemical_substance" target="_blank">substance</a> with properties, structure and possible roles in the cell or otherwise
-
-<br>The sequence is a limited <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Representation_(arts)" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Representation_(arts)" target="_blank">representation</a> of the existing <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Molecule" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Molecule" target="_blank">molecule</a>.
-<br>Only the sequential order of the <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Residue_(chemistry)" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Residue_(chemistry)" target="_blank">residues</a> is portrayed.
-
-<br>Implications of that sequential order are up to the reader of the sequence.
-
-
-
-
-<br>The way residues are represented depends on the intended use or volition of the sequence coder.
-<br>
-<img alt="Pasted image 20240904152337.png" src="lib\media\pasted-image-20240904152337.png">
-<img alt="Pasted image 20240904152412.png" src="lib\media\pasted-image-20240904152412.png">
-<br><br>
-<br>The sequence as an <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Information" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Information" target="_blank">information</a> container.
-
-<br>The sequential order of residues is the information contained
-
-
-<br>Other features conveying information
-
-<br>Modifications to the residues
-<br>Molecule folding
-<br>Association with other <a data-tooltip-position="top" aria-label="https://www.merriam-webster.com/dictionary/concomitant" rel="noopener" class="external-link" href="https://www.merriam-webster.com/dictionary/concomitant" target="_blank">concomitant</a> molecules
-
-
-<br>How to measure the information content in a <a data-tooltip-position="top" aria-label="https://www.merriam-webster.com/dictionary/naive" rel="noopener" class="external-link" href="https://www.merriam-webster.com/dictionary/naive" target="_blank">naive</a> approach?
-
-<br>Deviation to a random result
-<br>Looking at the sequence as a sequence of "choices" between available states
-<br>Assessing the degree of "organization" conveyed by the sequence
-
-
-<br>Information content varies throughout gene expression
-
-<img alt="Pasted image 20240904165644.png" src="lib\media\pasted-image-20240904165644.png">
-
-
-<br><br>
-<img alt="Pasted image 20240904165926.png" src="lib\media\pasted-image-20240904165926.png">
-<br><br>
-<br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Notation_system" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Notation_system" target="_blank">Notation</a>
-
-<br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Symbol" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Symbol" target="_blank">Symbols</a> for residue representation along the sequence being recorded.
-
-<br>Definite residues
-<br>Ambiguous situations
-
-<br>Ill defined residue occurrence
-<br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Polymorphism_(biology)" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Polymorphism_(biology)" target="_blank">Polymorphic</a> site (e.g. <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism" target="_blank">SNP</a>)
-
-
-
-
-<br><a data-tooltip-position="top" aria-label="https://iupac.org/" rel="noopener" class="external-link" href="https://iupac.org/" target="_blank">IUPAC</a>
-
-<br><a data-tooltip-position="top" aria-label="https://www.bioinformatics.org/sms2/iupac.html" rel="noopener" class="external-link" href="https://www.bioinformatics.org/sms2/iupac.html" target="_blank">Nucleotide Notation</a>
+<br>Case Studies
 
 <br>
-
-<img alt="Pasted image 20240904173216.png" src="lib\media\pasted-image-20240904173216.png" style="width: 300px; max-width: 100%;">
-
-
-
-
-<br><a data-tooltip-position="top" aria-label="https://www.bioinformatics.org/sms2/iupac.html" rel="noopener" class="external-link" href="https://www.bioinformatics.org/sms2/iupac.html" target="_blank">Amino-Acid Notation</a>
+G + C Content
 
 <br>
+Skeleton structure
 
-<img alt="Pasted image 20240904174533.png" src="lib\media\pasted-image-20240904174533.png">
+
+
+<br>
+Practical application
+
+<br><a data-tooltip-position="top" aria-label="http://edamontology.org/data_2139" rel="noopener" class="external-link" href="http://edamontology.org/data_2139" target="_blank">Melting Temperature</a> (Tm) calculation
+
+<br>
+Example formula
+<img alt="Pasted image 20240913162020.png" src="lib\media\pasted-image-20240913162020.png" style="width: 350px; max-width: 100%;">
+
+
+<br>Paradigm inversion
+
+<br>
+Once upon a time...
+Tm was measured for %G+C calculation
+
+
 
 
 
@@ -112,199 +47,250 @@ parent::<a data-href="Programa" href="notes\bioinformatics\introdução-à-bioin
 
 
 <br>
+Example Implementation
+
+<br><a data-tooltip-position="top" aria-label="https://www.bioinformatics.nl/cgi-bin/emboss/geecee" rel="noopener" class="external-link" href="https://www.bioinformatics.nl/cgi-bin/emboss/geecee" target="_blank">EMBOSS::GeeCee</a>
+
+<br>
+Through mobyle portal
+<img alt="Pasted image 20240913162326.png" src="lib\media\pasted-image-20240913162326.png">
+
+
+
+
+
+
+
+
+<br>
+<a data-tooltip-position="top" aria-label="http://edamontology.org/data_0844" rel="noopener" class="external-link" href="http://edamontology.org/data_0844" target="_blank">Molecular Mass</a>
+
+<br>
+Skeleton structure
+
+
+
+<br>Example Implementation
+
+<br><a data-tooltip-position="top" aria-label="https://web.expasy.org/protparam/" rel="noopener" class="external-link" href="https://web.expasy.org/protparam/" target="_blank">ExPASY::ProtParam</a>
+
+<br>
+Protparam output
+<img alt="Pasted image 20240913164307.png" src="lib\media\pasted-image-20240913164307.png" style="width: 350px; max-width: 100%;">
+
+
+
+
+
+
+
+
+
+
 
 
 <br><br>
-<br><a data-tooltip-position="top" aria-label="http://edamontology.org/format_1915" rel="noopener" class="external-link" href="http://edamontology.org/format_1915" target="_blank">Format</a>
+<br>When dealing with localized features in order to detect local occurrence.
+
+<br>When the sought feature is found the (Account) Balance is incremented (Credit)
+<br>If it is not found he (Account) Balance is decremented (Debit)
+<br>The site boundary begins when Balance starts growing from a local minimum.
+<br>The site ends when the Balance stops growing.
+<br>
+Balance progression
+<img alt="Pasted image 20240913170709.png" src="lib\media\pasted-image-20240913170709.png" style="width: 400px; max-width: 100%;">
+
+
+<br>Case Study
+
+<br><a data-tooltip-position="top" aria-label="http://edamontology.org/operation_0430" rel="noopener" class="external-link" href="http://edamontology.org/operation_0430" target="_blank">GpC Island Detection</a>
+
+<br>CpG Island
 
 <br>
-Definition
-A defined way or layout of representing and structuring data in a computer file, blob, string, message, or elsewhere.<br>
-Source: EDAM::format_1915<br>
+What is...
+Involved in resistance to methylation <a data-tooltip-position="top" aria-label="http://www.sanger.ac.uk/HGP/cgi.shtml" rel="noopener" class="external-link" href="http://www.sanger.ac.uk/HGP/cgi.shtml" target="_blank">“associated with the 5' ends of most”(mammalian)” house-keeping genes and many regulated genes (Bird, 1986, Larsen et al 1992)”</a>
+
+
+<br>General characteristics
+
+<br>&gt; 200 bp
+<br>%G+C = 50% 
+
+
+
+
+<br>Example Implementation
+
+<br><a data-tooltip-position="top" aria-label="https://bioinformatics.nl/cgi-bin/emboss/cpgreport" rel="noopener" class="external-link" href="https://bioinformatics.nl/cgi-bin/emboss/cpgreport" target="_blank">EMBOSS::cpgreport</a>
+
+
+
+
+
+
+
+
+<br><br>
+<br>The sequence is considered n-odd residues at a time, the so called Window.
+<br>At each iteration 
+
+<br>This Window slides one site towards the end of the sequence
+
+<br>
+Sliding along the sequence
+<img alt="Pasted image 20240913221119.png" src="lib\media\pasted-image-20240913221119.png" style="width: 400px; max-width: 100%;">
+
+
+
+
+<br>The properties of the residues inside the Window are considered for calculation purposes
+
+<br>This calculation is typically based on a given Metric (scoring scheme).
+<br>Each calculated value encompasses both the site where the Window is centered into, and its neighbourhood.
+
+
+<br>Case Studies
+
+<br>Vocabulary Analysis
+
+<br>Hashing along the sequence
+
+<br>Get and <a data-tooltip-position="top" aria-label="http://edamontology.org/operation_3472" rel="noopener" class="external-link" href="http://edamontology.org/operation_3472" target="_blank">count</a> all the possible Words of a given length.
+
+<br>
+Heptamers
+<img alt="Pasted image 20240914075516.png" src="lib\media\pasted-image-20240914075516.png">
+
+
+
+
+<br>Vocabulary can be crossed with a priori probability. 
+
+
+
+
+<br>Local assessment for a given property
+
+<br>Property profile
+
+<br>
+Distribution along the sequence
+<img alt="Pasted image 20240913221731.png" src="lib\media\pasted-image-20240913221731.png"><br>
 .
 
 
-<br>Sequence recording formats
+<br>Example Implementation
 
-<br>Separate sequences
+<br><a data-tooltip-position="top" aria-label="https://web.expasy.org/protscale/" rel="noopener" class="external-link" href="https://web.expasy.org/protscale/" target="_blank">ExPASy::ProtScale</a>
 
-<br>RAW 
-
-<br>Only sequence as a single line
-
-<img alt="Pasted image 20240904181118.png" src="lib\media\pasted-image-20240904181118.png">
-
-
-
-
-<br>FASTA / Pearson
-
-<br>First line
-
-<br><a data-tooltip-position="top" aria-label="http://edamontology.org/operation_0361" rel="noopener" class="external-link" href="http://edamontology.org/operation_0361" target="_blank">Sequence annotation</a>
-
-
-<br>Second line
-
-<br>Sequence
+<br>
 
 
 <br>
 
-<img alt="Pasted image 20240904190452.png" src="lib\media\pasted-image-20240904190452.png">
 
 
 
 
-<br>Specialized formats
 
-<br>Phylip
+
+
+<br>Graphical comparison of sequences
+
+<br>Dot Plot
+
+<br>
+Internal comparison for a sequence
+<img alt="Pasted image 20240913221831.png" src="lib\media\pasted-image-20240913221831.png"><br>
+.
+
+
+<br><a data-tooltip-position="top" aria-label="Dot-Plot" data-href="Dot-Plot" href="notes\bioinformatics\introdução-à-bioinformárica\dot-plot.html" class="internal-link" target="_self" rel="noopener">Looking further into the Dot-Plot technique</a> (MANDATORY.)
+
+
+
+
+
+
+
+
+<br><br>
+<br>The Sequence is considered as a putative set of Patterns
+
+<br>Usually defined as a <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/String_(computer_science)" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/String_(computer_science)" target="_blank">String</a>
+
+<br>
+Definition
+
+.
+
+
+<br>Mostly as a perfect match between String and substring.
+<br>To a lesser degree, matches may be considered if partial or ambiguous
+
+<br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Wildcard_character" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Wildcard_character" target="_blank">Wildcards</a> 
+<br><a data-tooltip-position="top" aria-label="http://edamontology.org/data_1352" rel="noopener" class="external-link" href="http://edamontology.org/data_1352" target="_blank">Regular expressions</a> 
+<br>[PSSM] (<a rel="noopener" class="external-link" href="http://edamontology.org/data_2854" target="_blank">http://edamontology.org/data_2854</a>)
+<br><a data-tooltip-position="top" aria-label="http://edamontology.org/data_1364" rel="noopener" class="external-link" href="http://edamontology.org/data_1364" target="_blank">HMM</a> 
+
+
+
+
+
+
+<br>Case Study
+
+<br>Conceptual Restriction
+
+<br>Search for string patterns identical to recognition sites for <a data-tooltip-position="top" aria-label="https://www.neb.com/en/tools-and-resources/feature-articles/everything-you-ever-wanted-to-know-about-type-ii-restriction-enzymes" rel="noopener" class="external-link" href="https://www.neb.com/en/tools-and-resources/feature-articles/everything-you-ever-wanted-to-know-about-type-ii-restriction-enzymes" target="_blank">type II Endonucleases</a>
 
 <br>
 
-<img alt="Pasted image 20240904190932.png" src="lib\media\pasted-image-20240904190932.png">
 
 
 
+<br>Pattern occurrence
 
-<br>NBRF / PIR
+<br>Implies existence of cutting site(s)
 
-<br>
+<br>Enzyme annotation
 
-<img alt="Pasted image 20240904191010.png" src="lib\media\pasted-image-20240904191010.png">
-
-
-
-
-<br>GDE
+<br><a data-tooltip-position="top" aria-label="https://enzymefinder.neb.com/" rel="noopener" class="external-link" href="https://enzymefinder.neb.com/" target="_blank">Rebase</a> (NEB)
 
 <br>
 
-<img alt="Pasted image 20240904191310.png" src="lib\media\pasted-image-20240904191310.png">
 
+.
 
-
-
-
-
-
-
-<br>Aligned sequences
-
-<br>Sequence alignment in a nutshell
-
-<br>Mathematical technique for assessing homologous sites across different, but related sequences
-<br>
-
-<img alt="Pasted image 20240904192404.png" src="lib\media\pasted-image-20240904192404.png" style="width: 600px; max-width: 100%;">
-
-
-
-
-<br>Main formats
-
-<br>Clustal
 
 <br>
-
-<img alt="Pasted image 20240904192603.png" src="lib\media\pasted-image-20240904192603.png">
-
-
-
-
-<br>FASTA / Pearson
-
-<br>
-
-<img alt="Pasted image 20240904192747.png" src="lib\media\pasted-image-20240904192747.png">
+Sample entry
+<img alt="Pasted image 20240916105730.png" src="lib\media\pasted-image-20240916105730.png"><br>
+. 
 
 
 
 
 
 
-<br>Exquisite formats
-
-<br>GCG / MSF
-
-<br>
-
-<img alt="Pasted image 20240904192846.png" src="lib\media\pasted-image-20240904192846.png">
 
 
 
 
-<br>Codata
+<br>Intended Use
+
+<br>Forecast of useful endonucleases for building <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_3912" rel="noopener" class="external-link" href="http://edamontology.org/topic_3912" target="_blank">genetic engineering</a> constructs.
+<br><a data-tooltip-position="top" aria-label="http://edamontology.org/data_3914" rel="noopener" class="external-link" href="http://edamontology.org/data_3914" target="_blank">Quality Control</a> of ordered sequencing data.
+
+
+
+
+<br>Example Implementation
+
+<br><a data-tooltip-position="top" aria-label="https://nc3.neb.com/NEBcutter/" rel="noopener" class="external-link" href="https://nc3.neb.com/NEBcutter/" target="_blank">NebCutter</a> (NEB)
 
 <br>
-
-<img alt="Pasted image 20240904193017.png" src="lib\media\pasted-image-20240904193017.png">
-
-
-
-
-
-
-<br>The definitive format?
-
-<br>NEXUS
-
-<br>A modular format that can encompass a complete phylogenetic analysis
-<br>Modules go from the annotation for the individual sequences, through their multiple alignment, distance matrix up to complete sets of trees resulting from bootstrap analysis, and the resulting consensus tree.
-<br>
-
-<img alt="Pasted image 20240904193643.png" src="lib\media\pasted-image-20240904193643.png"><br>
-...<br>
-<img alt="Pasted image 20240904193729.png" src="lib\media\pasted-image-20240904193729.png">
-
-
-<br>Blocks for specific elements
-
-<br>Taxa (name + annotation)
-
-<br>
-
-<img alt="Pasted image 20240904201541.png" src="lib\media\pasted-image-20240904201541.png">
-
-
-
-
-<br>Sequences
-
-<br>
-
-<img alt="Pasted image 20240904201634.png" src="lib\media\pasted-image-20240904201634.png">
-
-
-
-
-<br>Alignment
-
-<br>
-
-<img alt="Pasted image 20240904200143.png" src="lib\media\pasted-image-20240904200143.png">
-
-
-
-
-<br>Distance matrix
-
-<br>
-
-<img alt="Pasted image 20240904200217.png" src="lib\media\pasted-image-20240904200217.png">
-
-
-
-
-<br>Phylogenetic trees
-
-<br>
-
-<img alt="Pasted image 20240904200308.png" src="lib\media\pasted-image-20240904200308.png">
-
-
-
-
 
 
 
@@ -318,181 +304,126 @@ Source: EDAM::format_1915<br>
 
 
 <br><br>
-<br>Sequences are usually recorded manually as a plain text through a regular text editor
+<br><a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0632" rel="noopener" class="external-link" href="http://edamontology.org/topic_0632" target="_blank">Primer</a> 
 
 <br>
+Definition
 
-<img alt="Pasted image 20240904200816.png" src="lib\media\pasted-image-20240904200816.png" style="width: 400px; max-width: 100%;">
-
-
-
-
-<br>Software also records sequences as output
-
-<br>As no human is involved, formats can be more complex
-
-
-<br>Fluorograms resulting from sequencing DNA can also be regarded as a form of sequence recording
-
-<br>
-
-<img alt="Pasted image 20240904201401.png" src="lib\media\pasted-image-20240904201401.png">
+Source:   <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Primer_(molecular_biology)#Uses_of_synthetic_primers" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Primer_(molecular_biology)#Uses_of_synthetic_primers" target="_blank">Wikipedia</a><br>
+.
 
 
 
 
-<br><br>
-<img alt="Pasted image 20240905120939.png" src="lib\media\pasted-image-20240905120939.png">
-<br>
-<br>Biopolymer <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_3168" rel="noopener" class="external-link" href="http://edamontology.org/topic_3168" target="_blank">sequencing</a>
+<br><a data-tooltip-position="top" aria-label="http://edamontology.org/operation_0308" rel="noopener" class="external-link" href="http://edamontology.org/operation_0308" target="_blank">Primer Design</a> 
 
-<br>DNA versus Protein
+<br>Optimizing relevant parameters for specificity
 
-<br>Completely different analytical concepts
+<br>Length
 
-<br>Residue position through template
-<br>Residue chemical properties 
+<br>Cost
 
 
+<br>Composition
 
+<br>Specificity
 
-<br>DNA Sequencing (~50 years record) 
-
-<br>Methodology
-
-<br>Chemical - Maxam &amp; Gilbert
-
-<br>
+<br>Tm
 
 
 
 
+<br>Self-complementarity
+<br>Location
+
+<br>The closest possible to the target sequence
 
 
-<br>Enzymatic - Sanger
+
+
+<br>Multidimensional optimization
+
+
+<br>Example Implementation
+
+<br><a data-tooltip-position="top" aria-label="https://primer3.org/" rel="noopener" class="external-link" href="https://primer3.org/" target="_blank">Primer3</a>
 
 <br>
 
 
+.
 
-
-<br>Conceptual foundation for most of the subsequent developments
-<br>PCR revolution (~40 years record)
-
-<br>Increased agility
-
-
-<br>Robotization 
-
-
-<br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Massive_parallel_sequencing" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Massive_parallel_sequencing" target="_blank">Next Generation Sequencing (NGS)</a>
 
 <br>
-
-
-
-
-<br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Sequence_assembly" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Sequence_assembly" target="_blank">Read Assembly</a> 
-
-<br>
-
-<img alt="Pasted image 20240905123253.png" src="lib\media\pasted-image-20240905123253.png" style="width: 300px; max-width: 100%;">
-
-
-<br>The process limiting step 
-<br>Higher parallelization =&gt; shorter reads
-<br>Reads are the building blocks in Genome Assembly
-
-<br>
-
-<img alt="Pasted image 20240905123658.png" src="lib\media\pasted-image-20240905123658.png">
-
-
-<br>Read
-<br>Contig 
-<br><a data-tooltip-position="top" aria-label="http://edamontology.org/operation_3216" rel="noopener" class="external-link" href="http://edamontology.org/operation_3216" target="_blank">Scaffold</a>
-<br>Chromosome
+Sample output
+<img alt="Pasted image 20240916113200.png" src="lib\media\pasted-image-20240916113200.png"><br>
+.
 
 
 
 
 
 
-
-
-
-
-<br>Protein Sequencing (~70years record)
-
-<br>Direct sequencing
-
-<br>Classical methods
-
-<br>Work intensive
-<br>Not amenable to automatisation
-
-
-<br>Mass spectroscopy based methods
-
-<br>Based on peptide signature recognition
-
-<br>"Black Box"
-<br>Not completely deterministic
-
-
-
-
-
-
-<br>Conceptual Translation Inference
-
-<br>Genomic sequence annotation
-<br>Automatic translation of inferred <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Coding_region" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Coding_region" target="_blank">coding sequences (CDS)</a>
-<br>Abundant source for debatable protein sequences
-
-<br>Most available protein sequences generated through this process
-
-
-
-
-
-
-
-
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\biological-sequences.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Biological Sequences.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Tue, 10 Sep 2024 17:47:17 GMT</pubDate><enclosure url="lib\media\pasted-image-20240904150308.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240904150308.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Introdução à Bioinformática]]></title><description><![CDATA[<a class="tag" href="?query=tag:undidadeCurricular" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#undidadeCurricular</a> <a class="tag" href="?query=tag:lbcm" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#lbcm</a> <a class="tag" href="?query=tag:jmgcfdea" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#jmgcfdea</a> 
- <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md<br>
-Created: 2024-09-03 15:47<br>
-Updated: 2024-09-03 15:47<br>
-Source: <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0091" rel="noopener" class="external-link" href="http://edamontology.org/topic_0091" target="_blank">Introdução à Bioinformática</a><br>
-Subject:  Introdução à Bioinformática<br>
-Tags: <a href=".?query=tag:undidadeCurricular" class="tag" target="_blank" rel="noopener">#undidadeCurricular</a> <a href=".?query=tag:lbcm" class="tag" target="_blank" rel="noopener">#lbcm</a> <a href=".?query=tag:jmgcfdea" class="tag" target="_blank" rel="noopener">#jmgcfdea</a> <br>Ontology
-parent::<a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/topics/Bioinformatics" data-href="Workshop/EDAM__Nodes/topics/Bioinformatics" href="workshop\edam__nodes\topics\bioinformatics.html" class="internal-link" target="_self" rel="noopener">Bioinformatics</a>
-<br><br>EDAM::topic_0091<br>Definition
-The archival, curation, processing and analysis of complex biological data.<br>
-This includes data processing in general, including basic handling of files and databases, datatypes, workflows and annotation.<br>
-Source: EDAM
-<br><br>Bioinformatics in time
-
-Source: <a data-tooltip-position="top" aria-label="https://doi.org/10.1093/bib/bby063" rel="noopener" class="external-link" href="https://doi.org/10.1093/bib/bby063" target="_blank">Briefings in Bioinformatics</a>
-<br>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\introdução-à-bioinformática.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 08 Sep 2024 15:29:11 GMT</pubDate></item><item><title><![CDATA[Ontologies & Knowledge Representation]]></title><description><![CDATA[ 
- <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies &amp; Knowledge Representation.md<br>
-Created: 2024-09-05 10:18<br>
-Updated: 2024-09-05 10:18<br>
-Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Ontologies &amp; Knowledge Representation</a><br>
-Subject:  Ontologies &amp; Knowledge Representation<br>
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Algorithms for Bioinformatics.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 11:25:35 GMT</pubDate><enclosure url="lib\media\pasted-image-20240913151759.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240913151759.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dot-Plot]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Dot-Plot.md<br>
+Created: 2024-09-14 09:09<br>
+Updated: 2024-09-14 09:09<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Dot-Plot</a><br>
+Subject:  Dot-Plot<br>
 Tags:<br>Ontology
-parent::<a data-href="Programa" href="notes\bioinformatics\introdução-à-bioinformárica\programa.html" class="internal-link" target="_self" rel="noopener">Programa</a>
-<br><br>Definition
-"an ontology is the description of what exist specifically within a determined field. For example, every part that exists in a specific information system. This includes the relationship and hierarchy between these parts."<br>
-Kent Lofgren<br>
-<a data-tooltip-position="top" aria-label="https://youtu.be/XTsaZWzVJ4c?t=154" rel="noopener" class="external-link" href="https://youtu.be/XTsaZWzVJ4c?t=154" target="_blank">The whole concept of ontology</a>
+parent::<a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a>
+<br><br><br><br>
+<br>n-tuple / <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/K-mer" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/K-mer" target="_blank">k-mer</a>
+<br>
+Definition
+'k-mers are substrings of length 𝑘 {\displaystyle k} contained within a biological sequence.' 
 
 
 
-<br><br><br><br><br><br>Fonte: <a data-tooltip-position="top" aria-label="https://edamontology.org" rel="noopener" class="external-link" href="https://edamontology.org" target="_blank">EDAM</a><br><br>
-<br><a data-tooltip-position="top" aria-label="https://data.lhncbc.nlm.nih.gov/public/mor/pubs/pdf/2022-springer_ch19-kwf.pdf" rel="noopener" class="external-link" href="https://data.lhncbc.nlm.nih.gov/public/mor/pubs/pdf/2022-springer_ch19-kwf.pdf" target="_blank">Knowledge Representation and Ontologies.pdf</a>
+
+
+<br><br>
+<br>n / k - The Word Size
+
+<br>The higher the value, the more significant 
 
 <br>
+Stochastic probability for any word of lenght k
+.
+
+
+
+
+
+
+<br>Both senses should be considered
+
+<br>For k-mer matching
+
+<br>Direct + Inverted
+
+
+
+
+<br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Robustness" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Robustness" target="_blank">Robustness</a>
+
+<br>
+Definition
+"transposed into a system, it refers to the ability of tolerating perturbations"
+
+.
+
+
+<br>Function of varying
+
+<br>Window size
+<br>Concurrent <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Parameter" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Parameter" target="_blank">parameters</a> 
+
+<br>e.g. Tolerance
+
+<br>Number of accepted mismatches between two windows that does not preclude displaying a dot.
+
+
 
 
 
@@ -500,8 +431,137 @@ Kent Lofgren<br>
 
 
 <br><br>
-<br><a data-tooltip-position="top" aria-label="https://courses.csail.mit.edu/6.803/pdf/davis.pdf" rel="noopener" class="external-link" href="https://courses.csail.mit.edu/6.803/pdf/davis.pdf" target="_blank">What Is a Knowledge Representation.pdf</a>
+<br>Scanning the space of the available comparisons
 
+<br>For k-mers
+
+<br>All against all
+
+
+<br>Graphical display for higher scoring results
+<br>
+Sliding down
+<img src="lib\media\pasted-image-20240915075206.png"><br>
+<img alt="Pasted image 20240915075221.png" src="lib\media\pasted-image-20240915075221.png"><br>
+<img alt="Pasted image 20240915075234.png" src="lib\media\pasted-image-20240915075234.png"><br>
+<img alt="Pasted image 20240915075843.png" src="lib\media\pasted-image-20240915075843.png"><br>
+<img alt="Pasted image 20240915075857.png" src="lib\media\pasted-image-20240915075857.png"><br>
+<img alt="Pasted image 20240915075912.png" src="lib\media\pasted-image-20240915075912.png"><br>
+<img alt="Pasted image 20240915075928.png" src="lib\media\pasted-image-20240915075928.png">
+
+
+<br>
+Next col
+ <img alt="Pasted image 20240915080140.png" src="lib\media\pasted-image-20240915080140.png"><br>
+<img alt="Pasted image 20240915080152.png" src="lib\media\pasted-image-20240915080152.png"><br>
+...<br>
+.
+
+
+
+
+<br><br>
+<br>Signal
+
+<br>
+Definition
+"The signal is the meaningful information that you’re actually trying to detect."<br>
+Source: [conceptually.org] (<a rel="noopener" class="external-link" href="https://conceptually.org/concepts/signal-and-noise" target="_blank">https://conceptually.org/concepts/signal-and-noise</a>)<br>
+.
+
+
+<br>Diagonals
+
+<br>The longer, the better
+<br>Robustness as a benchmark
+
+
+
+
+<br>Noise
+
+<br>
+Definition
+"The noise is the random, unwanted variation or fluctuation that interferes with the signal."<br>
+Source: [conceptually.org] (<a rel="noopener" class="external-link" href="https://conceptually.org/concepts/signal-and-noise" target="_blank">https://conceptually.org/concepts/signal-and-noise</a>)<br>
+.
+
+
+<br>Short diagonals
+
+<br>From dots to (really) short diagonals
+
+
+
+
+<br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Signal-to-noise_ratio" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Signal-to-noise_ratio" target="_blank">Signal to Noise Ratio</a>
+
+<br>
+Definition
+
+.
+
+
+<br>Dot-Plot-wise
+
+<br>
+
+<img alt="Pasted image 20240915090024.png" src="lib\media\pasted-image-20240915090024.png" style="width: 500px; max-width: 100%;"><br>
+.
+
+
+
+
+
+
+<br><br>
+<br>Axes
+
+<br>Meant Sequences
+
+<br>Either the same
+
+<br>Search for internal repetitions
+
+
+<br>Or different
+
+<br>similarity distribution between them
+
+
+
+
+
+
+<br>Diagonals (signal)
+
+<br>Connect similar stretches shared by both sequences
+
+<br>Main diagonal or similar
+<br>Partial translations along one axis
+<br>Case study
+
+<br>Multiple internal (direct) repetitions
+
+<br>
+Interpretation
+ <img alt="Pasted image 20240915091746.png" src="lib\media\pasted-image-20240915091746.png" style="width: 500px; max-width: 100%;"><br>
+Source: <a data-tooltip-position="top" aria-label="https://myhits.sib.swiss/util/dotlet/doc/dotlet_examples.html" rel="noopener" class="external-link" href="https://myhits.sib.swiss/util/dotlet/doc/dotlet_examples.html" target="_blank">MyHits(SIB)::dotlet</a> THIS IS  MANDATORY READING!<br>
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br>MyHits(SIB)::<a data-tooltip-position="top" aria-label="https://dotlet.vital-it.ch/" rel="noopener" class="external-link" href="https://dotlet.vital-it.ch/" target="_blank">Dotlet JS</a>
+
+<br>The most useful although no Tolerance is used
 <br>
 
 
@@ -509,7 +569,39 @@ Kent Lofgren<br>
 
 
 
-<br><br>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\ontologies-&amp;-knowledge-representation.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies &amp; Knowledge Representation.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sat, 07 Sep 2024 18:48:02 GMT</pubDate></item><item><title><![CDATA[Programa]]></title><description><![CDATA[ 
+<br><a data-tooltip-position="top" aria-label="http://emboss.bioinformatics.nl/cgi-bin/emboss/dotmatcher" rel="noopener" class="external-link" href="http://emboss.bioinformatics.nl/cgi-bin/emboss/dotmatcher" target="_blank">EMBOSS::dotmatcher</a>
+
+<br>Uses Tolerance as a parameter
+<br>Non interactive.
+
+
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\dot-plot.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Dot-Plot.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 15 Sep 2024 10:01:06 GMT</pubDate><enclosure url="lib\media\pasted-image-20240915075206.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240915075206.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hands-on Class - AP02 - Algorithms in Action]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP02 - Algorithms in Action.md<br>
+Created: 2024-09-16 11:48<br>
+Updated: 2024-09-16 11:48<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Hands-on Class - AP02 - Algorithms in Action</a><br>
+Subject:  Hands-on Class - AP02 - Algorithms in Action<br>
+Tags:<br>Ontology
+parent::<a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a> <a data-href="Programa" href="notes\bioinformatics\introdução-à-bioinformárica\programa.html" class="internal-link" target="_self" rel="noopener">Programa</a>
+<br><br><br>
+<br>Input Sequences
+
+<br>
+X05076.1
+
+Source: <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/nuccore/X05076.1?report=fasta" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/nuccore/X05076.1?report=fasta" target="_blank">GenBank</a>
+
+
+<br>
+P05130
+
+Source: <a data-tooltip-position="top" aria-label="https://rest.uniprot.org/uniprotkb/P05130.fasta" rel="noopener" class="external-link" href="https://rest.uniprot.org/uniprotkb/P05130.fasta" target="_blank">UniProt</a><br>
+.
+
+
+
+
+<br><br><br><a data-href="ibi24_Protocol4AP02.pdf" href="notes\bioinformatics\introdução-à-bioinformárica\materials\ibi24_protocol4ap02.pdf" class="internal-link" target="_self" rel="noopener">ibi24_Protocol4AP02.pdf</a>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\hands-on-class-ap02-algorithms-in-action.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP02 - Algorithms in Action.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 11:13:35 GMT</pubDate></item><item><title><![CDATA[Programa]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Programa.md<br>
 Created: 2024-09-02 14:55<br>
 Updated: 2024-09-02 14:55<br>
@@ -530,229 +622,4 @@ Lecture 1: <a data-href="Biological Sequences" href="notes\bioinformatics\introd
 <br>
 Lecture 2: 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\programa.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Programa.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 09 Sep 2024 09:40:29 GMT</pubDate></item><item><title><![CDATA[Protocolo_1_Registo_Armazenamento_Sequências]]></title><description><![CDATA[ 
- <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md<br>
-Created: 2024-09-05 18:02<br>
-Updated: 2024-09-05 18:02<br>
-Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Protocolo_1_Registo_Armazenamento_Sequências</a><br>
-Subject:  Protocolo_1_Registo_Armazenamento_Sequências<br>
-Tags:<br>Ontology
-parent::<a data-href="Programa" href="notes\bioinformatics\introdução-à-bioinformárica\programa.html" class="internal-link" target="_self" rel="noopener">Programa</a>
-<br><br><br>
-<br>NotePad++
-
-<br><img alt="Pasted image 20240909094830.png" src="lib\media\pasted-image-20240909094830.png" style="width: 100px; max-width: 100%;">
-<br>
-Description
-"Based on the powerful editing component Scintilla, Notepad++ is written in C++ and uses pure Win32 API and STL which ensures a higher execution speed and smaller program size."
-
-
-<br><a data-tooltip-position="top" aria-label="https://notepad-plus-plus.org/" rel="noopener" class="external-link" href="https://notepad-plus-plus.org/" target="_blank">Main Site</a>
-<br><a data-tooltip-position="top" aria-label="https://portableapps.com/apps/development/notepadpp_portable" rel="noopener" class="external-link" href="https://portableapps.com/apps/development/notepadpp_portable" target="_blank">PortableApps</a>
-
-<br>"Runs anywhere (cloud, removable, local) without 'installing'. Use the PortableApps.com Platform for easy installs and automatic updates."
-
-
-
-
-<br>SQLiteMan
-
-<br><img alt="Pasted image 20240909095817.png" src="lib\media\pasted-image-20240909095817.png" style="width: 50px; max-width: 100%;">
-<br><a data-tooltip-position="top" aria-label="https://sourceforge.net/projects/sqliteman/files/sqliteman/1.2.2/" rel="noopener" class="external-link" href="https://sourceforge.net/projects/sqliteman/files/sqliteman/1.2.2/" target="_blank">SourceForge</a>
-<br><a data-tooltip-position="top" aria-label="https://portableapps.com/apps/development/sqliteman-portable" rel="noopener" class="external-link" href="https://portableapps.com/apps/development/sqliteman-portable" target="_blank">PortableApps</a>
-
-
-<br>SQLiteBrowser (advanced manager)
-
-<br><img alt="Pasted image 20240909100650.png" src="lib\media\pasted-image-20240909100650.png">
-<br>
-Description
-"DB Browser for SQLite (DB4S) is a high quality, visual, open source tool designed for people who want to create, search, and edit SQLite database files. DB4S gives a familiar spreadsheet-like interface on the database in addition to providing a full SQL query facility. It works with Windows, macOS, and most versions of Linux and Unix."
-
-
-<br><a data-tooltip-position="top" aria-label="https://sqlitebrowser.org/dl/" rel="noopener" class="external-link" href="https://sqlitebrowser.org/dl/" target="_blank">Main Site</a>
-
-<br>
-Note
-As usual, Windows systems are advised to go for the <a data-tooltip-position="top" aria-label="https://download.sqlitebrowser.org/SQLiteDatabaseBrowserPortable_3.12.2_English.paf.exe" rel="noopener" class="external-link" href="https://download.sqlitebrowser.org/SQLiteDatabaseBrowserPortable_3.12.2_English.paf.exe" target="_blank">portable version</a>.
-
-
-
-
-
-
-<br><br><br><a data-tooltip-position="top" aria-label="Protocolo_2.pdf" data-href="Protocolo_2.pdf" href="notes\bioinformatics\introdução-à-bioinformárica\materials\protocolo_2.pdf" class="internal-link" target="_self" rel="noopener">Protocol</a>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\protocolo_1_registo_armazenamento_sequências.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 09 Sep 2024 09:18:03 GMT</pubDate><enclosure url="lib\media\pasted-image-20240909094830.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240909094830.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Relational Databases]]></title><description><![CDATA[ 
- <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md<br>
-Created: 2024-09-05 14:52<br>
-Updated: 2024-09-05 14:52<br>
-Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Relational Databases</a><br>
-Subject:  Relational Databases<br>
-Tags:<br>Ontology
-parent::<a data-href="Programa" href="notes\bioinformatics\introdução-à-bioinformárica\programa.html" class="internal-link" target="_self" rel="noopener">Programa</a> 
-<br><br>Concept definition
-
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Database)
-<br>Concept definition
-
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
-<br><br>
-<br>The Entry
-
-<br>Set of Fields / Attributes
-
-<br>Where Data resides
-<br>
-
-Before: <img alt="Pasted image 20240905154759.png" src="lib\media\pasted-image-20240905154759.png" style="width: 500px; max-width: 100%;">
-
-
-<br>
-
-After: <img alt="Pasted image 20240905154833.png" src="lib\media\pasted-image-20240905154833.png">
-
-
-
-
-
-
-<br>The Table
-
-<br>Operational unit of a Relational Database
-
-<br>
-
-Before: <img alt="Pasted image 20240905154142.png" src="lib\media\pasted-image-20240905154142.png" style="width: 300px; max-width: 100%;">
-
-
-<br>
-
-Now: <img alt="Pasted image 20240905154253.png" src="lib\media\pasted-image-20240905154253.png">
-
-
-
-
-
-
-<br>The Database
-
-<br>Set of Tables &amp; required software
-
-<br>
-
-Before: <img alt="Pasted image 20240905162035.png" src="lib\media\pasted-image-20240905162035.png">
-
-
-<br>
-
-Now: <img alt="Pasted image 20240905162318.png" src="lib\media\pasted-image-20240905162318.png" style="width: 500px; max-width: 100%;">
-
-
-
-
-
-
-<br>The Database Management System - DBMS 
-
-<br>Software for management &amp; data I/O
-
-<br>
-
-Before: <img alt="Pasted image 20240905173548.png" src="lib\media\pasted-image-20240905173548.png">
-
-
-<br>
-
-After: <img alt="Pasted image 20240905174043.png" src="lib\media\pasted-image-20240905174043.png" style="width: 500px; max-width: 100%;">
-
-
-
-
-
-
-<br><br>
-<br>Primary Key (PK)
-
-<br>The exclusive identifier for a single Entry in a specific Table
-<br>Unique as identifier
-
-
-<br>Foreign Key (FK)
-
-<br>The otherwise PK may be used as needed in other Tables as reference to
-
-<br>The referenced Entry
-<br>In the source Table
-
-
-
-
-<br>(Table) Join
-
-<br>Relation between two Tables on a PK:FK pair
-
-<br>
-
-<img alt="Pasted image 20240905161542.png" src="lib\media\pasted-image-20240905161542.png">
-
-
-
-
-
-
-<br>Fields / Attributes must be atomic
-
-<br>No array storage allowed.
-
-
-<br>Data redundancy is to be avoided at all costs
-
-<br>To streamline the data structure
-<br>To avoid typing errors
-
-
-<br>Standard Language across different RDBMS
-
-<br>SQL
-
-<br>
-
-Selection<br>
-<img alt="Pasted image 20240905174337.png" src="lib\media\pasted-image-20240905174337.png" style="width: 700px; max-width: 100%;">
-
-
-<br>
-
-Projection<br>
-<img alt="Pasted image 20240905174541.png" src="lib\media\pasted-image-20240905174541.png" style="width: 500px; max-width: 100%;">
-
-
-<br>
-
-Join (Tables)<br>
-<img alt="Pasted image 20240905174724.png" src="lib\media\pasted-image-20240905174724.png">
-
-
-
-
-
-
-<br><br>
-<br>Databases can be accessed seamlessly through the World Wide Web
-
-<br>
-
-<img alt="Pasted image 20240905175216.png" src="lib\media\pasted-image-20240905175216.png" style="width: 500px; max-width: 100%;">
-
-
-
-
-<br>Clusters of different DBMS can be made available through middleware plus client software as single system
-
-<br>
-
-<img alt="Pasted image 20240905175343.png" src="lib\media\pasted-image-20240905175343.png" style="width: 600px; max-width: 100%;">
-
-
-
-
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\relational-databases.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Thu, 05 Sep 2024 16:54:12 GMT</pubDate><enclosure url="lib\media\pasted-image-20240905154759.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240905154759.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\programa.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Programa.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 09 Sep 2024 09:40:29 GMT</pubDate></item></channel></rss>
