@@ -1,124 +1,12 @@
 {
   "vaultName": "Workshop03",
-  "lastExport": 1726518799475,
+  "lastExport": 1726595953268,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon check-color check-bg",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Images/iBi_Course/Pasted image 20240904150202.png",
-    "Images/iBi_Course/Pasted image 20240904150308.png",
-    "Images/iBi_Course/Pasted image 20240904152337.png",
-    "Images/iBi_Course/Pasted image 20240904152412.png",
-    "Images/iBi_Course/Pasted image 20240904165644.png",
-    "Images/iBi_Course/Pasted image 20240904165926.png",
-    "Images/iBi_Course/Pasted image 20240904173216.png",
-    "Images/iBi_Course/Pasted image 20240904174533.png",
-    "Images/iBi_Course/Pasted image 20240904181118.png",
-    "Images/iBi_Course/Pasted image 20240904190452.png",
-    "Images/iBi_Course/Pasted image 20240904190932.png",
-    "Images/iBi_Course/Pasted image 20240904191010.png",
-    "Images/iBi_Course/Pasted image 20240904191310.png",
-    "Images/iBi_Course/Pasted image 20240904192404.png",
-    "Images/iBi_Course/Pasted image 20240904192603.png",
-    "Images/iBi_Course/Pasted image 20240904192747.png",
-    "Images/iBi_Course/Pasted image 20240904192846.png",
-    "Images/iBi_Course/Pasted image 20240904193017.png",
-    "Images/iBi_Course/Pasted image 20240904193643.png",
-    "Images/iBi_Course/Pasted image 20240904193729.png",
-    "Images/iBi_Course/Pasted image 20240904200143.png",
-    "Images/iBi_Course/Pasted image 20240904200217.png",
-    "Images/iBi_Course/Pasted image 20240904200308.png",
-    "Images/iBi_Course/Pasted image 20240904200816.png",
-    "Images/iBi_Course/Pasted image 20240904201401.png",
-    "Images/iBi_Course/Pasted image 20240904201541.png",
-    "Images/iBi_Course/Pasted image 20240904201634.png",
-    "Images/iBi_Course/Pasted image 20240905120939.png",
-    "Images/iBi_Course/Pasted image 20240905123253.png",
-    "Images/iBi_Course/Pasted image 20240905123658.png",
-    "Images/iBi_Course/Pasted image 20240905154142.png",
-    "Images/iBi_Course/Pasted image 20240905154242.png",
-    "Images/iBi_Course/Pasted image 20240905154253.png",
-    "Images/iBi_Course/Pasted image 20240905154759.png",
-    "Images/iBi_Course/Pasted image 20240905154833.png",
-    "Images/iBi_Course/Pasted image 20240905161542.png",
-    "Images/iBi_Course/Pasted image 20240905162035.png",
-    "Images/iBi_Course/Pasted image 20240905162318.png",
-    "Images/iBi_Course/Pasted image 20240905173548.png",
-    "Images/iBi_Course/Pasted image 20240905174043.png",
-    "Images/iBi_Course/Pasted image 20240905174337.png",
-    "Images/iBi_Course/Pasted image 20240905174541.png",
-    "Images/iBi_Course/Pasted image 20240905174724.png",
-    "Images/iBi_Course/Pasted image 20240905175216.png",
-    "Images/iBi_Course/Pasted image 20240905175343.png",
-    "Images/iBi_Course/Pasted image 20240909094830.png",
-    "Images/iBi_Course/Pasted image 20240909095817.png",
-    "Images/iBi_Course/Pasted image 20240909100650.png",
-    "Images/iBi_Course/Pasted image 20240913151759.png",
-    "Images/iBi_Course/Pasted image 20240913162020.png",
-    "Images/iBi_Course/Pasted image 20240913162326.png",
-    "Images/iBi_Course/Pasted image 20240913164307.png",
-    "Images/iBi_Course/Pasted image 20240913170709.png",
-    "Images/iBi_Course/Pasted image 20240913221119.png",
-    "Images/iBi_Course/Pasted image 20240913221731.png",
-    "Images/iBi_Course/Pasted image 20240913221831.png",
-    "Images/iBi_Course/Pasted image 20240914075516.png",
-    "Images/iBi_Course/Pasted image 20240915072259.png",
-    "Images/iBi_Course/Pasted image 20240915075206.png",
-    "Images/iBi_Course/Pasted image 20240915075221.png",
-    "Images/iBi_Course/Pasted image 20240915075234.png",
-    "Images/iBi_Course/Pasted image 20240915075843.png",
-    "Images/iBi_Course/Pasted image 20240915075857.png",
-    "Images/iBi_Course/Pasted image 20240915075912.png",
-    "Images/iBi_Course/Pasted image 20240915075928.png",
-    "Images/iBi_Course/Pasted image 20240915080140.png",
-    "Images/iBi_Course/Pasted image 20240915080152.png",
-    "Images/iBi_Course/Pasted image 20240915090024.png",
-    "Images/iBi_Course/Pasted image 20240915091746.png",
-    "Images/iBi_Course/Pasted image 20240916105730.png",
-    "Images/iBi_Course/Pasted image 20240916113200.png",
-    "Images/iBi_Course/Pasted image 20240916160745.png",
-    "Images/iBi_Course/Pasted image 20240916183414.png",
-    "Images/iBi_Course/Pasted image 20240916184119.png",
-    "Images/iBi_Course/Pasted image 20240916185115.png",
-    "Images/iBi_Course/Pasted image 20240916185318.png",
-    "Images/iBi_Course/Pasted image 20240916190457.png",
-    "Images/iBi_Course/Pasted image 20240916190828.png",
-    "Images/iBi_Course/Pasted image 20240916191025.png",
-    "Images/iBi_Course/Pasted image 20240916191040.png",
-    "Images/iBi_Course/Pasted image 20240916201242.png",
-    "Images/iBi_Course/Pasted image 20240916201336.png",
-    "Images/iBi_Course/Pasted image 20240916201646.png",
-    "Images/iBi_Course/Pasted image 20240916202406.png",
-    "Images/iBi_Course/Pasted image 20240916202929.png",
-    "Images/iBi_Course/Pasted image 20240916203126.png",
-    "Images/iBi_Course/Pasted image 20240916210313.png",
-    "Images/iBi_Course/Pasted image 20240916210639.png",
-    "Images/iBi_Course/Pasted image 20240916211050.png",
-    "Images/iBi_Course/Pasted image 20240916211812.png",
-    "Images/iBi_Course/Pasted image 20240916212318.png",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Program.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Translated Regions Detection.md",
-    "lib/media/pasted-image-20240916160745.png",
-    "lib/media/pasted-image-20240916183414.png",
-    "lib/media/pasted-image-20240916184119.png",
-    "lib/media/pasted-image-20240916185115.png",
-    "lib/media/pasted-image-20240916185318.png",
-    "lib/media/pasted-image-20240916190828.png",
-    "lib/media/pasted-image-20240916191025.png",
-    "lib/media/pasted-image-20240916191040.png",
-    "lib/media/pasted-image-20240916190457.png",
-    "lib/media/pasted-image-20240916201242.png",
-    "lib/media/pasted-image-20240916201336.png",
-    "lib/media/pasted-image-20240916201646.png",
-    "lib/media/pasted-image-20240916202406.png",
-    "lib/media/pasted-image-20240916202929.png",
-    "lib/media/pasted-image-20240916203126.png",
-    "lib/media/pasted-image-20240916210639.png",
-    "lib/media/pasted-image-20240916210313.png",
-    "lib/media/pasted-image-20240916211050.png",
-    "lib/media/pasted-image-20240916211812.png",
-    "lib/media/pasted-image-20240916212318.png",
+    "Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP02 - Algorithms in Action.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -135,28 +23,6 @@
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
     "lib/media/3d6c1bdc4d87cde4de67.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -191,28 +57,6 @@
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
     "lib/media/3d6c1bdc4d87cde4de67.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -231,294 +75,6 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "Images/iBi_Course/Pasted image 20240904150202.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 68947,
-      "exportedPath": "images/ibi_course/pasted-image-20240904150202.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904150308.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 187559,
-      "exportedPath": "images/ibi_course/pasted-image-20240904150308.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904152337.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 57386,
-      "exportedPath": "images/ibi_course/pasted-image-20240904152337.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904152412.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 249728,
-      "exportedPath": "images/ibi_course/pasted-image-20240904152412.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904165644.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 68158,
-      "exportedPath": "images/ibi_course/pasted-image-20240904165644.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904165926.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 2120952,
-      "exportedPath": "images/ibi_course/pasted-image-20240904165926.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904173216.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 43215,
-      "exportedPath": "images/ibi_course/pasted-image-20240904173216.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904174533.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 83830,
-      "exportedPath": "images/ibi_course/pasted-image-20240904174533.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904181118.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 79304,
-      "exportedPath": "images/ibi_course/pasted-image-20240904181118.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904190452.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 91097,
-      "exportedPath": "images/ibi_course/pasted-image-20240904190452.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904190932.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 121446,
-      "exportedPath": "images/ibi_course/pasted-image-20240904190932.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904191010.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 99152,
-      "exportedPath": "images/ibi_course/pasted-image-20240904191010.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904191310.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 136663,
-      "exportedPath": "images/ibi_course/pasted-image-20240904191310.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904192404.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 705084,
-      "exportedPath": "images/ibi_course/pasted-image-20240904192404.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904192603.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 99114,
-      "exportedPath": "images/ibi_course/pasted-image-20240904192603.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904192747.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 30778,
-      "exportedPath": "images/ibi_course/pasted-image-20240904192747.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904192846.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 147628,
-      "exportedPath": "images/ibi_course/pasted-image-20240904192846.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904193017.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 107805,
-      "exportedPath": "images/ibi_course/pasted-image-20240904193017.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904193643.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 225195,
-      "exportedPath": "images/ibi_course/pasted-image-20240904193643.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904193729.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 93024,
-      "exportedPath": "images/ibi_course/pasted-image-20240904193729.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904200143.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 117983,
-      "exportedPath": "images/ibi_course/pasted-image-20240904200143.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904200217.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 73264,
-      "exportedPath": "images/ibi_course/pasted-image-20240904200217.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904200308.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 91316,
-      "exportedPath": "images/ibi_course/pasted-image-20240904200308.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904200816.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 392023,
-      "exportedPath": "images/ibi_course/pasted-image-20240904200816.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904201401.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 111568,
-      "exportedPath": "images/ibi_course/pasted-image-20240904201401.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904201541.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 47687,
-      "exportedPath": "images/ibi_course/pasted-image-20240904201541.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240904201634.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 77389,
-      "exportedPath": "images/ibi_course/pasted-image-20240904201634.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905120939.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 1332609,
-      "exportedPath": "images/ibi_course/pasted-image-20240905120939.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905123253.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 565105,
-      "exportedPath": "images/ibi_course/pasted-image-20240905123253.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905123658.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 182886,
-      "exportedPath": "images/ibi_course/pasted-image-20240905123658.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905154142.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 299302,
-      "exportedPath": "images/ibi_course/pasted-image-20240905154142.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905154242.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 44685,
-      "exportedPath": "images/ibi_course/pasted-image-20240905154242.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905154253.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 44685,
-      "exportedPath": "images/ibi_course/pasted-image-20240905154253.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905154759.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 332768,
-      "exportedPath": "images/ibi_course/pasted-image-20240905154759.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905154833.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 14694,
-      "exportedPath": "images/ibi_course/pasted-image-20240905154833.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905161542.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 82258,
-      "exportedPath": "images/ibi_course/pasted-image-20240905161542.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905162035.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 466064,
-      "exportedPath": "images/ibi_course/pasted-image-20240905162035.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905162318.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 1932622,
-      "exportedPath": "images/ibi_course/pasted-image-20240905162318.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905173548.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 150714,
-      "exportedPath": "images/ibi_course/pasted-image-20240905173548.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905174043.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 54845,
-      "exportedPath": "images/ibi_course/pasted-image-20240905174043.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905174337.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 120935,
-      "exportedPath": "images/ibi_course/pasted-image-20240905174337.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905174541.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 111705,
-      "exportedPath": "images/ibi_course/pasted-image-20240905174541.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905174724.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 177427,
-      "exportedPath": "images/ibi_course/pasted-image-20240905174724.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905175216.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 182191,
-      "exportedPath": "images/ibi_course/pasted-image-20240905175216.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240905175343.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 162360,
-      "exportedPath": "images/ibi_course/pasted-image-20240905175343.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240909094830.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 10740,
-      "exportedPath": "images/ibi_course/pasted-image-20240909094830.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240909095817.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 11388,
-      "exportedPath": "images/ibi_course/pasted-image-20240909095817.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240909100650.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 1875,
-      "exportedPath": "images/ibi_course/pasted-image-20240909100650.png",
-      "dependencies": []
-    },
     "notes/bioinformatics/introdução-à-bioinformárica/materials/knowledge-representation-and-ontologies.pdf": {
       "modifiedTime": 1725990573363,
       "sourceSize": 78,
@@ -538,333 +94,195 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 87902,
+      "modifiedTime": 1726595953268,
+      "sourceSize": 4755,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 440,
+      "modifiedTime": 1726595953268,
+      "sourceSize": 389,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 19750,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 711831,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 368,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 2836,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1726518799475,
+      "modifiedTime": 1726595953268,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240913151759.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 279137,
-      "exportedPath": "images/ibi_course/pasted-image-20240913151759.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240913162020.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 36637,
-      "exportedPath": "images/ibi_course/pasted-image-20240913162020.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240913162326.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 35226,
-      "exportedPath": "images/ibi_course/pasted-image-20240913162326.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240913164307.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 30096,
-      "exportedPath": "images/ibi_course/pasted-image-20240913164307.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240913170709.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 10745,
-      "exportedPath": "images/ibi_course/pasted-image-20240913170709.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240913221119.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 71637,
-      "exportedPath": "images/ibi_course/pasted-image-20240913221119.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240913221731.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 55265,
-      "exportedPath": "images/ibi_course/pasted-image-20240913221731.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240913221831.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 33475,
-      "exportedPath": "images/ibi_course/pasted-image-20240913221831.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240914075516.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 27093,
-      "exportedPath": "images/ibi_course/pasted-image-20240914075516.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240915072259.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 24552,
-      "exportedPath": "images/ibi_course/pasted-image-20240915072259.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240915075206.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 24552,
-      "exportedPath": "images/ibi_course/pasted-image-20240915075206.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240915075221.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 25922,
-      "exportedPath": "images/ibi_course/pasted-image-20240915075221.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240915075234.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 24932,
-      "exportedPath": "images/ibi_course/pasted-image-20240915075234.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240915075843.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 25168,
-      "exportedPath": "images/ibi_course/pasted-image-20240915075843.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240915075857.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 27801,
-      "exportedPath": "images/ibi_course/pasted-image-20240915075857.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240915075912.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 27928,
-      "exportedPath": "images/ibi_course/pasted-image-20240915075912.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240915075928.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 24969,
-      "exportedPath": "images/ibi_course/pasted-image-20240915075928.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240915080140.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 27668,
-      "exportedPath": "images/ibi_course/pasted-image-20240915080140.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240915080152.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 27357,
-      "exportedPath": "images/ibi_course/pasted-image-20240915080152.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240915090024.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 855193,
-      "exportedPath": "images/ibi_course/pasted-image-20240915090024.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240915091746.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 92119,
-      "exportedPath": "images/ibi_course/pasted-image-20240915091746.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916105730.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 138172,
-      "exportedPath": "images/ibi_course/pasted-image-20240916105730.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916113200.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 291555,
-      "exportedPath": "images/ibi_course/pasted-image-20240916113200.png",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
@@ -999,277 +417,10 @@
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
-    "Images/iBi_Course/Pasted image 20240916160745.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 647511,
-      "exportedPath": "images/ibi_course/pasted-image-20240916160745.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916183414.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 26617,
-      "exportedPath": "images/ibi_course/pasted-image-20240916183414.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916184119.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 6384,
-      "exportedPath": "images/ibi_course/pasted-image-20240916184119.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916185115.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 329470,
-      "exportedPath": "images/ibi_course/pasted-image-20240916185115.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916185318.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 156493,
-      "exportedPath": "images/ibi_course/pasted-image-20240916185318.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916190457.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 185334,
-      "exportedPath": "images/ibi_course/pasted-image-20240916190457.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916190828.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 82530,
-      "exportedPath": "images/ibi_course/pasted-image-20240916190828.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916191025.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 91092,
-      "exportedPath": "images/ibi_course/pasted-image-20240916191025.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916191040.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 52057,
-      "exportedPath": "images/ibi_course/pasted-image-20240916191040.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916201242.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 147606,
-      "exportedPath": "images/ibi_course/pasted-image-20240916201242.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916201336.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 40205,
-      "exportedPath": "images/ibi_course/pasted-image-20240916201336.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916201646.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 136595,
-      "exportedPath": "images/ibi_course/pasted-image-20240916201646.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916202406.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 1171496,
-      "exportedPath": "images/ibi_course/pasted-image-20240916202406.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916202929.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 202350,
-      "exportedPath": "images/ibi_course/pasted-image-20240916202929.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916203126.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 5313,
-      "exportedPath": "images/ibi_course/pasted-image-20240916203126.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916210313.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 156175,
-      "exportedPath": "images/ibi_course/pasted-image-20240916210313.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916210639.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 388935,
-      "exportedPath": "images/ibi_course/pasted-image-20240916210639.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916211050.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 591743,
-      "exportedPath": "images/ibi_course/pasted-image-20240916211050.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916211812.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 490055,
-      "exportedPath": "images/ibi_course/pasted-image-20240916211812.png",
-      "dependencies": []
-    },
-    "Images/iBi_Course/Pasted image 20240916212318.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 31305,
-      "exportedPath": "images/ibi_course/pasted-image-20240916212318.png",
-      "dependencies": []
-    },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Program.md": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 990,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/program.html",
-      "dependencies": []
-    },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Translated Regions Detection.md": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 7250,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/translated-regions-detection.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240916160745.png",
-        "lib/media/pasted-image-20240916183414.png",
-        "lib/media/pasted-image-20240916184119.png",
-        "lib/media/pasted-image-20240916185115.png",
-        "lib/media/pasted-image-20240916185318.png",
-        "lib/media/pasted-image-20240916190828.png",
-        "lib/media/pasted-image-20240916191025.png",
-        "lib/media/pasted-image-20240916191040.png",
-        "lib/media/pasted-image-20240916190457.png",
-        "lib/media/pasted-image-20240916201242.png",
-        "lib/media/pasted-image-20240916201336.png",
-        "lib/media/pasted-image-20240916201646.png",
-        "lib/media/pasted-image-20240916202406.png",
-        "lib/media/pasted-image-20240916202929.png",
-        "lib/media/pasted-image-20240916203126.png",
-        "lib/media/pasted-image-20240916210639.png",
-        "lib/media/pasted-image-20240916210313.png",
-        "lib/media/pasted-image-20240916211050.png",
-        "lib/media/pasted-image-20240916211812.png",
-        "lib/media/pasted-image-20240916212318.png"
-      ]
-    },
-    "lib/media/pasted-image-20240916160745.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 647511,
-      "exportedPath": "lib/media/pasted-image-20240916160745.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916183414.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 26617,
-      "exportedPath": "lib/media/pasted-image-20240916183414.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916184119.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 6384,
-      "exportedPath": "lib/media/pasted-image-20240916184119.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916185115.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 329470,
-      "exportedPath": "lib/media/pasted-image-20240916185115.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916185318.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 156493,
-      "exportedPath": "lib/media/pasted-image-20240916185318.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916190828.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 82530,
-      "exportedPath": "lib/media/pasted-image-20240916190828.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916191025.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 91092,
-      "exportedPath": "lib/media/pasted-image-20240916191025.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916191040.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 52057,
-      "exportedPath": "lib/media/pasted-image-20240916191040.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916190457.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 185334,
-      "exportedPath": "lib/media/pasted-image-20240916190457.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916201242.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 147606,
-      "exportedPath": "lib/media/pasted-image-20240916201242.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916201336.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 40205,
-      "exportedPath": "lib/media/pasted-image-20240916201336.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916201646.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 136595,
-      "exportedPath": "lib/media/pasted-image-20240916201646.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916202406.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 1171496,
-      "exportedPath": "lib/media/pasted-image-20240916202406.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916202929.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 202350,
-      "exportedPath": "lib/media/pasted-image-20240916202929.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916203126.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 5313,
-      "exportedPath": "lib/media/pasted-image-20240916203126.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916210639.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 388935,
-      "exportedPath": "lib/media/pasted-image-20240916210639.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916210313.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 156175,
-      "exportedPath": "lib/media/pasted-image-20240916210313.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916211050.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 591743,
-      "exportedPath": "lib/media/pasted-image-20240916211050.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916211812.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 490055,
-      "exportedPath": "lib/media/pasted-image-20240916211812.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240916212318.png": {
-      "modifiedTime": 1726518799475,
-      "sourceSize": 31305,
-      "exportedPath": "lib/media/pasted-image-20240916212318.png",
+    "Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP02 - Algorithms in Action.md": {
+      "modifiedTime": 1726595953268,
+      "sourceSize": 3670,
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/hands-on-class-ap02-algorithms-in-action.html",
       "dependencies": []
     }
   }

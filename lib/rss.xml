@@ -1,429 +1,106 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Workshop03]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Workshop03</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 16 Sep 2024 20:33:21 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 16 Sep 2024 20:33:19 GMT</pubDate><copyright><![CDATA[jmgcfdea]]></copyright><ttl>60</ttl><dc:creator>jmgcfdea</dc:creator><item><title><![CDATA[Program]]></title><description><![CDATA[ 
- <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Programa.md<br>
-Created: 2024-09-02 14:55<br>
-Updated: 2024-09-02 14:55<br>
-Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Program</a><br>
-Subject:  Program<br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Workshop03]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Workshop03</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 17 Sep 2024 17:59:13 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 17 Sep 2024 17:59:13 GMT</pubDate><copyright><![CDATA[jmgcfdea]]></copyright><ttl>60</ttl><dc:creator>jmgcfdea</dc:creator><item><title><![CDATA[Hands-on Class - AP02 - Algorithms in Action]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP02 - Algorithms in Action.md<br>
+Created: 2024-09-17 16:09<br>
+Updated: 2024-09-17 16:09<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Hands-on Class - AP02 - Algorithms in Action</a><br>
+Subject:  Hands-on Class - AP02 - Algorithms in Action<br>
 Tags:<br>Ontology
-parent::<a data-href="Introdução à Bioinformática" href="notes\bioinformatics\introdução-à-bioinformárica\introdução-à-bioinformática.html" class="internal-link" target="_self" rel="noopener">Introdução à Bioinformática</a>
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a>
 <br><br><br><br>
-<br>Topic 0: <a data-href="Ontologies &amp; Knowledge Representation" href="notes\bioinformatics\introdução-à-bioinformárica\ontologies-&amp;-knowledge-representation.html" class="internal-link" target="_self" rel="noopener">Ontologies &amp; Knowledge Representation</a>
-<br><br>
-<br>
-Lecture 1: <a data-href="Biological Sequences" href="notes\bioinformatics\introdução-à-bioinformárica\biological-sequences.html" class="internal-link" target="_self" rel="noopener">Biological Sequences</a>
-
-<br>Support Topic 1: <a data-href="Relational Databases" href="notes\bioinformatics\introdução-à-bioinformárica\relational-databases.html" class="internal-link" target="_self" rel="noopener">Relational Databases</a>
-<br>Hands-on Session 1: <a data-href="Protocolo_1_Registo_Armazenamento_Sequências" href="notes\bioinformatics\introdução-à-bioinformárica\protocolo_1_registo_armazenamento_sequências.html" class="internal-link" target="_self" rel="noopener">Protocolo_1_Registo_Armazenamento_Sequências</a>
-
+<br>Input Sequence
 
 <br>
-Lecture 2:  <a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a>
+Aj786248.1
 
-<br>Additional Topic 2: <a data-href="Translated Regions Detection" href="notes\bioinformatics\introdução-à-bioinformárica\translated-regions-detection.html" class="internal-link" target="_self" rel="noopener">Translated Regions Detection</a>
-<br>Hands-on Session 2: <a data-href="Hands-on Class - AP02 - Algorithms in Action" href="notes\bioinformatics\introdução-à-bioinformárica\hands-on-class-ap02-algorithms-in-action.html" class="internal-link" target="_self" rel="noopener">Hands-on Class - AP02 - Algorithms in Action</a>
-
-
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\program.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Program.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 15:04:36 GMT</pubDate></item><item><title><![CDATA[Translated Regions Detection]]></title><description><![CDATA[ 
- <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Translated Regions Detection.md<br>
-Created: 2024-09-16 15:59<br>
-Updated: 2024-09-16 15:59<br>
-Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Translated Regions Detection</a><br>
-Subject:  Translated Regions Detection<br>
-Tags:<br>Ontology
-parent::<a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a> <a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Coding region prediction" href="workshop\edam__nodes\operations\coding-region-prediction.html" class="internal-link" target="_self" rel="noopener">Coding region prediction</a> <a data-href="Ab-initio gene prediction" href="workshop\edam__nodes\operations\ab-initio-gene-prediction.html" class="internal-link" target="_self" rel="noopener">Ab-initio gene prediction</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/data/Genetic code" data-href="Workshop/EDAM__Nodes/data/Genetic code" href="workshop\edam__nodes\data\genetic-code.html" class="internal-link" target="_self" rel="noopener">Genetic code</a> <a data-href="Hidden Markov model" href="workshop\edam__nodes\data\hidden-markov-model.html" class="internal-link" target="_self" rel="noopener">Hidden Markov model</a> <a data-href="Workflows" href="workshop\edam__nodes\topics\workflows.html" class="internal-link" target="_self" rel="noopener">Workflows</a> <a data-href="GFF3" href="workshop\edam__nodes\formats\gff3.html" class="internal-link" target="_self" rel="noopener">GFF3</a>
-<br><br><br>
-<br>
-Where to begin?
- <img alt="Pasted image 20240916160745.png" src="lib\media\pasted-image-20240916160745.png"><br>
+Source: <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/nuccore/AJ786248.1?report=fasta" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/nuccore/AJ786248.1?report=fasta" target="_blank">INSDC::GenBank</a><br>
 .
+
+
+
+
+<br>Suggested Tool
+
+<br><a data-tooltip-position="top" aria-label="https://nc3.neb.com/NEBcutter/" rel="noopener" class="external-link" href="https://nc3.neb.com/NEBcutter/" target="_blank">NebCutter</a> (NEB)<br>
+- &gt; <br>
+&gt; .<br>
+&gt;  
 
 
 <br><br>
-<br>Gene <a data-href="gene" href="gene" class="internal-link" target="_self" rel="noopener">gene</a>
-
-<br>
-Definition
-“A unit of DNA which performs one function. Usually, this is equated with the production of one RNA or one protein. A gene contains coding regions, introns, untranslated regions and control regions.”<br>
-Source: <a data-tooltip-position="top" aria-label="http://www.ebi.ac.uk/2can/glossary" rel="noopener" class="external-link" href="http://www.ebi.ac.uk/2can/glossary" target="_blank">EBI::2can</a><br>
-.
-
-
-<br>Includes
-
-<br>Coding regions
-<br>Introns
-<br>Non-translated regions
-<br>Regulatory regions
-
-
-
-
-<br>Coding Sequence (CDS)
-
-<br>
-Definition
-“The portion of a gene or an mRNA which actually codes for a protein. Introns are not coding sequences; nor are the 5' or 3' untranslated regions (or the flanking regions, for that matter - they are not even transcribed into mRNA).”<br>
-Source: <a data-tooltip-position="top" aria-label="http://www.ebi.ac.uk/2can/glossary" rel="noopener" class="external-link" href="http://www.ebi.ac.uk/2can/glossary" target="_blank">EBI::2can</a><br>
-.
-
-
-<br>Limitations
-
-<br>Sequence based
-<br>Introns excluded
-<br>Only protein-coding genes
-
-
-<br>
-
-<img alt="Pasted image 20240916183414.png" src="lib\media\pasted-image-20240916183414.png"><br>
-.
-
-
-
-
-<br>Open Reading Frame (ORF)
-
-<br>
-Definition
-“A sequence of successive nucleotide triplets that are read as CODONS specifying AMINO ACIDS and begin with an INITIATOR CODON and end with a stop codon ( CODON, TERMINATOR).”<br>
-Source: NCBI(<a rel="noopener" class="external-link" href="http://www.nlm.nih.gov/cgi/mesh/2009/" target="_blank">http://www.nlm.nih.gov/cgi/mesh/2009/</a> ; UniqueID:  D016366)<br>
-.
-
-
-<br>Limitations
-
-<br>Codon-dependent reading
-<br>Similar to CDS, but usually used as reading interpretation.
-<br><img alt="Pasted image 20240916184119.png" src="lib\media\pasted-image-20240916184119.png" style="width: 100px; max-width: 100%;">
-
-
-
-
-<br>Expressed Sequence Tag (EST)
-
-<br>
-Definition
-“A small sequence from an expressed gene that can be amplified by PCR. ESTs act as physical markers for cloning and full length sequencing of the cDNAs of expressed genes. Typically identified by purifying mRNAs, converting to cDNAs, and then sequencing a portion of the cDNAs. .”<br>
-Source: <a data-tooltip-position="top" aria-label="http://www.ebi.ac.uk/2can/glossary" rel="noopener" class="external-link" href="http://www.ebi.ac.uk/2can/glossary" target="_blank">EBI::2can</a><br>
-.
-
-
-<br>
-Making of
-<img alt="Pasted image 20240916185115.png" src="lib\media\pasted-image-20240916185115.png" style="width: 400px; max-width: 100%;"><br>
-. 
-
-
-<br>
-Visualized
- <img alt="Pasted image 20240916185318.png" src="lib\media\pasted-image-20240916185318.png" style="width: 500px; max-width: 100%;"><br>
-.
-
-
-
-
-<br><br>
-<br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Three-domain_system" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Three-domain_system" target="_blank">Phylogenetic Domains</a>
-
-<br>Different challenges
-
-<br>Gene density
-
-<br>Bacteria
-
-<br>~1 gene / kbp
-<br>CDS represent circa 70%
-<br>
-M. tuberculosis
-<img alt="Pasted image 20240916190828.png" src="lib\media\pasted-image-20240916190828.png"><br>
-.
-
-
-
-
-<br>Eukarya
-
-<br>~0.01 gene / kbp
-<br>CDS represent circa 5%
-<br>[! M. musculus]
-
- <img alt="Pasted image 20240916191025.png" src="lib\media\pasted-image-20240916191025.png"><br>
-Detail<br>
-<img alt="Pasted image 20240916191040.png" src="lib\media\pasted-image-20240916191040.png" style="width: 200px; max-width: 100%;"><br>
-.
-
-
-
-
-
-
-<br>Chromosome geometry
-
-<br>Bacteria
-
-<br>Circular
-
-
-<br>Eukarya
-
-<br>Linear
-
-
-
-
-<br>ORF arrangement
-
-<br>Eukarya
-
-<br>May present Introns 
-
-<br>The ORF may be present across the 3 available Reading Frames.
-
-
-<br>Both chains may present concurrent genes
-<br>Transcription may vary for different conditions for the same gene
-
-
-<br>Bacteria
-
-<br>Uninterrupted
-<br>No concurrent coding in both chains
-<br>
-Bacterial operon
-<img alt="Pasted image 20240916190457.png" src="lib\media\pasted-image-20240916190457.png" style="width: 200px; max-width: 100%;">
-
-
-
-
-
-
-<br>Heterologous sequences may be present
-
-<br>Temperate phages
-<br>Transposons
-
-
-
-
-
-
-<br>Supplemental data availability
-
-<br>Homologous sets of
-
-<br>Protein sequences
-<br>cDNA or EST libraries
-
-
+<br>Submit each sequence to NebCutter
+<br>Obtain a result for endonucleases that only cut once along the sequence
+<br>Repeat the operation for enzymes with a patter of at least 6 bp.
+<br>Look for the:
+
+<br>Restriction map.
+<br>Electroforesis simulated run.
 
 
 <br><br><br>
-<br>Orfing
-
-<br>Mapping Start and Stop Codons.
-
-<br>Using a suitable <a data-tooltip-position="top" aria-label="http://edamontology.org/data_1598" rel="noopener" class="external-link" href="http://edamontology.org/data_1598" target="_blank">Genetic Code</a>
-<br>For each available Reading Frame
-
-<br>3 per Chain
-
+<br>
+Input Sequence
 
 <br>
+Ab007638.1
 
-<img alt="Pasted image 20240916201242.png" src="lib\media\pasted-image-20240916201242.png" style="width: 400px; max-width: 100%;">
+Source: <a data-tooltip-position="top" aria-label="https://www.ebi.ac.uk/ena/browser/api/fasta/AB007638.1" rel="noopener" class="external-link" href="https://www.ebi.ac.uk/ena/browser/api/fasta/AB007638.1" target="_blank">EBI::ENA</a>
+Look for annotation at <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/nuccore/AB007638.1?report=graph" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/nuccore/AB007638.1?report=graph" target="_blank">NCBI</a>
 
-
-<br>
-
-<img alt="Pasted image 20240916201336.png" src="lib\media\pasted-image-20240916201336.png" style="width: 400px; max-width: 100%;">
-
-
-
-
-<br>Stretches of sequence without a Stop codon, and beginning with a Start codon
-
-<br>Putative ORF
-
-
-<br>The longer the putative ORF
-
-<br>The more plausible its existence will be
-
-<br>Small ORFs
-
-<br>Even real
-
-<br>Will not be considered.
-
-
-
-
-
-
-
-
-<br>Typical success rate
-
-<br>&lt; 85% of the real ORFs present
-
-<br>Too low to be really useful.
-
-
-
-
-<br>Limitations
-
-<br>No introns may be present
-
-
-<br>Example Implementation
-
-<br><a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/orffinder/" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/orffinder/" target="_blank">NCBI::ORF Finder</a>
-
-<br>
-
-<img alt="Pasted image 20240916201646.png" src="lib\media\pasted-image-20240916201646.png" style="width: 500px; max-width: 100%;"><br>
 .
 
 
 
 
-
-
-
-
-<br>Matching to Previously Trained <a data-tooltip-position="top" aria-label="http://edamontology.org/data_1364" rel="noopener" class="external-link" href="http://edamontology.org/data_1364" target="_blank">Hidden Markov Model (HMM)</a> 
-
-<br>Probabilistic model that relates tangible states (observable) to hidden ones conveying a feature (e.g. being a gene)
-
 <br>
-A gentle introduction
-<img alt="Pasted image 20240916202406.png" src="lib\media\pasted-image-20240916202406.png">
+Suggested Tool
 
-
-<br>
-Getting serious
-<img alt="Pasted image 20240916202929.png" src="lib\media\pasted-image-20240916202929.png">
-
-
-<br>
-In fact
- <img alt="Pasted image 20240916203126.png" src="lib\media\pasted-image-20240916203126.png">
-
-
-
-
-<br>Training of the Models is crucial for the result quality
+<br><a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/orffinder/" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/orffinder/" target="_blank">NCBI::ORFinder</a><br>
+- &gt; <br>
+&gt; .
 
 
 <br><br>
-<br>Nobody relies on ab initio tools anymore
+<br>Submit AB007638.1 to ORF Finder.
+<br>Choose a Genetic Code before proceeding with the analysis
+
+<br>Check the Genetic Codes support page before deciding.
+
+
+<br>Compare the generated ORF set with the refined annotation available at NCBI.
+<br><br><br>
+<br>
+Input Sequence
 
 <br>
+Ab007638.1
 
-<img alt="Pasted image 20240916210639.png" src="lib\media\pasted-image-20240916210639.png"><br>
-. 
-
-
-<br>Workflows feeding a pipeline may enhance the quality of the prediction by chaining
-
-<br>Masker for putative heterologous sequences (RepeatMasker)
-<br>Parallel ab initio tools
-
-<br>e.g. Augustus, SNAP, etc
-
-
-<br>Evidence based gene prediction (proteins, EST, etc)
-<br>Consolidation of all the prediction through consensus
-<br>Refinement of the boundaries of the predictions (e.g. Exonerate)
-<br>Unified annotation for the sequence
-<br>
-
-<img alt="Pasted image 20240916210313.png" src="lib\media\pasted-image-20240916210313.png"><br>
-.
+Source: <a data-tooltip-position="top" aria-label="https://www.ebi.ac.uk/ena/browser/api/fasta/AB007638.1" rel="noopener" class="external-link" href="https://www.ebi.ac.uk/ena/browser/api/fasta/AB007638.1" target="_blank">EBI::ENA</a>
 
 
 
-
-<br>Complexity is not a substitute for training quality
 
 <br>
+Suggested Tool
 
-<img alt="Pasted image 20240916211050.png" src="lib\media\pasted-image-20240916211050.png">
-
-
-
-
+<br><a data-tooltip-position="top" aria-label="https://bioinf.uni-greifswald.de/augustus/submission.php" rel="noopener" class="external-link" href="https://bioinf.uni-greifswald.de/augustus/submission.php" target="_blank">Augustus</a><br>
+- &gt; <br>
+&gt; .
 
 
 <br><br>
-<br>Formats
-
-<br>Requirement for being open-ended 
-
-<br>Preserving the ability to grow in a organic fashion
-
-
-<br>The sequence may be absent
-<br>Case Study
-
-<br><a data-tooltip-position="top" aria-label="http://edamontology.org/format_1975" rel="noopener" class="external-link" href="http://edamontology.org/format_1975" target="_blank">GFF3</a> 
-
-<br><a data-tooltip-position="top" aria-label="http://www.sequenceontology.org/gff3.shtml" rel="noopener" class="external-link" href="http://www.sequenceontology.org/gff3.shtml" target="_blank">Tabular nature</a>
+<br>Upload the same sequence.
+<br>Choose the closest model available.
+<br>Scan both strands
+<br>No alternative transcripts
+<br>Predict only complete genes
+<br>If possible, visualize the result graphically.
 
 <br>
+Suggestion
+ 
+ .
 
 
 
 
-<br>Hierarchical Features
-
-<br>Molecule
-<br>Gene
-<br>CDS
-<br>Exon
-<br>Transcript
-<br>UTR
-<br>etc
-
-
-
-
-<br>
-Example
-<img alt="Pasted image 20240916211812.png" src="lib\media\pasted-image-20240916211812.png"><br>
-.
-
-
-<br>Intended for being visualized graphically
-
-<br>
-Generic example
-<img alt="Pasted image 20240916212318.png" src="lib\media\pasted-image-20240916212318.png"><br>
-.
-
-
-<br>Example Tools
-
-<br>SANGER::<a data-tooltip-position="top" aria-label="https://sanger-pathogens.github.io/Artemis/Artemis/" rel="noopener" class="external-link" href="https://sanger-pathogens.github.io/Artemis/Artemis/" target="_blank">Artemis</a>
-
-<br>Mainly a java based editor
-
-
-<br>GMOD::<a data-tooltip-position="top" aria-label="https://github.com/GMOD/Apollo3" rel="noopener" class="external-link" href="https://github.com/GMOD/Apollo3" target="_blank">Apollo</a>
-
-<br>Intended for server-side
-
-
-
-
-
-
-
-
-
-
-
-
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\translated-regions-detection.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Translated Regions Detection.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 20:31:03 GMT</pubDate><enclosure url="lib\media\pasted-image-20240916160745.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240916160745.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\hands-on-class-ap02-algorithms-in-action.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP02 - Algorithms in Action.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Tue, 17 Sep 2024 17:57:40 GMT</pubDate></item></channel></rss>
