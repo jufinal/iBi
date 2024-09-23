@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Workshop03]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Workshop03</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 18 Sep 2024 18:16:12 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 18 Sep 2024 18:15:59 GMT</pubDate><copyright><![CDATA[jmgcfdea]]></copyright><ttl>60</ttl><dc:creator>jmgcfdea</dc:creator><item><title><![CDATA[Algorithms for Bioinformatics]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Workshop03]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Workshop03</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 23 Sep 2024 11:44:29 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 23 Sep 2024 11:44:13 GMT</pubDate><copyright><![CDATA[jmgcfdea]]></copyright><ttl>60</ttl><dc:creator>jmgcfdea</dc:creator><item><title><![CDATA[Algorithms for Bioinformatics]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Algorithms for Bioinformatics.md<br>
 Created: 2024-09-13 15:10<br>
 Updated: 2024-09-13 15:10<br>
@@ -364,7 +364,7 @@ Sample output
 
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Algorithms for Bioinformatics.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240913151759.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240913151759.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Biological Sequences]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Algorithms for Bioinformatics.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240913151759.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240913151759.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Biological Sequences]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Biological Sequences.md<br>
 Created: 2024-09-03 15:51<br>
 Updated: 2024-09-03 15:51<br>
@@ -825,7 +825,7 @@ Source: EDAM::format_1915<br>
 
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\biological-sequences.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Biological Sequences.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240904150308.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240904150308.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dot-Plot]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\biological-sequences.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Biological Sequences.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240904150308.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240904150308.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dot-Plot]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Dot-Plot.md<br>
 Created: 2024-09-14 09:09<br>
 Updated: 2024-09-14 09:09<br>
@@ -1036,7 +1036,7 @@ Source: <a data-tooltip-position="top" aria-label="https://myhits.sib.swiss/util
 <br>Non interactive.
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\dot-plot.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Dot-Plot.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 15 Sep 2024 10:01:06 GMT</pubDate><enclosure url="lib\media\pasted-image-20240915075206.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240915075206.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hands-on Class - AP02 - Algorithms in Action]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\dot-plot.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Dot-Plot.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 15 Sep 2024 10:01:06 GMT</pubDate><enclosure url="lib\media\pasted-image-20240915075206.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240915075206.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hands-on Class - AP02 - Algorithms in Action]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP02 - Algorithms in Action.md<br>
 Created: 2024-09-17 16:09<br>
 Updated: 2024-09-17 16:09<br>
@@ -1184,7 +1184,226 @@ Source: <a data-tooltip-position="top" aria-label="https://rest.uniprot.org/unip
 
 
 
-<br><br><br><a data-href="ibi24_Protocol4AP02.pdf" href="notes\bioinformatics\introdução-à-bioinformárica\materials\ibi24_protocol4ap02.pdf" class="internal-link" target="_self" rel="noopener">ibi24_Protocol4AP02.pdf</a>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\hands-on-class-ap03-algorithms-in-action.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP03 - Algorithms in Action.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Tue, 17 Sep 2024 15:09:21 GMT</pubDate></item><item><title><![CDATA[Introdução à Bioinformática]]></title><description><![CDATA[<a class="tag" href="?query=tag:undidadeCurricular" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#undidadeCurricular</a> <a class="tag" href="?query=tag:lbcm" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#lbcm</a> <a class="tag" href="?query=tag:jmgcfdea" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#jmgcfdea</a> 
+<br><br><br><a data-href="ibi24_Protocol4AP02.pdf" href="notes\bioinformatics\introdução-à-bioinformárica\materials\ibi24_protocol4ap02.pdf" class="internal-link" target="_self" rel="noopener">ibi24_Protocol4AP02.pdf</a>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\hands-on-class-ap03-algorithms-in-action.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP03 - Algorithms in Action.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Tue, 17 Sep 2024 15:09:21 GMT</pubDate></item><item><title><![CDATA[Hands-on Session_Proteins, sequences & algorithms]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Session_Proteins, sequences &amp; algorithms.md<br>
+Created: 2024-09-23 10:54<br>
+Updated: 2024-09-23 10:54<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Hands-on Session_Proteins, sequences &amp; algorithms</a><br>
+Subject:  Hands-on Session_Proteins, sequences &amp; algorithms<br>
+Tags:<br>Ontology
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis" data-href="Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis" href="notes\bioinformatics\introdução-à-bioinformárica\protein-sequence-analysis.html" class="internal-link" target="_self" rel="noopener">Protein Sequence Analysis</a>
+<br><br><br>This hands-on session is part of a procedure that will continued at a later session.<br>
+Students are invited to keep an individual record for each one of the sequences being  analyzed.<br>
+Students are strongly encouraged to rely on text-only record, both for input, and output.<br>
+This focus the student in the real nature of the raw tool output, and  allows for a more flexible exploitation of results.<br>
+For alternative approaches, note-taking or spreadsheet software are recommended.<br><br><br>&gt;Sequence_1
+MDLKESPSEGSLQPSSIQIFANTSTLHGIRHIFVYGPLTIRRVLWAVAFVGSLGLLLVE
+SSERVSYYFSYQHVTKVDEVVAQSLVFPAVTLCNLNGFRFSRLTTNDLYHAGELLALLD
+VNLQIPDPHLADPSVLEALRQKANFKHYKPKQFSMLEFLHRVGHDLKDMMLYCKFKGQE
+CGHQDFTTVFTKYGKCYMFNSGEDGKPLLTTVKGGTGNGLEIMLDIQQDEYLPIWGETE
+ETTFEAGVKVQIHSQSEPPFIQELGFGVAPGFQTFVATQEQRLTYLPPPWGECRSSEMG
+LDFFPVYSITACRIDCETRYIVENCNCRMVHMPGDAPFCTPEQHKECAEPALGLLAEKD
+SNYCLCRTPCNLTRYNKELSMVKIPSKTSAKYLEKKFNKSEKYISENILVLDIFFEALN
+YETIEQKKAYEVAALLGDIGGQMGLFIGASILTILELFDYIYELIKEKLLDLLGKEEDE
+GSHDENVSTCDTMPNHSETISHTVNVPLQTTLGTLEEIAC
+Copy<br>&gt;Sequence_2
+MELKTEEEEVGGVQPVSIQAFASSSTLHGLAHIFSYERLSLKRALWALCFLGSLAVLLC
+VCTERVQYYFCYHHVTKLDEVAASQLTFPAVTLCNLNEFRFSQVSKNDLYHAGELLALL
+NNRYEIPDTQMADEKQLEILQDKANFRSFKPKPFNMREFYDRAGHDIRDMLLSCHFRGE
+ACSAEDFKVVFTRYGKCYTFNSGQDGRPRLKTMKGGTGNGLEIMLDIQQDEYLPVWGET
+DETSFEAGIKVQIHSQDEPPFIDQLGFGVAPGFQTFVSCQEQRLIYLPSPWGTCNAVTM
+DSDFFDSYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEK
+DQEYCVCEMPCNLTRYGKELSMVKIPSKASAKYLAKKFNKSEQYIGENILVLDIFFEVL
+NYETIEQKKAYEIAGLLGDIGGQMGLFIGASILTVLELFDYAYEVIKHRLCRRGKCQKE
+AKRSSADKGVALSLDDVKRHNPCESLRGHPAGMTYAANILPHHPARGTFEDFTC
+Copy<br><br>
+<br>ExPASy::<a data-tooltip-position="top" aria-label="https://web.expasy.org/protparam/" rel="noopener" class="external-link" href="https://web.expasy.org/protparam/" target="_blank">ProtParam</a>
+
+<br>
+
+
+
+
+
+<br>ExPASy::<a data-tooltip-position="top" aria-label="https://web.expasy.org/peptide_cutter/" rel="noopener" class="external-link" href="https://web.expasy.org/peptide_cutter/" target="_blank">PeptideCutter</a>
+
+<br>
+
+
+
+
+
+<br><a data-tooltip-position="top" aria-label="https://phobius.sbc.su.se/" rel="noopener" class="external-link" href="https://phobius.sbc.su.se/" target="_blank">Phobius</a> (SBC)
+
+<br>
+
+
+
+
+
+<br><a data-tooltip-position="top" aria-label="https://dtu.biolib.com/DeepTMHMM" rel="noopener" class="external-link" href="https://dtu.biolib.com/DeepTMHMM" target="_blank">DeepTMHMM</a> (TUD)
+
+<br>
+
+
+
+
+
+<br><a data-tooltip-position="top" aria-label="http://bioinf.cs.ucl.ac.uk/psipred/" rel="noopener" class="external-link" href="http://bioinf.cs.ucl.ac.uk/psipred/" target="_blank">PSIPRED</a> (UCL)
+
+<br>
+
+
+
+
+
+<br><a data-tooltip-position="top" aria-label="https://npsa.lyon.inserm.fr/cgi-bin/npsa_automat.pl?page=/NPSA/npsa_lupas.html" rel="noopener" class="external-link" href="https://npsa.lyon.inserm.fr/cgi-bin/npsa_automat.pl?page=/NPSA/npsa_lupas.html" target="_blank">COILS</a> (PRABI)
+
+<br>
+
+
+
+
+
+<br><br>
+<br>Store locally the supplied sequences (folder, file and format)
+<br>Compare both sequences visually and record the main differences between both sequences
+<br>Determine to the best of your abilities
+
+<br>Molecular mass
+<br>Isoelectric point
+
+
+<br>Imagine that you are keen on design a discriminant test for both proteins.
+
+<br>Elect a tool to explore cutting agents that may cut both proteins
+
+<br>No more than twice
+<br>One agent that may yield fragments with length in line with the proportions
+
+<br>1 - 3 - 6
+
+
+<br>The same agent must cut(?) the other protein in a rather different way
+
+
+
+
+<br>Being a membrane bound protein or not (globular) is rather relevant
+
+<br>Look for signs of transmembrane regions for each protein
+
+<br>Use several tools
+<br>Look for concordance between their results
+
+
+<br>Map them to the sequence
+
+
+<br>Search for support evidence for any putative transmembrane region
+
+<br>Look int the inferred secondary structure
+
+
+<br>Add evidence for any hits on the existence of quaternary structure
+
+<br>Coiled-coils regions
+<br>Disordered regions with binding potential
+
+
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\hands-on-session_proteins,-sequences-&amp;-algorithms.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Session_Proteins, sequences &amp; algorithms.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 23 Sep 2024 11:42:00 GMT</pubDate></item><item><title><![CDATA[HMM - Hidden Markov Models]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/HMM - Hidden Markov Models.md<br>
+Created: 2024-09-20 16:14<br>
+Updated: 2024-09-20 16:14<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">HMM - Hidden Markov Models</a><br>
+Subject:  HMM - Hidden Markov Models<br>
+Tags:<br>Ontology
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis" data-href="Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis" href="notes\bioinformatics\introdução-à-bioinformárica\protein-sequence-analysis.html" class="internal-link" target="_self" rel="noopener">Protein Sequence Analysis</a>
+<br><br><br>
+<br>A door to the invisible
+
+<br>Observable states
+
+<br>The input data
+
+
+<br>Confusion Matrix
+
+<br>Connecting Observable to Hidden states
+<br>Levels of probability
+
+<br>Resulting from Training
+
+<br>Set of "solved" inputs
+
+
+
+
+
+
+<br>Hidden states
+
+<br>States of interest that the system may assume
+<br>Non-observable
+<br>Categorized through levels of
+
+<br>Posterior Probability
+
+<br>
+
+<img alt="Pasted image 20240916203126.png" src="lib\media\pasted-image-20240916203126.png"><br>
+.
+
+
+
+
+
+
+
+
+
+
+<br>From the realm of atmospherics - an example
+
+<br>Weather in Iberia is controlled by the global atmospheric circulation
+
+<br>
+
+<img alt="Pasted image 20240920162959.png" src="lib\media\pasted-image-20240920162959.png"><br>
+.
+
+
+
+
+<br>Either High or Low pressure cells are invisible to the naked eye, even considering cloud patterns
+
+<br>Their distribution, and movement are the direct cause of observable weather conditions
+<br>
+
+<img alt="Pasted image 20240920163344.png" src="lib\media\pasted-image-20240920163344.png"><br>
+.
+
+
+
+
+<br>A rather simple model can relate both layers of states
+
+<br>
+
+<img alt="Pasted image 20240920163618.png" src="lib\media\pasted-image-20240920163618.png">
+
+
+
+
+<br>Using the past meteorological data record, the model can be trained to reveal the
+
+<br>More probable current Hidden state
+<br>Given the present Observable state
+
+
+
+
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\hmm-hidden-markov-models.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/HMM - Hidden Markov Models.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Fri, 20 Sep 2024 15:39:45 GMT</pubDate><enclosure url="lib\media\pasted-image-20240916203126.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240916203126.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Introdução à Bioinformática]]></title><description><![CDATA[<a class="tag" href="?query=tag:undidadeCurricular" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#undidadeCurricular</a> <a class="tag" href="?query=tag:lbcm" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#lbcm</a> <a class="tag" href="?query=tag:jmgcfdea" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#jmgcfdea</a> 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md<br>
 Created: 2024-09-03 15:47<br>
 Updated: 2024-09-03 15:47<br>
@@ -1256,10 +1475,711 @@ Lecture 1: <a data-href="Biological Sequences" href="notes\bioinformatics\introd
 Lecture 2:  <a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a>
 
 <br>Additional Topic 2: <a data-href="Translated Regions Detection" href="notes\bioinformatics\introdução-à-bioinformárica\translated-regions-detection.html" class="internal-link" target="_self" rel="noopener">Translated Regions Detection</a>
-<br>Hands-on Session 2: <a data-href="Hands-on Class - AP03 - Algorithms in Action" href="notes\bioinformatics\introdução-à-bioinformárica\hands-on-class-ap03-algorithms-in-action.html" class="internal-link" target="_self" rel="noopener">Hands-on Class - AP03 - Algorithms in Action</a>
+<br>Hands-on Session 2: <a data-href="Hands-on Class - AP02 - Algorithms in Action" href="notes\bioinformatics\introdução-à-bioinformárica\hands-on-class-ap02-algorithms-in-action.html" class="internal-link" target="_self" rel="noopener">Hands-on Class - AP02 - Algorithms in Action</a>
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\program.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Program.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Tue, 17 Sep 2024 15:08:57 GMT</pubDate></item><item><title><![CDATA[Protocolo_1_Registo_Armazenamento_Sequências]]></title><description><![CDATA[ 
+<br>
+Lecture 3:  <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis" data-href="Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis" href="notes\bioinformatics\introdução-à-bioinformárica\protein-sequence-analysis.html" class="internal-link" target="_self" rel="noopener">Protein Sequence Analysis</a>
+
+<br>Additional Topic 3a: <a data-href="Sequence Evolution" href="notes\bioinformatics\introdução-à-bioinformárica\sequence-evolution.html" class="internal-link" target="_self" rel="noopener">Sequence Evolution</a>
+<br>Additional Topic 3b: <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Alignment" data-href="Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Alignment" href="notes\bioinformatics\introdução-à-bioinformárica\sequence-alignment.html" class="internal-link" target="_self" rel="noopener">Sequence Alignment</a>
+<br>Hands-on Session 2: <a data-href="Hands-on Session_Proteins, sequences &amp; algorithms" href="notes\bioinformatics\introdução-à-bioinformárica\hands-on-session_proteins,-sequences-&amp;-algorithms.html" class="internal-link" target="_self" rel="noopener">Hands-on Session_Proteins, sequences &amp; algorithms</a>
+
+
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\program.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Program.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 23 Sep 2024 10:34:34 GMT</pubDate></item><item><title><![CDATA[Protein Sequence Analysis]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis.md<br>
+Created: 2024-09-19 13:08<br>
+Updated: 2024-09-19 13:08<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Protein Sequence Analysis</a><br>
+Subject:  Protein Sequence Analysis<br>
+Tags:<br>Ontology
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="[Algorithms for Bioinformatics" href="[Algorithms for Bioinformatics" class="internal-link" target="_self" rel="noopener">[Algorithms for Bioinformatics</a> 
+<br><br><br>
+<br>The flow of the information
+
+<br>From genome to proteome
+
+<br>Always downstream (at that time)
+
+
+<br>
+Back in 1956
+<img alt="Pasted image 20240919191853.png" src="lib\media\pasted-image-20240919191853.png"><br>
+.
+
+
+
+
+<br>Seminal references
+
+<br>
+Crick, F.H.C. (1958) On Protein Synthesis. Symp. Soc. Exp. Biol. XII, 139-163​
+
+<br>
+Crick, F.H.C. (1970) Central dogma of molecular biology. Nature 227(5258):561-563<br>
+.
+
+
+<br><br><br>
+<br>The protein building blocks
+
+<br>Properties matter
+
+<br>Individual contribution
+
+<br>Scope
+
+<br>Neighbourhood
+<br>Native protein
+
+<br>Folding may bring toghether distant parts of the polymer
+
+<br>Synergistic effects to the whole folded protein
+
+
+
+
+
+
+
+
+<br>May be grouped according properties
+
+<br>5 to 7 groups
+
+<br>For most purposes each group may be considered as a general aminoacids.
+<br>
+Division in 7 groups
+<img alt="Pasted image 20240919192223.png" src="lib\media\pasted-image-20240919192223.png">
+
+
+
+
+
+
+<br>The native residue properties may undergo changes after the synthesis
+
+<br>Post-transcriptional modifications
+
+<br>
+
+<img alt="Pasted image 20240919202007.png" src="lib\media\pasted-image-20240919202007.png">
+<img alt="Pasted image 20240919202054.png" src="lib\media\pasted-image-20240919202054.png">
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br>
+Structural organization levels 
+
+<br>
+Primary structure
+
+<br>Linear sequence of residues
+
+
+<br>
+Secondary structure
+
+<br>
+Definition
+"Protein secondary structure is the local spatial conformation of the polypeptide backbone excluding the side chains.[1] The two most common secondary structural elements are alpha helices and beta sheets, though beta turns and omega loops occur as well. Secondary structure elements typically spontaneously form as an intermediate before the protein folds into its three dimensional tertiary structure<br>
+Secondary structure is formally defined by the pattern of hydrogen bonds between the amino hydrogen and carboxyl oxygen atoms in the peptide backbone. Secondary structure may alternatively be defined based on the regular pattern of backbone dihedral angles in a particular region of the Ramachandran plot regardless of whether it has the correct hydrogen bonds.<br>
+The concept of secondary structure was first introduced by Kaj Ulrik Linderstrøm-Lang at Stanford in 1952.[2][3] Other types of biopolymers such as nucleic acids also possess characteristic secondary structures." 
+<img alt="Pasted image 20240919203613.png" src="lib\media\pasted-image-20240919203613.png" style="width: 500px; max-width: 100%;">
+Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Protein_secondary_structure" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Protein_secondary_structure" target="_blank">Wikipedia</a><br>
+.
+
+
+
+
+<br>
+Supersecondary structure
+
+<br>
+Definition
+"A supersecondary structure is a compact three-dimensional protein structure of several adjacent elements of a secondary structure that is smaller than a protein domain or a subunit. Supersecondary structures can act as nucleations in the process of protein folding."<br>
+.<br>
+<img alt="Pasted image 20240919220841.png" src="lib\media\pasted-image-20240919220841.png" style="width: 300px; max-width: 100%;"><br>
+Table with functions of the domains for each anthrax toxin protein.
+Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Supersecondary_structure" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Supersecondary_structure" target="_blank">Wikipedia</a><br>
+.
+
+
+
+
+<br>
+Tertiary structure
+
+<br>The folding of the aminoacid chain.
+
+<br>
+Definition
+"Protein tertiary structure is the three-dimensional shape of a protein. The tertiary structure will have a single polypeptide chain "backbone" with one or more protein secondary structures"<br>
+.<br>
+<img alt="Pasted image 20240919221807.png" src="lib\media\pasted-image-20240919221807.png" style="width: 600px; max-width: 100%;"><br>
+.<br>
+Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Protein_tertiary_structure" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Protein_tertiary_structure" target="_blank">Wikipedia</a><br>
+.
+
+
+
+
+
+
+<br>
+Quaternary structure 
+
+<br>
+
+<img alt="Pasted image 20240920095317.png" src="lib\media\pasted-image-20240920095317.png" style="width: 400px; max-width: 100%;"><br>
+. 
+
+
+<br>
+Definition
+"is the fourth (and highest) classification level of protein structure. Protein quaternary structure refers to the structure of proteins which are themselves composed of two or more smaller protein chains (also referred to as subunits). Protein quaternary structure describes the number and arrangement of multiple folded protein subunits in a multi-subunit complex. It includes organizations from simple dimers to large homooligomers and complexes with defined or variable numbers of subunits. In contrast to the first three levels of protein structure, not all proteins will have a quaternary structure since some proteins function as single units. Protein quaternary structure can also refer to biomolecular complexes of proteins with nucleic acids and other cofactors."<br>
+Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Protein_quaternary_structure" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Protein_quaternary_structure" target="_blank">Wikipedia</a><br>
+.
+
+
+
+
+<br>
+Quinary structure
+
+<br>The environment meets the protein.
+<br>
+Definition
+"refers to the features of protein surfaces that are shaped by evolutionary adaptation to the physiological context of living cells. Quinary structure is thus the fifth level of protein complexity, additional to protein primary, secondary, tertiary and quaternary structures. As opposed to the first four levels of protein structure, which are relevant to isolated proteins in dilute conditions, quinary structure emerges from the crowdedness of the cellular context, in which transient encounters among macromolecules are constantly occurring."<br>
+Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Protein_quinary_structure" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Protein_quinary_structure" target="_blank">Wikipedia</a><br>
+.
+
+
+
+
+
+
+<br><br><br>
+<br>The protein as a
+
+<br>Amino acid chain
+
+<br>Linear succession of amino acid residues
+<br>A dumb summation of individual contributions
+
+
+<br>Absent dimensions
+
+<br>Folding
+
+<br>Geometrical neighbours out of the chain
+
+
+<br>Synergy contribution
+<br>No post-transcriptional modifications
+
+
+
+
+<br>Example Tool
+
+<br>ExPASy::<a data-tooltip-position="top" aria-label="https://web.expasy.org/protparam/" rel="noopener" class="external-link" href="https://web.expasy.org/protparam/" target="_blank">ProtParam</a>
+
+<br>Several algorithms implemented 
+
+<br>Output varies in quality and reliability
+
+
+<br>
+
+<img alt="Pasted image 20240920111602.png" src="lib\media\pasted-image-20240920111602.png">
+
+
+
+
+
+
+<br><br>
+<br>
+Definition
+"to break a large polypeptide down into smaller pieces. Proteases are enzymes that typically break peptide bonds by binding to specific amino acid sequences in a protein and catalyzing their hydrolysis.<br>
+Chemical reagents, such as cyanogen bromide, which cleaves peptide bonds on the C-terminal side of a methionine residue can also be used to cut larger proteins into smaller peptides. Common proteins performing this activity are found in the digestive system and are shown below.
+
+<br>Subtilisin - C-terminal side of large uncharged side chains
+<br>Chymotrypsin - C terminal side of aromatics (Phe, Tyr, Trp)
+<br>Trypsin - C-terminal side of lysine and arginines (not next to proline)
+<br>Carboxypeptidase - N-terminal side of C-terminal amino acid
+<br>Elastase - Hydrolyzes C-side of small AAs (Gly, Ala)
+<br>Cyanogen Bromide (chemical) - Hydrolyzes C-side of Met"
+
+ <img alt="Pasted image 20240920115839.png" src="lib\media\pasted-image-20240920115839.png">
+ Source: <a data-tooltip-position="top" aria-label="https://bio.libretexts.org/Bookshelves/Biochemistry/Book%3A_Biochemistry_Free_For_All_(Ahern_Rajagopal_and_Tan)/08%3A_Basic_Techniques/8.11%3A_Protein_Cleavage" rel="noopener" class="external-link" href="https://bio.libretexts.org/Bookshelves/Biochemistry/Book%3A_Biochemistry_Free_For_All_(Ahern_Rajagopal_and_Tan)/08%3A_Basic_Techniques/8.11%3A_Protein_Cleavage" target="_blank">Biochemistry Free For All (Ahern, Rajagopal, and Tan)</a><br>
+.
+
+
+<br>
+Possible use
+
+<br>Modify the polymer
+<br>Assess sensitivity to proteases
+<br>Detect residue modification
+
+
+<br>
+Issues when compared to endonuclease restriction
+
+<br>More elaborated "recognition pattern"
+
+<br>Related to amino acids substitution groups
+
+
+<br>Wider range of efficacy
+<br>Stereospecificity in the access to the peptide bond
+
+<br>
+Peptide bond
+ <img alt="869px-Peptidformationball.svg.png" src="lib\media\869px-peptidformationball.svg.png" style="width: 500px; max-width: 100%;"><br>
+Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Peptide_bond#/media/File:Peptidformationball.svg" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Peptide_bond#/media/File:Peptidformationball.svg" target="_blank">Wikipedia</a>
+
+
+<br>A role for probabilistic models 
+
+<br>Based on composition of the <a data-tooltip-position="top" aria-label="https://web.expasy.org/peptide_cutter/peptidecutter_special_enzymes.html" rel="noopener" class="external-link" href="https://web.expasy.org/peptide_cutter/peptidecutter_special_enzymes.html" target="_blank">neighbourhood</a>
+
+<br>
+Expasy::peptidecutter::chymotrypsin/trypsin model
+<img alt="Pasted image 20240920145431.png" src="lib\media\pasted-image-20240920145431.png" style="width: 400px; max-width: 100%;">
+<img alt="Pasted image 20240920145134.png" src="lib\media\pasted-image-20240920145134.png"><br>
+.<br>
+Source: Keil, B. "Specificity of proteolysis". Springer-Verlag Berlin-Heidelberg-NewYork, pp.335. (1992)<br>
+.
+
+
+
+
+
+
+
+
+
+
+<br>
+Example Tool
+
+<br>ExPASy::<a data-tooltip-position="top" aria-label="https://web.expasy.org/peptide_cutter/" rel="noopener" class="external-link" href="https://web.expasy.org/peptide_cutter/" target="_blank">PeptideCutter</a>
+
+<br>Two different operation modes
+
+<br>A simpler model for a wide gamut of cutting agents
+<br>A probabilistic and more sophisticated model, for digestion with either
+
+<br>Chymotrypsin
+<br>Trypsin
+
+
+
+
+<br>
+
+<img alt="Pasted image 20240920150621.png" src="lib\media\pasted-image-20240920150621.png"><br>
+.
+
+
+
+
+
+
+<br><br>
+<br>Also known as "Transmembrane Domains" (<a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Transmembrane_domain" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Transmembrane_domain" target="_blank">TMD</a>)
+
+<br>
+
+<img alt="Pasted image 20240920154043.png" src="lib\media\pasted-image-20240920154043.png"><br>
+Source: <a data-tooltip-position="top" aria-label="https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2021.619496" rel="noopener" class="external-link" href="https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2021.619496" target="_blank">Venko <em></em> 2021</a>et al.<br>
+.
+
+
+
+
+<br>Characteristics
+
+<br>Length
+
+<br>19 to 20 aa
+
+
+<br>Variable composition
+
+<br>Hydropathy required
+<br>No consensus sequence
+
+
+
+
+<br>Relevance
+
+<br>Protein biological role
+<br>"Uninformative" sequences
+
+<br>Loss of specificity in sequence similarity searches
+
+
+
+
+<br>Technical approaches to the inference of transmembrane regions
+
+<br>No consensus sequence available
+
+<br>But a limited degree of conservation do exist
+
+<br>Trained <a data-tooltip-position="top" aria-label="HMM - Hidden Markov Models" data-href="HMM - Hidden Markov Models" href="notes\bioinformatics\introdução-à-bioinformárica\hmm-hidden-markov-models.html" class="internal-link" target="_self" rel="noopener">Hidden Markov Model (HMM)</a> are able to portray the conservation present
+<br>Example Implementations
+
+<br><a data-tooltip-position="top" aria-label="https://phobius.sbc.su.se/" rel="noopener" class="external-link" href="https://phobius.sbc.su.se/" target="_blank">Phobius (SBC)</a>
+
+<br>
+
+<img alt="Pasted image 20240920164906.png" src="lib\media\pasted-image-20240920164906.png" style="width: 400px; max-width: 100%;">
+
+
+<br>A second generation HMM for transmembrane region detection
+
+<br>
+
+<img alt="Pasted image 20240920164712.png" src="lib\media\pasted-image-20240920164712.png"><br>
+.
+
+
+<br>Signal peptide discrimination
+
+<br>Provides a refined detection
+
+
+
+
+<br>Numerical results are presented also as a
+
+<br>Plot os probability levels
+<br>Conservative interpretation is also supplied
+
+<br>The operator should disregard those
+<br>The raw output MUST be assessed for best results
+
+
+<br>
+
+<img alt="Pasted image 20240920165331.png" src="lib\media\pasted-image-20240920165331.png"><br>
+.
+
+
+
+
+
+
+<br><a data-tooltip-position="top" aria-label="https://dtu.biolib.com/DeepTMHMM/" rel="noopener" class="external-link" href="https://dtu.biolib.com/DeepTMHMM/" target="_blank">TMHMM (DTU)</a>
+
+<br>
+
+<img alt="Pasted image 20240920175050.png" src="lib\media\pasted-image-20240920175050.png"><br>
+
+
+
+<br>A "Deep Learning" approach to the problem
+
+<br>The documentation is somewhat vague on the details
+<br>The output make the tool look more powerful than Phobius
+
+<br>But the difference may arise from an expanded training set.
+
+
+<br>
+The posterior probability plot
+ <img alt="Pasted image 20240920175404.png" src="lib\media\pasted-image-20240920175404.png"><br>
+.
+
+
+<br>
+Gff output
+ <img alt="Pasted image 20240920175954.png" src="lib\media\pasted-image-20240920175954.png"><br>
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br>Secondary structure does not show a deterministic relation to the sequence
+<br>The fuzzy relation can be addressed through 
+
+<br>Available knowledge
+<br>Artificial intelligence
+<br>General workflow
+
+<br>Search for subsequences with secondary structure known
+<br>Neural networks
+
+<br>Filtration
+<br>Evaluation
+<br>
+General structure for a ann
+<img alt="Pasted image 20240922120257.png" src="lib\media\pasted-image-20240922120257.png" style="width: 350px; max-width: 100%;">   
+
+
+
+
+
+
+<br>Example tool
+<br><a data-tooltip-position="top" aria-label="http://bioinf.cs.ucl.ac.uk/psipred/psiform.html" rel="noopener" class="external-link" href="http://bioinf.cs.ucl.ac.uk/psipred/psiform.html" target="_blank">PSIPRED</a> (UCL)
+
+<br>Two step process
+
+<br>Search for subsequences with secondary structure known
+
+<br>PSI-BLAST
+
+
+<br>Completion, and polishing of the end result 
+
+<br>neural networks
+
+<br>
+Process overview
+<img alt="Pasted image 20240922121841.png" src="lib\media\pasted-image-20240922121841.png">
+
+
+
+
+
+
+
+
+<br>
+Sample output
+<img alt="Pasted image 20240921230416.png" src="lib\media\pasted-image-20240921230416.png"><br>
+.
+
+
+
+
+
+
+<br><br>
+<br>Tertiary structure is key for the protein role
+
+<br>No direct deterministic relation to sequence (Primary Structure)
+<br>A chimera of subsequences with known folder
+
+<br>Does not make a credible solution to folding inference
+
+
+<br>A plain energy minimisation for the backbone folding
+
+<br>Fails due to missing contributions
+
+<br>e.g. cofactors
+
+
+
+
+<br>Combining the two approaches 
+
+<br>Homology modelling
+
+<br>Example tool
+
+<br><a data-tooltip-position="top" aria-label="http://swissmodel.expasy.org/repository" rel="noopener" class="external-link" href="http://swissmodel.expasy.org/repository" target="_blank">Swiss-Model /  DeepView</a> (ExPASy)
+
+<br>
+
+<img alt="Pasted image 20240922124804.png" src="lib\media\pasted-image-20240922124804.png"><br>
+.
+
+
+
+
+
+
+
+
+
+
+<br>Deep learning 
+
+<br>Example tool
+
+<br><a data-tooltip-position="top" aria-label="https://deepmind.google/technologies/alphafold/" rel="noopener" class="external-link" href="https://deepmind.google/technologies/alphafold/" target="_blank">AlphaFold</a> (Google)
+
+<br>
+
+<img alt="Pasted image 20240922125219.png" src="lib\media\pasted-image-20240922125219.png"><br>
+.
+
+
+<br>Risks from not being able to check properly due to mass production
+
+<br>Danger of propagating errors
+<br>Database artifact contamination
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br>Detection of discrete structure elements
+
+<br>Case study
+<br>Coiled coil<br>
+- &gt; [! Definition]<br>
+&gt; "A coiled coil is a structural motif in proteins in which 2–7 alpha-helices are coiled together like the strands of a rope. (Dimers and trimers are the most common types.) They have been found in roughly 5-10% of proteins and have a variety of functions. They are one of the most widespread motifs found in protein-protein interactions. 
+
+(...)<br>
+Coiled coils usually contain a repeated pattern, hxxhcxc, of hydrophobic (h) and charged (c) amino-acid residues, referred to as a heptad repeat.[10] The positions in the heptad repeat are usually labeled abcdefg, where a and d are the hydrophobic positions, often being occupied by isoleucine, leucine, or valine."
+<img alt="Pasted image 20240921155247.png" src="lib\media\pasted-image-20240921155247.png" style="width: 500px; max-width: 100%;">
+Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Coiled_coil" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Coiled_coil" target="_blank">Wikipedia</a><br>
+.
+
+
+<br>Example Tool
+
+<br><a data-tooltip-position="top" aria-label="http://www.ch.embnet.org/software/COILS_form.html" rel="noopener" class="external-link" href="http://www.ch.embnet.org/software/COILS_form.html" target="_blank">Coils</a> (EMBnet)
+
+<br>
+
+<img alt="Pasted image 20240921163930.png" src="lib\media\pasted-image-20240921163930.png"><br>
+
+
+
+<br>Detection of characteristic heptamers
+
+<br>Sliding Windows
+
+<br>2 alternative metrics
+<br>Concurrent run for different window sizes
+
+<br>Instant Robustness assessment
+
+
+
+
+<br>
+
+<img alt="Pasted image 20240921164400.png" src="lib\media\pasted-image-20240921164400.png"><br>
+.
+
+
+
+
+<br>
+Example output
+ <img alt="Pasted image 20240921164530.png" src="lib\media\pasted-image-20240921164530.png"><br>
+.
+
+
+
+
+
+
+
+
+
+
+<br>Detection by absence of defined structure
+
+<br>Disordered stretches along the protein backbone
+
+<br>
+
+<img alt="Pasted image 20240921220413.png" src="lib\media\pasted-image-20240921220413.png" style="width: 500px; max-width: 100%;">
+
+
+<br>Fluid folding
+
+<br>Changing with protein environment
+
+
+<br>Flexible bonding to other proteins
+
+<br>Conformal structure adaptation
+
+
+
+
+<br>Approaches to disorder detection vary
+
+<br>Results seem too dependent on the specific tool employed
+
+<br>The inference of disorder, and its several roles is still a process in development
+
+
+<br>Example Tools
+
+<br>PSIPRED::<a data-tooltip-position="top" aria-label="http://bioinf.cs.ucl.ac.uk/psipred/" rel="noopener" class="external-link" href="http://bioinf.cs.ucl.ac.uk/psipred/" target="_blank">DISOPRED3</a> (UCL)
+
+<br>Detection based on <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Support_vector_machine" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Support_vector_machine" target="_blank">SVM</a> and <a data-tooltip-position="top" aria-label="https://towardsdatascience.com/introduction-to-neural-networks-advantages-and-applications-96851bd1a207" rel="noopener" class="external-link" href="https://towardsdatascience.com/introduction-to-neural-networks-advantages-and-applications-96851bd1a207" target="_blank">ANN</a>
+<br>
+Sample output
+ <img alt="Pasted image 20240921223256.png" src="lib\media\pasted-image-20240921223256.png"><br>
+.
+
+
+<br>Yield parallel track results for
+
+<br>Disorder
+<br>Disorder with binding potential
+
+
+
+
+<br><a data-tooltip-position="top" aria-label="https://caid.idpcentral.org/portal/" rel="noopener" class="external-link" href="https://caid.idpcentral.org/portal/" target="_blank">CAID Prediction Portal</a> (Univ. of Padua)
+
+<br>Meta search
+
+<br>16 tools are consulted
+<br>The result map strives for a synthesis of the results, but heterogeneity is the rule
+
+<br>
+Sample output
+<img alt="Pasted image 20240921224440.png" src="lib\media\pasted-image-20240921224440.png"><br>
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\protein-sequence-analysis.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 22 Sep 2024 11:56:29 GMT</pubDate><enclosure url="lib\media\pasted-image-20240919191853.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240919191853.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Protocolo_1_Registo_Armazenamento_Sequências]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md<br>
 Created: 2024-09-05 18:02<br>
 Updated: 2024-09-05 18:02<br>
@@ -1310,7 +2230,7 @@ As usual, Windows systems are advised to go for the <a data-tooltip-position="to
 
 
 
-<br><br><br><a data-tooltip-position="top" aria-label="Protocolo_2.pdf" data-href="Protocolo_2.pdf" href="notes\bioinformatics\introdução-à-bioinformárica\materials\protocolo_2.pdf" class="internal-link" target="_self" rel="noopener">Protocol</a>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\protocolo_1_registo_armazenamento_sequências.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240909094830.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240909094830.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Relational Databases]]></title><description><![CDATA[ 
+<br><br><br><a data-tooltip-position="top" aria-label="Protocolo_2.pdf" data-href="Protocolo_2.pdf" href="notes\bioinformatics\introdução-à-bioinformárica\materials\protocolo_2.pdf" class="internal-link" target="_self" rel="noopener">Protocol</a>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\protocolo_1_registo_armazenamento_sequências.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240909094830.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240909094830.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Relational Databases]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md<br>
 Created: 2024-09-05 14:52<br>
 Updated: 2024-09-05 14:52<br>
@@ -1484,7 +2404,290 @@ Join (Tables)<br>
 
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\relational-databases.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240905154759.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240905154759.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Translated Regions Detection]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\relational-databases.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240905154759.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240905154759.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sequence Alignment]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Alignment.md<br>
+Created: 2024-09-22 17:45<br>
+Updated: 2024-09-22 17:45<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Sequence Alignment</a><br>
+Subject:  Sequence Alignment<br>
+Tags:<br>Ontology
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Sequence Evolution" href="notes\bioinformatics\introdução-à-bioinformárica\sequence-evolution.html" class="internal-link" target="_self" rel="noopener">Sequence Evolution</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/operations/Sequence alignment" data-href="Workshop/EDAM__Nodes/operations/Sequence alignment" href="workshop\edam__nodes\operations\sequence-alignment.html" class="internal-link" target="_self" rel="noopener">Sequence alignment</a> <a data-href="Global alignment" href="workshop\edam__nodes\operations\global-alignment.html" class="internal-link" target="_self" rel="noopener">Global alignment</a>   <a data-href="Local alignment" href="workshop\edam__nodes\operations\local-alignment.html" class="internal-link" target="_self" rel="noopener">Local alignment</a>
+<br><br><br>
+<br>Mapping the putative homologous sites between sequences
+<br>Purely mathematical process
+
+<br>Optimize the sequence disposition based on some comparison metric
+<br>
+Alignment challenges
+<img alt="Pasted image 20240922175829.png" src="lib\media\pasted-image-20240922175829.png" style="width: 400px; max-width: 100%;"><br>
+. 
+
+
+<br>Indel 
+
+<br>
+Insertion vs. deletion
+<img alt="Pasted image 20240922180150.png" src="lib\media\pasted-image-20240922180150.png" style="width: 400px; max-width: 100%;"><br>
+. 
+
+
+<br>Used to solve gaps in the comparable sequence 
+<br>Usually treated as a single event
+<br>Use MUST BE PARSIMONIOUS
+
+<br>Free use enables any pair of sequences to yield about 20% similarity, even if totally unrelated
+<br>
+A myriad of possible solutions
+<img alt="Pasted image 20240922182153.png" src="lib\media\pasted-image-20240922182153.png" style="width: 300px; max-width: 100%;"><br>
+.
+
+
+
+
+
+
+
+
+<br><br>
+<br><a data-tooltip-position="top" aria-label="http://edamontology.org/operation_0292" rel="noopener" class="external-link" href="http://edamontology.org/operation_0292" target="_blank">Sequence alignment</a>  can be conducted according two different paradigms
+
+<br><a data-tooltip-position="top" aria-label="http://edamontology.org/operation_0496" rel="noopener" class="external-link" href="http://edamontology.org/operation_0496" target="_blank">Global Alignment</a> 
+
+<br>
+Definition
+"identify similarity across the entire length of the sequences."<br>
+Source: <a data-tooltip-position="top" aria-label="http://edamontology.org/operation_0496" rel="noopener" class="external-link" href="http://edamontology.org/operation_0496" target="_blank">EDAM</a><br>
+.
+
+
+<br>
+End to end
+<img alt="Pasted image 20240922184258.png" src="lib\media\pasted-image-20240922184258.png"><br>
+.
+
+
+<br>The default choice for pair-wise alignment
+
+<br>The SOLE SOLUTION for 
+
+<br>Similarity assessment
+<br>SNP mapping
+
+
+
+
+
+
+<br><a data-tooltip-position="top" aria-label="http://edamontology.org/operation_0495" rel="noopener" class="external-link" href="http://edamontology.org/operation_0495" target="_blank">Local Alignment</a>
+
+<br>
+Definition
+"identify regions of local similarity" 
+Source: <a data-tooltip-position="top" aria-label="http://edamontology.org/operation_0495" rel="noopener" class="external-link" href="http://edamontology.org/operation_0495" target="_blank">EDAM</a><br>
+.
+
+
+<br>
+Only most similar subsequences
+ <img alt="Pasted image 20240922190016.png" src="lib\media\pasted-image-20240922190016.png"><br>
+.
+
+
+<br>To be chosen whenever
+
+<br>Similarity is known to be localized
+<br>Whenever the intrinsic nature of the result is "local" 
+
+
+
+
+
+
+<br><br>
+<br>Non-coincidence? By chance?
+
+<br>The longer the alignment
+
+<br>The higher the confidence in the involvement of homology
+
+<br>
+
+<img alt="Pasted image 20240922191412.png" src="lib\media\pasted-image-20240922191412.png">
+ <img alt="Pasted image 20240922191456.png" src="lib\media\pasted-image-20240922191456.png"><br>
+.
+
+
+
+
+<br>
+"the thin red line"
+<img alt="Pasted image 20240922191810.png" src="lib\media\pasted-image-20240922191810.png">
+Distant homologous matches may require phylogenetic analysis as evidence.<br>
+.
+
+
+
+
+
+
+<br>
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\sequence-alignment.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Alignment.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 22 Sep 2024 18:21:50 GMT</pubDate><enclosure url="lib\media\pasted-image-20240922175829.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240922175829.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sequence Evolution]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Evolution.md<br>
+Created: 2024-09-22 13:01<br>
+Updated: 2024-09-22 13:01<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Sequence Evolution</a><br>
+Subject:  Sequence Evolution<br>
+Tags:<br>Ontology
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a>
+<br><br><br>Homology, a definition
+"similarity due to shared ancestry between a pair of structures or genes in different taxa.<br>
+(...)<br>
+Two segments of DNA can have shared ancestry because of either a speciation event (orthologs) or a duplication event (paralogs). Homology among proteins or DNA is inferred from their sequence similarity. Significant similarity is strong evidence that two sequences are related by divergent evolution from a common ancestor. Alignments of multiple sequences are used to discover the homologous regions."
+Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Homology_(biology)" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Homology_(biology)" target="_blank">Wikipedia</a><br>
+.
+<br>Homoplasy, definitions
+"the term used to describe a feature that has been gained or lost independently in separate lineages over the course of evolution. (...)<br>
+Homoplasy can arise from both similar selection pressures acting on adapting species, and the effects of genetic drift."
+Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Homoplasy" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Homoplasy" target="_blank">Wikipedia</a><br>
+.<br>
+"Homoplasy is the development of organs or other bodily structures within different species, which resemble each other and have the same functions, but did not have a common ancestral origin. These organs arise via convergent evolution and are thus analogous, not homologous to each other. For example, the wings of insects, birds and bats, which are all used for flying, are homoplastic (meaning: similar in form and structure, but not in origin)."<br>
+.<br>
+Source: <a data-tooltip-position="top" aria-label="https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/homoplasy" rel="noopener" class="external-link" href="https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/homoplasy" target="_blank">ScienceDirect</a><br>
+.
+<br>
+<br>Time elapsing makes the difference
+
+<br>
+
+<img alt="Pasted image 20240922131352.png" src="lib\media\pasted-image-20240922131352.png"><br>
+.
+
+
+<br>Orthology
+
+<br>
+Definition
+"Homologous sequences are orthologous if they are inferred to be descended from the same ancestral sequence separated by a speciation event: when a species diverges into two separate species, the copies of a single gene in the two resulting species are said to be orthologous. Orthologs, or orthologous genes, are genes in different species that originated by vertical descent from a single gene of the last common ancestor. The term "ortholog" was coined in 1970 by the molecular evolutionist Walter Fitch.  (...)<br>
+Orthology is strictly defined in terms of ancestry. Given that the exact ancestry of genes in different organisms is difficult to ascertain due to gene duplication and genome rearrangement events, the strongest evidence that two similar genes are orthologous is usually found by carrying out phylogenetic analysis of the gene lineage. Orthologs often, but not always, have the same function.<br>
+Orthologous sequences provide useful information in taxonomic classification and phylogenetic studies of organisms. The pattern of genetic divergence can be used to trace the relatedness of organisms. Two organisms that are very closely related are likely to display very similar DNA sequences between two orthologs."
+Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Sequence_homology#Orthology" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Sequence_homology#Orthology" target="_blank">Wikipedia</a><br>
+.
+
+
+
+
+<br>Paralogy 
+
+<br>
+Definition
+"The relationship of any two homologous characters that arose by a genetic duplication."
+Source: <a data-tooltip-position="top" aria-label="https://www.informatics.jax.org/glossary/paralogy" rel="noopener" class="external-link" href="https://www.informatics.jax.org/glossary/paralogy" target="_blank">MGI</a><br>
+. 
+
+
+
+
+<br>Xenology
+
+<br>
+Definition
+ "In phylogenetics, the study of genes which have been separated by a horizontal gene transfer event." 
+ Source: <a data-tooltip-position="top" aria-label="https://www.oxfordreference.com/display/10.1093/oi/authority.20110803125206830" rel="noopener" class="external-link" href="https://www.oxfordreference.com/display/10.1093/oi/authority.20110803125206830" target="_blank">Oxford Reference</a><br>
+.
+Horizontal gene transfer, a definition
+"Horizontal gene transfer (HGT) or lateral gene transfer (LGT) is the movement of genetic material between organisms other than by the ("vertical") transmission of DNA from parent to offspring (reproduction)."<br>
+.<br>
+Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Horizontal_gene_transfer" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Horizontal_gene_transfer" target="_blank">Wikipedia</a><br>
+.
+
+
+
+<br>Time is absent
+
+<br>Divergence times diverge (divergent phylogenetic trees)
+
+<br>Genome
+<br>Sequence resulting from horizontal transfer
+
+
+
+
+
+
+
+
+<br><br>
+<br>Criteria to filter out Homoplasy
+
+<br>Similarity
+
+<br>What is Similarity?
+
+<br>Sequence-wise
+
+<br>Shared sequence sites also present in the closest common ancestor<br>
+- Determined by alignment<br>
+- Expressed as<br>
+- Percentage of identity
+
+
+
+
+<br>If similar enough 
+
+<br>Homologous
+
+
+
+
+<br>Conjunction (of similar characters / sequences)
+
+<br>Character
+
+<br>If occurring more than once in the same organism
+
+<br>Analogous
+
+
+
+
+<br>Sequence
+
+<br>If occurring more than once in the same genome
+
+<br>Paralogous
+
+
+
+
+
+
+<br>Congruency (for similar characters / sequences)
+
+<br>Consistent evolutions (phylogenies) for both
+
+<br>Considered sequence
+<br>Organism / genome where the sequence occurs
+
+
+<br>Absent
+
+<br>Either
+
+<br>Analogous
+<br>Xenologous
+
+
+
+
+
+
+
+
+<br><br>
+<br>Patterson C. Homology in classical and molecular biology. Mol Biol Evol. 1988 Nov;5(6):603-25. [doi: 10.1093/oxfordjournals.molbev.a040523](<a data-tooltip-position="top" aria-label="https://watermark.silverchair.com/1patt.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1wwggNYBgkqhkiG9w0BBwagggNJMIIDRQIBADCCAz4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMoAltTrNYNhrHvbeDAgEQgIIDDxJMQ-SG8zAHw7MUrpaTzNPAsuHYuGJtfGSyWjua_NgqRixXB0wopnU2gMaJHpp6D63ZYaYHh1Qpd09k_aLag--ox6mJlJXHzajhoEaPpHrOlLr9fFSh4vDQNfRRb3tZC_H-fZvtJyBsFUels17NwmrqQHKXHBzTkkEJepAtXHy2_8PurJXBLump7sfpC4W-V0aD5CPhj2-Pk-9HGH8siG10DwAVsfzmWMJtnduabt5Bxjpq_5Ye1XslNQst6ErAS86DmcbLtjMXoXKYtemzANJQhQmd28LABMKgsyd4AzU0IjNMxgbzWUbLC8tEPKjPTrPiu-1NW5iO38stgZrVAiRZ5NEFa2F1_Lz4vBV6T6fTOO0lcKtKNEJFUl2IKKZqa0Cx2BXU9H204b23sCkq7kdRzRm2_Y9YNPhV6ixQ1U6AW8t0LoLGBpVBTJewkHszsDejqgpufb_tE1pjJnvJZWA4ofNRSIQMewTm2U3Lshf6GFUbbPupiMPoLhhAVnu4k4eaFckm-bXnUiOyEAQzmSDct81K79IK055yFSKmcaP51ddr_y_c6YeXnOasC9ewoR6Q7dycbBe1eWGF2N6Yl3md0WV2YovM_ZV20X57ZeVRb_AyuQdB8_xBcdmKJX7EZmlG6M6nm_2k4OrHR9FRb_Ujlep1OvSvvQ1HRJ-rNfrK_5LzprxWC0QF-k0QhKApx2PGXrp6dxzgbHc9d3rHydhPTIbfljkndI0UA310in0R6JCY-qjQOGBaFE0QbGdRhge7mmNJ_NKxF5CyLdkTuyGI_2su_OVPlXDqwZH-nla2tfq4JTn5Tqe894RT0bqESNvaVRLInfBIHiGDDh7BSTovGtzWkxwOe8MjTNdx3F2C8up0euYPH5mZ9hO2la6z0uIHmbLSiZYN7QbpypwRxeq7unQ0Ggx6UWBuf3Q948N-7ctWKVR4O0cs2zHCYOPubkFn6Y1DlawoY6kEcuDEkhW45YwVeDycMIFCq5RUpdJg-H-0DNquL-IXIzClBM3qTmq5yeXn5bEajNkud7UurQ" rel="noopener" class="external-link" href="https://watermark.silverchair.com/1patt.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1wwggNYBgkqhkiG9w0BBwagggNJMIIDRQIBADCCAz4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMoAltTrNYNhrHvbeDAgEQgIIDDxJMQ-SG8zAHw7MUrpaTzNPAsuHYuGJtfGSyWjua_NgqRixXB0wopnU2gMaJHpp6D63ZYaYHh1Qpd09k_aLag--ox6mJlJXHzajhoEaPpHrOlLr9fFSh4vDQNfRRb3tZC_H-fZvtJyBsFUels17NwmrqQHKXHBzTkkEJepAtXHy2_8PurJXBLump7sfpC4W-V0aD5CPhj2-Pk-9HGH8siG10DwAVsfzmWMJtnduabt5Bxjpq_5Ye1XslNQst6ErAS86DmcbLtjMXoXKYtemzANJQhQmd28LABMKgsyd4AzU0IjNMxgbzWUbLC8tEPKjPTrPiu-1NW5iO38stgZrVAiRZ5NEFa2F1_Lz4vBV6T6fTOO0lcKtKNEJFUl2IKKZqa0Cx2BXU9H204b23sCkq7kdRzRm2_Y9YNPhV6ixQ1U6AW8t0LoLGBpVBTJewkHszsDejqgpufb_tE1pjJnvJZWA4ofNRSIQMewTm2U3Lshf6GFUbbPupiMPoLhhAVnu4k4eaFckm-bXnUiOyEAQzmSDct81K79IK055yFSKmcaP51ddr_y_c6YeXnOasC9ewoR6Q7dycbBe1eWGF2N6Yl3md0WV2YovM_ZV20X57ZeVRb_AyuQdB8_xBcdmKJX7EZmlG6M6nm_2k4OrHR9FRb_Ujlep1OvSvvQ1HRJ-rNfrK_5LzprxWC0QF-k0QhKApx2PGXrp6dxzgbHc9d3rHydhPTIbfljkndI0UA310in0R6JCY-qjQOGBaFE0QbGdRhge7mmNJ_NKxF5CyLdkTuyGI_2su_OVPlXDqwZH-nla2tfq4JTn5Tqe894RT0bqESNvaVRLInfBIHiGDDh7BSTovGtzWkxwOe8MjTNdx3F2C8up0euYPH5mZ9hO2la6z0uIHmbLSiZYN7QbpypwRxeq7unQ0Ggx6UWBuf3Q948N-7ctWKVR4O0cs2zHCYOPubkFn6Y1DlawoY6kEcuDEkhW45YwVeDycMIFCq5RUpdJg-H-0DNquL-IXIzClBM3qTmq5yeXn5bEajNkud7UurQ" target="_blank">1patt.pdf (silverchair.com)</a>). PMID: 3065587.
+<br>de Pinna, M.C.C. (1991), CONCEPTS AND TESTS OF HOMOLOGY IN THE CLADISTIC PARADIGM. Cladistics, 7: 367-394. <a rel="noopener" class="external-link" href="https://doi.org/10.1111/j.1096-0031.1991.tb00045.x" target="_blank">https://doi.org/10.1111/j.1096-0031.1991.tb00045.x</a>
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\sequence-evolution.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Evolution.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 22 Sep 2024 18:26:48 GMT</pubDate><enclosure url="lib\media\pasted-image-20240922131352.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240922131352.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Translated Regions Detection]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Translated Regions Detection.md<br>
 Created: 2024-09-16 15:59<br>
 Updated: 2024-09-16 15:59<br>
@@ -1887,4 +3090,4 @@ Generic example
 
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\translated-regions-detection.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Translated Regions Detection.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 20:31:03 GMT</pubDate><enclosure url="lib\media\pasted-image-20240916160745.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240916160745.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\translated-regions-detection.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Translated Regions Detection.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 20:31:03 GMT</pubDate><enclosure url="lib\media\pasted-image-20240916160745.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240916160745.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
