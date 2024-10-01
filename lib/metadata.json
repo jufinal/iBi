@@ -1,6 +1,6 @@
 {
   "vaultName": "Workshop03",
-  "lastExport": 1727091853355,
+  "lastExport": 1727723817526,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon check-color check-bg",
   "useCustomHeadContent": false,
@@ -142,26 +142,83 @@
     "Images/iBi_Course/Pasted image 20240922191412.png",
     "Images/iBi_Course/Pasted image 20240922191456.png",
     "Images/iBi_Course/Pasted image 20240922191810.png",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/ibi24_Protocol4AP02.pdf",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Knowledge Representation and Ontologies.pdf",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Protocolo_2.pdf",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/What Is a Knowledge Representation.pdf",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Algorithms for Bioinformatics.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Biological Sequences.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Dot-Plot.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP02 - Algorithms in Action.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP03 - Algorithms in Action.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Session_Proteins, sequences & algorithms.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/HMM - Hidden Markov Models.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies & Knowledge Representation.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Program.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Alignment.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Evolution.md",
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Translated Regions Detection.md",
+    "Images/iBi_Course/Pasted image 20240927051237.png",
+    "Images/iBi_Course/Pasted image 20240927051721.png",
+    "Images/iBi_Course/Pasted image 20240927094403.png",
+    "Images/iBi_Course/Pasted image 20240927101144.png",
+    "Images/iBi_Course/Pasted image 20240927103743.png",
+    "Images/iBi_Course/Pasted image 20240927104427.png",
+    "Images/iBi_Course/Pasted image 20240927105919.png",
+    "Images/iBi_Course/Pasted image 20240927114542.png",
+    "Images/iBi_Course/Pasted image 20240927125240.png",
+    "Images/iBi_Course/Pasted image 20240927125439.png",
+    "Images/iBi_Course/Pasted image 20240927133630.png",
+    "Images/iBi_Course/Pasted image 20240927141819.png",
+    "Images/iBi_Course/Pasted image 20240927142020.png",
+    "Images/iBi_Course/Pasted image 20240927142733.png",
+    "Images/iBi_Course/Pasted image 20240927142856.png",
+    "Images/iBi_Course/Pasted image 20240927142919.png",
+    "Images/iBi_Course/Pasted image 20240927142938.png",
+    "Images/iBi_Course/Pasted image 20240928001217.png",
+    "Images/iBi_Course/Pasted image 20240928001626.png",
+    "Images/iBi_Course/Pasted image 20240928003341.png",
+    "Images/iBi_Course/Pasted image 20240928004857.png",
+    "Images/iBi_Course/Pasted image 20240928010314.png",
+    "Images/iBi_Course/Pasted image 20240928010331.png",
+    "Images/iBi_Course/Pasted image 20240928010406.png",
+    "Images/iBi_Course/Pasted image 20240928010417.png",
+    "Images/iBi_Course/Pasted image 20240928010530.png",
+    "Images/iBi_Course/Pasted image 20240928010730.png",
+    "Images/iBi_Course/Pasted image 20240928011142.png",
+    "Images/iBi_Course/Pasted image 20240928011231.png",
+    "Images/iBi_Course/Pasted image 20240928011319.png",
+    "Images/iBi_Course/Pasted image 20240929131355.png",
+    "Images/iBi_Course/Pasted image 20240929132127.png",
+    "Images/iBi_Course/Pasted image 20240929132300.png",
+    "Images/iBi_Course/Pasted image 20240929132326.png",
+    "Images/iBi_Course/Pasted image 20240929182815.png",
+    "Images/iBi_Course/Pasted image 20240929190736.png",
+    "Images/iBi_Course/Pasted image 20240929190919.png",
+    "Images/iBi_Course/Pasted image 20240929191522.png",
+    "Images/iBi_Course/Pasted image 20240930151220.png",
+    "Images/iBi_Course/Pasted image 20240930152652.png",
+    "Images/iBi_Course/Pasted image 20240930153048.png",
+    "Images/iBi_Course/Pasted image 20240930155916.png",
+    "Images/iBi_Course/Pasted image 20240930163253.png",
+    "Images/iBi_Course/Pasted image 20240930175620.png",
+    "Images/iBi_Course/Pasted image 20240930180624.png",
+    "Images/iBi_Course/Pasted image 20240930180744.png",
+    "Images/iBi_Course/Pasted image 20240930180914.png",
+    "Images/iBi_Course/Pasted image 20240930181012.png",
+    "Images/iBi_Course/Pasted image 20240930181229.png",
+    "Images/iBi_Course/Pasted image 20240930181434.png",
+    "Images/iBi_Course/Pasted image 20240930185636.png",
+    "Images/iBi_Course/Pasted image 20240930194511.png",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Materials/ibi24_Protocol4AP02.pdf",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Materials/Knowledge Representation and Ontologies.pdf",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Materials/Protocolo_2.pdf",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Materials/What Is a Knowledge Representation.pdf",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Algorithms for Bioinformatics.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Biological Sequences.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Dot-Plot.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Hands-on Class - AP02 - Algorithms in Action.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Hands-on Class - AP03 - Algorithms in Action.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Hands-on Session_Pairwise Alignment.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Hands-on Session_Proteins, sequences & algorithms.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/HMM - Hidden Markov Models.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Introdução à Bioinformática.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Ontologies & Knowledge Representation.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Pairwise Alignment, wrapping up.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Pairwise-Alignment, the Dynamic Programming Role.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Program.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Protein Sequence Analysis.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Protocolo_1_Registo_Armazenamento_Sequências.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Relational Databases.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Sequence Alignment.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Sequence Evolution.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Sequence Pairwise-Alignment Fast Algorithms, Heuristics to the Rescue.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/The Substitution Matrix.md",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Translated Regions Detection.md",
     "lib/media/pasted-image-20240913151759.png",
     "lib/media/pasted-image-20240913162020.png",
     "lib/media/pasted-image-20240913162326.png",
@@ -214,10 +271,42 @@
     "lib/media/pasted-image-20240915080152.png",
     "lib/media/pasted-image-20240915090024.png",
     "lib/media/pasted-image-20240915091746.png",
+    "lib/media/pasted-image-20240930185636.png",
+    "lib/media/pasted-image-20240930194511.png",
     "lib/media/pasted-image-20240916203126.png",
     "lib/media/pasted-image-20240920162959.png",
     "lib/media/pasted-image-20240920163344.png",
     "lib/media/pasted-image-20240920163618.png",
+    "lib/media/pasted-image-20240930163253.png",
+    "lib/media/pasted-image-20240930175620.png",
+    "lib/media/pasted-image-20240930180624.png",
+    "lib/media/pasted-image-20240930180914.png",
+    "lib/media/pasted-image-20240930181012.png",
+    "lib/media/pasted-image-20240930181229.png",
+    "lib/media/pasted-image-20240930181434.png",
+    "lib/media/pasted-image-20240927142020.png",
+    "lib/media/pasted-image-20240927142856.png",
+    "lib/media/pasted-image-20240927142919.png",
+    "lib/media/pasted-image-20240927142938.png",
+    "lib/media/pasted-image-20240927142733.png",
+    "lib/media/pasted-image-20240927141819.png",
+    "lib/media/pasted-image-20240928001217.png",
+    "lib/media/pasted-image-20240928001626.png",
+    "lib/media/pasted-image-20240928003341.png",
+    "lib/media/pasted-image-20240928004857.png",
+    "lib/media/pasted-image-20240928010314.png",
+    "lib/media/pasted-image-20240928010331.png",
+    "lib/media/pasted-image-20240928010406.png",
+    "lib/media/pasted-image-20240928010417.png",
+    "lib/media/pasted-image-20240928010730.png",
+    "lib/media/pasted-image-20240928010530.png",
+    "lib/media/pasted-image-20240928011142.png",
+    "lib/media/pasted-image-20240928011231.png",
+    "lib/media/pasted-image-20240928011319.png",
+    "lib/media/pasted-image-20240929131355.png",
+    "lib/media/pasted-image-20240929132127.png",
+    "lib/media/pasted-image-20240929132300.png",
+    "lib/media/pasted-image-20240929132326.png",
     "lib/media/pasted-image-20240919191853.png",
     "lib/media/pasted-image-20240919192223.png",
     "lib/media/pasted-image-20240919202007.png",
@@ -277,6 +366,25 @@
     "lib/media/pasted-image-20240922191456.png",
     "lib/media/pasted-image-20240922191810.png",
     "lib/media/pasted-image-20240922131352.png",
+    "lib/media/pasted-image-20240929182815.png",
+    "lib/media/pasted-image-20240929190919.png",
+    "lib/media/pasted-image-20240929191522.png",
+    "lib/media/pasted-image-20240929190736.png",
+    "lib/media/pasted-image-20240930151220.png",
+    "lib/media/pasted-image-20240930152652.png",
+    "lib/media/pasted-image-20240930153048.png",
+    "lib/media/pasted-image-20240930155916.png",
+    "lib/media/pasted-image-20240927051237.png",
+    "lib/media/pasted-image-20240927051721.png",
+    "lib/media/pasted-image-20240927094403.png",
+    "lib/media/pasted-image-20240927101144.png",
+    "lib/media/pasted-image-20240927103743.png",
+    "lib/media/pasted-image-20240927104427.png",
+    "lib/media/pasted-image-20240927105919.png",
+    "lib/media/pasted-image-20240927114542.png",
+    "lib/media/pasted-image-20240927125439.png",
+    "lib/media/pasted-image-20240927125240.png",
+    "lib/media/pasted-image-20240927133630.png",
     "lib/media/pasted-image-20240916160745.png",
     "lib/media/pasted-image-20240916183414.png",
     "lib/media/pasted-image-20240916184119.png",
@@ -409,849 +517,1161 @@
   ],
   "fileInfo": {
     "Images/iBi_Course/869px-Peptidformationball.svg.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 247744,
       "exportedPath": "images/ibi_course/869px-peptidformationball.svg.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904150202.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 68947,
       "exportedPath": "images/ibi_course/pasted-image-20240904150202.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904150308.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 187559,
       "exportedPath": "images/ibi_course/pasted-image-20240904150308.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904152337.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 57386,
       "exportedPath": "images/ibi_course/pasted-image-20240904152337.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904152412.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 249728,
       "exportedPath": "images/ibi_course/pasted-image-20240904152412.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904165644.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 68158,
       "exportedPath": "images/ibi_course/pasted-image-20240904165644.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904165926.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 2120952,
       "exportedPath": "images/ibi_course/pasted-image-20240904165926.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904173216.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 43215,
       "exportedPath": "images/ibi_course/pasted-image-20240904173216.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904174533.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 83830,
       "exportedPath": "images/ibi_course/pasted-image-20240904174533.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904181118.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 79304,
       "exportedPath": "images/ibi_course/pasted-image-20240904181118.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904190452.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 91097,
       "exportedPath": "images/ibi_course/pasted-image-20240904190452.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904190932.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 121446,
       "exportedPath": "images/ibi_course/pasted-image-20240904190932.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904191010.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 99152,
       "exportedPath": "images/ibi_course/pasted-image-20240904191010.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904191310.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 136663,
       "exportedPath": "images/ibi_course/pasted-image-20240904191310.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904192404.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 705084,
       "exportedPath": "images/ibi_course/pasted-image-20240904192404.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904192603.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 99114,
       "exportedPath": "images/ibi_course/pasted-image-20240904192603.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904192747.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 30778,
       "exportedPath": "images/ibi_course/pasted-image-20240904192747.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904192846.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 147628,
       "exportedPath": "images/ibi_course/pasted-image-20240904192846.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904193017.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 107805,
       "exportedPath": "images/ibi_course/pasted-image-20240904193017.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904193643.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 225195,
       "exportedPath": "images/ibi_course/pasted-image-20240904193643.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904193729.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 93024,
       "exportedPath": "images/ibi_course/pasted-image-20240904193729.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904200143.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 117983,
       "exportedPath": "images/ibi_course/pasted-image-20240904200143.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904200217.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 73264,
       "exportedPath": "images/ibi_course/pasted-image-20240904200217.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904200308.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 91316,
       "exportedPath": "images/ibi_course/pasted-image-20240904200308.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904200816.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 392023,
       "exportedPath": "images/ibi_course/pasted-image-20240904200816.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904201401.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 111568,
       "exportedPath": "images/ibi_course/pasted-image-20240904201401.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904201541.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 47687,
       "exportedPath": "images/ibi_course/pasted-image-20240904201541.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240904201634.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 77389,
       "exportedPath": "images/ibi_course/pasted-image-20240904201634.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905120939.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 1332609,
       "exportedPath": "images/ibi_course/pasted-image-20240905120939.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905123253.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 565105,
       "exportedPath": "images/ibi_course/pasted-image-20240905123253.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905123658.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 182886,
       "exportedPath": "images/ibi_course/pasted-image-20240905123658.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905154142.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 299302,
       "exportedPath": "images/ibi_course/pasted-image-20240905154142.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905154242.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 44685,
       "exportedPath": "images/ibi_course/pasted-image-20240905154242.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905154253.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 44685,
       "exportedPath": "images/ibi_course/pasted-image-20240905154253.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905154759.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 332768,
       "exportedPath": "images/ibi_course/pasted-image-20240905154759.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905154833.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 14694,
       "exportedPath": "images/ibi_course/pasted-image-20240905154833.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905161542.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 82258,
       "exportedPath": "images/ibi_course/pasted-image-20240905161542.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905162035.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 466064,
       "exportedPath": "images/ibi_course/pasted-image-20240905162035.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905162318.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 1932622,
       "exportedPath": "images/ibi_course/pasted-image-20240905162318.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905173548.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 150714,
       "exportedPath": "images/ibi_course/pasted-image-20240905173548.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905174043.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 54845,
       "exportedPath": "images/ibi_course/pasted-image-20240905174043.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905174337.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 120935,
       "exportedPath": "images/ibi_course/pasted-image-20240905174337.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905174541.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 111705,
       "exportedPath": "images/ibi_course/pasted-image-20240905174541.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905174724.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 177427,
       "exportedPath": "images/ibi_course/pasted-image-20240905174724.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905175216.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 182191,
       "exportedPath": "images/ibi_course/pasted-image-20240905175216.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240905175343.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 162360,
       "exportedPath": "images/ibi_course/pasted-image-20240905175343.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240909094830.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 10740,
       "exportedPath": "images/ibi_course/pasted-image-20240909094830.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240909095817.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 11388,
       "exportedPath": "images/ibi_course/pasted-image-20240909095817.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240909100650.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 1875,
       "exportedPath": "images/ibi_course/pasted-image-20240909100650.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240913151759.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 279137,
       "exportedPath": "images/ibi_course/pasted-image-20240913151759.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240913162020.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 36637,
       "exportedPath": "images/ibi_course/pasted-image-20240913162020.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240913162326.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 35226,
       "exportedPath": "images/ibi_course/pasted-image-20240913162326.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240913164307.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 30096,
       "exportedPath": "images/ibi_course/pasted-image-20240913164307.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240913170709.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 10745,
       "exportedPath": "images/ibi_course/pasted-image-20240913170709.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240913221119.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 71637,
       "exportedPath": "images/ibi_course/pasted-image-20240913221119.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240913221731.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 55265,
       "exportedPath": "images/ibi_course/pasted-image-20240913221731.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240913221831.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 33475,
       "exportedPath": "images/ibi_course/pasted-image-20240913221831.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240914075516.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 27093,
       "exportedPath": "images/ibi_course/pasted-image-20240914075516.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240915072259.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 24552,
       "exportedPath": "images/ibi_course/pasted-image-20240915072259.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240915075206.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 24552,
       "exportedPath": "images/ibi_course/pasted-image-20240915075206.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240915075221.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 25922,
       "exportedPath": "images/ibi_course/pasted-image-20240915075221.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240915075234.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 24932,
       "exportedPath": "images/ibi_course/pasted-image-20240915075234.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240915075843.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 25168,
       "exportedPath": "images/ibi_course/pasted-image-20240915075843.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240915075857.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 27801,
       "exportedPath": "images/ibi_course/pasted-image-20240915075857.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240915075912.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 27928,
       "exportedPath": "images/ibi_course/pasted-image-20240915075912.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240915075928.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 24969,
       "exportedPath": "images/ibi_course/pasted-image-20240915075928.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240915080140.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 27668,
       "exportedPath": "images/ibi_course/pasted-image-20240915080140.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240915080152.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 27357,
       "exportedPath": "images/ibi_course/pasted-image-20240915080152.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240915090024.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 855193,
       "exportedPath": "images/ibi_course/pasted-image-20240915090024.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240915091746.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 92119,
       "exportedPath": "images/ibi_course/pasted-image-20240915091746.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916105730.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 138172,
       "exportedPath": "images/ibi_course/pasted-image-20240916105730.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916113200.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 291555,
       "exportedPath": "images/ibi_course/pasted-image-20240916113200.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916160745.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 647511,
       "exportedPath": "images/ibi_course/pasted-image-20240916160745.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916183414.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 26617,
       "exportedPath": "images/ibi_course/pasted-image-20240916183414.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916184119.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 6384,
       "exportedPath": "images/ibi_course/pasted-image-20240916184119.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916185115.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 329470,
       "exportedPath": "images/ibi_course/pasted-image-20240916185115.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916185318.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 156493,
       "exportedPath": "images/ibi_course/pasted-image-20240916185318.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916190457.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 185334,
       "exportedPath": "images/ibi_course/pasted-image-20240916190457.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916190828.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 82530,
       "exportedPath": "images/ibi_course/pasted-image-20240916190828.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916191025.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 91092,
       "exportedPath": "images/ibi_course/pasted-image-20240916191025.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916191040.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 52057,
       "exportedPath": "images/ibi_course/pasted-image-20240916191040.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916201242.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 147606,
       "exportedPath": "images/ibi_course/pasted-image-20240916201242.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916201336.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 40205,
       "exportedPath": "images/ibi_course/pasted-image-20240916201336.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916201646.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 136595,
       "exportedPath": "images/ibi_course/pasted-image-20240916201646.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916202406.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 1171496,
       "exportedPath": "images/ibi_course/pasted-image-20240916202406.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916202929.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 202350,
       "exportedPath": "images/ibi_course/pasted-image-20240916202929.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916203126.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 5313,
       "exportedPath": "images/ibi_course/pasted-image-20240916203126.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916210313.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 156175,
       "exportedPath": "images/ibi_course/pasted-image-20240916210313.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916210639.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 388935,
       "exportedPath": "images/ibi_course/pasted-image-20240916210639.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916211050.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 591743,
       "exportedPath": "images/ibi_course/pasted-image-20240916211050.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916211812.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 490055,
       "exportedPath": "images/ibi_course/pasted-image-20240916211812.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240916212318.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 31305,
       "exportedPath": "images/ibi_course/pasted-image-20240916212318.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240919191853.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 222394,
       "exportedPath": "images/ibi_course/pasted-image-20240919191853.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240919192223.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 215965,
       "exportedPath": "images/ibi_course/pasted-image-20240919192223.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240919202007.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 173204,
       "exportedPath": "images/ibi_course/pasted-image-20240919202007.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240919202054.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 235923,
       "exportedPath": "images/ibi_course/pasted-image-20240919202054.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240919203613.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 280909,
       "exportedPath": "images/ibi_course/pasted-image-20240919203613.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240919220841.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 27870,
       "exportedPath": "images/ibi_course/pasted-image-20240919220841.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240919221807.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 302178,
       "exportedPath": "images/ibi_course/pasted-image-20240919221807.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920095317.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 427361,
       "exportedPath": "images/ibi_course/pasted-image-20240920095317.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920111602.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 103316,
       "exportedPath": "images/ibi_course/pasted-image-20240920111602.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920115839.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 36152,
       "exportedPath": "images/ibi_course/pasted-image-20240920115839.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920145134.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 186039,
       "exportedPath": "images/ibi_course/pasted-image-20240920145134.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920145431.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 85271,
       "exportedPath": "images/ibi_course/pasted-image-20240920145431.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920150621.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 71572,
       "exportedPath": "images/ibi_course/pasted-image-20240920150621.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920154043.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 237617,
       "exportedPath": "images/ibi_course/pasted-image-20240920154043.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920162959.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 446529,
       "exportedPath": "images/ibi_course/pasted-image-20240920162959.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920163344.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 259049,
       "exportedPath": "images/ibi_course/pasted-image-20240920163344.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920163618.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 208469,
       "exportedPath": "images/ibi_course/pasted-image-20240920163618.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920164712.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 542212,
       "exportedPath": "images/ibi_course/pasted-image-20240920164712.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920164906.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 218511,
       "exportedPath": "images/ibi_course/pasted-image-20240920164906.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920165331.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 64980,
       "exportedPath": "images/ibi_course/pasted-image-20240920165331.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920175050.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 164256,
       "exportedPath": "images/ibi_course/pasted-image-20240920175050.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920175404.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 224545,
       "exportedPath": "images/ibi_course/pasted-image-20240920175404.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240920175954.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 109288,
       "exportedPath": "images/ibi_course/pasted-image-20240920175954.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240921155247.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 499458,
       "exportedPath": "images/ibi_course/pasted-image-20240921155247.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240921163930.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 87084,
       "exportedPath": "images/ibi_course/pasted-image-20240921163930.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240921164400.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 57796,
       "exportedPath": "images/ibi_course/pasted-image-20240921164400.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240921164530.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 31322,
       "exportedPath": "images/ibi_course/pasted-image-20240921164530.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240921220413.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 410428,
       "exportedPath": "images/ibi_course/pasted-image-20240921220413.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240921223256.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 68224,
       "exportedPath": "images/ibi_course/pasted-image-20240921223256.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240921224440.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 600284,
       "exportedPath": "images/ibi_course/pasted-image-20240921224440.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240921230416.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 67186,
       "exportedPath": "images/ibi_course/pasted-image-20240921230416.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240922120257.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 76736,
       "exportedPath": "images/ibi_course/pasted-image-20240922120257.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240922121841.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 168391,
       "exportedPath": "images/ibi_course/pasted-image-20240922121841.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240922124804.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 279352,
       "exportedPath": "images/ibi_course/pasted-image-20240922124804.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240922125219.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 717262,
       "exportedPath": "images/ibi_course/pasted-image-20240922125219.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240922131352.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 117215,
       "exportedPath": "images/ibi_course/pasted-image-20240922131352.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240922175829.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 28538,
       "exportedPath": "images/ibi_course/pasted-image-20240922175829.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240922180150.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 44214,
       "exportedPath": "images/ibi_course/pasted-image-20240922180150.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240922182153.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 92053,
       "exportedPath": "images/ibi_course/pasted-image-20240922182153.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240922184258.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 194329,
       "exportedPath": "images/ibi_course/pasted-image-20240922184258.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240922190016.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 431136,
       "exportedPath": "images/ibi_course/pasted-image-20240922190016.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240922191412.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 456879,
       "exportedPath": "images/ibi_course/pasted-image-20240922191412.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240922191456.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 207242,
       "exportedPath": "images/ibi_course/pasted-image-20240922191456.png",
       "dependencies": []
     },
     "Images/iBi_Course/Pasted image 20240922191810.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 69434,
       "exportedPath": "images/ibi_course/pasted-image-20240922191810.png",
       "dependencies": []
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/ibi24_Protocol4AP02.pdf": {
-      "modifiedTime": 1727091853355,
+    "Images/iBi_Course/Pasted image 20240927051237.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 4592,
+      "exportedPath": "images/ibi_course/pasted-image-20240927051237.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927051721.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 346843,
+      "exportedPath": "images/ibi_course/pasted-image-20240927051721.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927094403.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 38506,
+      "exportedPath": "images/ibi_course/pasted-image-20240927094403.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927101144.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 32366,
+      "exportedPath": "images/ibi_course/pasted-image-20240927101144.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927103743.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 111886,
+      "exportedPath": "images/ibi_course/pasted-image-20240927103743.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927104427.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 216374,
+      "exportedPath": "images/ibi_course/pasted-image-20240927104427.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927105919.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 52165,
+      "exportedPath": "images/ibi_course/pasted-image-20240927105919.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927114542.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 1582,
+      "exportedPath": "images/ibi_course/pasted-image-20240927114542.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927125240.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 4124,
+      "exportedPath": "images/ibi_course/pasted-image-20240927125240.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927125439.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 122161,
+      "exportedPath": "images/ibi_course/pasted-image-20240927125439.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927133630.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 124205,
+      "exportedPath": "images/ibi_course/pasted-image-20240927133630.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927141819.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 15078,
+      "exportedPath": "images/ibi_course/pasted-image-20240927141819.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927142020.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 54229,
+      "exportedPath": "images/ibi_course/pasted-image-20240927142020.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927142733.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 248078,
+      "exportedPath": "images/ibi_course/pasted-image-20240927142733.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927142856.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 208886,
+      "exportedPath": "images/ibi_course/pasted-image-20240927142856.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927142919.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 205770,
+      "exportedPath": "images/ibi_course/pasted-image-20240927142919.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240927142938.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 207755,
+      "exportedPath": "images/ibi_course/pasted-image-20240927142938.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240928001217.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 18762,
+      "exportedPath": "images/ibi_course/pasted-image-20240928001217.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240928001626.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 22244,
+      "exportedPath": "images/ibi_course/pasted-image-20240928001626.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240928003341.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 29792,
+      "exportedPath": "images/ibi_course/pasted-image-20240928003341.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240928004857.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 31680,
+      "exportedPath": "images/ibi_course/pasted-image-20240928004857.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240928010314.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 33567,
+      "exportedPath": "images/ibi_course/pasted-image-20240928010314.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240928010331.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 31188,
+      "exportedPath": "images/ibi_course/pasted-image-20240928010331.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240928010406.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 33145,
+      "exportedPath": "images/ibi_course/pasted-image-20240928010406.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240928010417.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 34448,
+      "exportedPath": "images/ibi_course/pasted-image-20240928010417.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240928010530.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 50901,
+      "exportedPath": "images/ibi_course/pasted-image-20240928010530.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240928010730.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 35374,
+      "exportedPath": "images/ibi_course/pasted-image-20240928010730.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240928011142.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 79508,
+      "exportedPath": "images/ibi_course/pasted-image-20240928011142.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240928011231.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 73112,
+      "exportedPath": "images/ibi_course/pasted-image-20240928011231.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240928011319.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 88995,
+      "exportedPath": "images/ibi_course/pasted-image-20240928011319.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240929131355.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 157580,
+      "exportedPath": "images/ibi_course/pasted-image-20240929131355.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240929132127.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 73598,
+      "exportedPath": "images/ibi_course/pasted-image-20240929132127.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240929132300.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 25275,
+      "exportedPath": "images/ibi_course/pasted-image-20240929132300.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240929132326.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 23155,
+      "exportedPath": "images/ibi_course/pasted-image-20240929132326.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240929182815.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 212662,
+      "exportedPath": "images/ibi_course/pasted-image-20240929182815.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240929190736.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 173535,
+      "exportedPath": "images/ibi_course/pasted-image-20240929190736.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240929190919.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 239978,
+      "exportedPath": "images/ibi_course/pasted-image-20240929190919.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240929191522.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 381549,
+      "exportedPath": "images/ibi_course/pasted-image-20240929191522.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930151220.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 60335,
+      "exportedPath": "images/ibi_course/pasted-image-20240930151220.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930152652.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 134721,
+      "exportedPath": "images/ibi_course/pasted-image-20240930152652.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930153048.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 416587,
+      "exportedPath": "images/ibi_course/pasted-image-20240930153048.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930155916.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 88458,
+      "exportedPath": "images/ibi_course/pasted-image-20240930155916.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930163253.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 131863,
+      "exportedPath": "images/ibi_course/pasted-image-20240930163253.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930175620.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 214378,
+      "exportedPath": "images/ibi_course/pasted-image-20240930175620.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930180624.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 180874,
+      "exportedPath": "images/ibi_course/pasted-image-20240930180624.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930180744.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 78375,
+      "exportedPath": "images/ibi_course/pasted-image-20240930180744.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930180914.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 82795,
+      "exportedPath": "images/ibi_course/pasted-image-20240930180914.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930181012.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 270478,
+      "exportedPath": "images/ibi_course/pasted-image-20240930181012.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930181229.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 117862,
+      "exportedPath": "images/ibi_course/pasted-image-20240930181229.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930181434.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 94785,
+      "exportedPath": "images/ibi_course/pasted-image-20240930181434.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930185636.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 33390,
+      "exportedPath": "images/ibi_course/pasted-image-20240930185636.png",
+      "dependencies": []
+    },
+    "Images/iBi_Course/Pasted image 20240930194511.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 12213,
+      "exportedPath": "images/ibi_course/pasted-image-20240930194511.png",
+      "dependencies": []
+    },
+    "Notes/Bioinformatics/Introdução à Bioinformática/Materials/ibi24_Protocol4AP02.pdf": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 74474,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/ibi24_protocol4ap02.pdf",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/materials/ibi24_protocol4ap02.pdf",
       "dependencies": []
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Knowledge Representation and Ontologies.pdf": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Materials/Knowledge Representation and Ontologies.pdf": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 78,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/knowledge-representation-and-ontologies.pdf",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/materials/knowledge-representation-and-ontologies.pdf",
       "dependencies": []
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/Protocolo_2.pdf": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Materials/Protocolo_2.pdf": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 213394,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/protocolo_2.pdf",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/materials/protocolo_2.pdf",
       "dependencies": []
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Materials/What Is a Knowledge Representation.pdf": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Materials/What Is a Knowledge Representation.pdf": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 49,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/what-is-a-knowledge-representation.pdf",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/materials/what-is-a-knowledge-representation.pdf",
       "dependencies": []
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Algorithms for Bioinformatics.md": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Algorithms for Bioinformatics.md": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 8701,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/algorithms-for-bioinformatics.html",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/algorithms-for-bioinformatics.html",
       "dependencies": [
         "lib/media/pasted-image-20240913151759.png",
         "lib/media/pasted-image-20240913162020.png",
@@ -1266,10 +1686,10 @@
         "lib/media/pasted-image-20240916113200.png"
       ]
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Biological Sequences.md": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Biological Sequences.md": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 9003,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/biological-sequences.html",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/biological-sequences.html",
       "dependencies": [
         "lib/media/pasted-image-20240904150308.png",
         "lib/media/pasted-image-20240904150202.png",
@@ -1303,10 +1723,10 @@
         "lib/media/pasted-image-20240905123658.png"
       ]
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Dot-Plot.md": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Dot-Plot.md": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 4264,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/dot-plot.html",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/dot-plot.html",
       "dependencies": [
         "lib/media/pasted-image-20240915075206.png",
         "lib/media/pasted-image-20240915075221.png",
@@ -1321,30 +1741,39 @@
         "lib/media/pasted-image-20240915091746.png"
       ]
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP02 - Algorithms in Action.md": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Hands-on Class - AP02 - Algorithms in Action.md": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 3993,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/hands-on-class-ap02-algorithms-in-action.html",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/hands-on-class-ap02-algorithms-in-action.html",
       "dependencies": []
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP03 - Algorithms in Action.md": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Hands-on Class - AP03 - Algorithms in Action.md": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 1287,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/hands-on-class-ap03-algorithms-in-action.html",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/hands-on-class-ap03-algorithms-in-action.html",
       "dependencies": [
-        "notes/bioinformatics/introdução-à-bioinformárica/materials/ibi24_protocol4ap02.pdf"
+        "notes/bioinformatics/introdução-à-bioinformática/materials/ibi24_protocol4ap02.pdf"
       ]
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Session_Proteins, sequences & algorithms.md": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Hands-on Session_Pairwise Alignment.md": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 4242,
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/hands-on-session_pairwise-alignment.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240930185636.png",
+        "lib/media/pasted-image-20240930194511.png"
+      ]
+    },
+    "Notes/Bioinformatics/Introdução à Bioinformática/Hands-on Session_Proteins, sequences & algorithms.md": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 4824,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/hands-on-session_proteins,-sequences-&-algorithms.html",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/hands-on-session_proteins,-sequences-&-algorithms.html",
       "dependencies": []
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/HMM - Hidden Markov Models.md": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/HMM - Hidden Markov Models.md": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 1735,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/hmm-hidden-markov-models.html",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/hmm-hidden-markov-models.html",
       "dependencies": [
         "lib/media/pasted-image-20240916203126.png",
         "lib/media/pasted-image-20240920162959.png",
@@ -1352,31 +1781,77 @@
         "lib/media/pasted-image-20240920163618.png"
       ]
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Introdução à Bioinformática.md": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 1189,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/introdução-à-bioinformática.html",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/introdução-à-bioinformática.html",
       "dependencies": []
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies & Knowledge Representation.md": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Ontologies & Knowledge Representation.md": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 2433,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/ontologies-&-knowledge-representation.html",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/ontologies-&-knowledge-representation.html",
       "dependencies": [
-        "notes/bioinformatics/introdução-à-bioinformárica/materials/knowledge-representation-and-ontologies.pdf",
-        "notes/bioinformatics/introdução-à-bioinformárica/materials/what-is-a-knowledge-representation.pdf"
+        "notes/bioinformatics/introdução-à-bioinformática/materials/knowledge-representation-and-ontologies.pdf",
+        "notes/bioinformatics/introdução-à-bioinformática/materials/what-is-a-knowledge-representation.pdf"
       ]
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Program.md": {
-      "modifiedTime": 1727091853355,
-      "sourceSize": 1362,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/program.html",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Pairwise Alignment, wrapping up.md": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 2842,
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/pairwise-alignment,-wrapping-up.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240930163253.png",
+        "lib/media/pasted-image-20240930175620.png",
+        "lib/media/pasted-image-20240930180624.png",
+        "lib/media/pasted-image-20240930180914.png",
+        "lib/media/pasted-image-20240930181012.png",
+        "lib/media/pasted-image-20240930181229.png",
+        "lib/media/pasted-image-20240930181434.png"
+      ]
+    },
+    "Notes/Bioinformatics/Introdução à Bioinformática/Pairwise-Alignment, the Dynamic Programming Role.md": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 4244,
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/pairwise-alignment,-the-dynamic-programming-role.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240927142020.png",
+        "lib/media/pasted-image-20240927142856.png",
+        "lib/media/pasted-image-20240927142919.png",
+        "lib/media/pasted-image-20240927142938.png",
+        "lib/media/pasted-image-20240927142733.png",
+        "lib/media/pasted-image-20240927141819.png",
+        "lib/media/pasted-image-20240928001217.png",
+        "lib/media/pasted-image-20240928001626.png",
+        "lib/media/pasted-image-20240928003341.png",
+        "lib/media/pasted-image-20240928004857.png",
+        "lib/media/pasted-image-20240928010314.png",
+        "lib/media/pasted-image-20240928010331.png",
+        "lib/media/pasted-image-20240928010406.png",
+        "lib/media/pasted-image-20240928010417.png",
+        "lib/media/pasted-image-20240928010730.png",
+        "lib/media/pasted-image-20240928010530.png",
+        "lib/media/pasted-image-20240928011142.png",
+        "lib/media/pasted-image-20240928011231.png",
+        "lib/media/pasted-image-20240928011319.png",
+        "lib/media/pasted-image-20240928001217.png",
+        "lib/media/pasted-image-20240928001626.png",
+        "lib/media/pasted-image-20240929131355.png",
+        "lib/media/pasted-image-20240929132127.png",
+        "lib/media/pasted-image-20240929132300.png",
+        "lib/media/pasted-image-20240929132326.png"
+      ]
+    },
+    "Notes/Bioinformatics/Introdução à Bioinformática/Program.md": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 1709,
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/program.html",
       "dependencies": []
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis.md": {
-      "modifiedTime": 1727091853355,
-      "sourceSize": 15027,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/protein-sequence-analysis.html",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Protein Sequence Analysis.md": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 15472,
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/protein-sequence-analysis.html",
       "dependencies": [
         "lib/media/pasted-image-20240919191853.png",
         "lib/media/pasted-image-20240919192223.png",
@@ -1413,21 +1888,21 @@
         "lib/media/pasted-image-20240921224440.png"
       ]
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Protocolo_1_Registo_Armazenamento_Sequências.md": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 2087,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/protocolo_1_registo_armazenamento_sequências.html",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/protocolo_1_registo_armazenamento_sequências.html",
       "dependencies": [
         "lib/media/pasted-image-20240909094830.png",
         "lib/media/pasted-image-20240909095817.png",
         "lib/media/pasted-image-20240909100650.png",
-        "notes/bioinformatics/introdução-à-bioinformárica/materials/protocolo_2.pdf"
+        "notes/bioinformatics/introdução-à-bioinformática/materials/protocolo_2.pdf"
       ]
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Relational Databases.md": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 2877,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/relational-databases.html",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/relational-databases.html",
       "dependencies": [
         "lib/media/pasted-image-20240905154759.png",
         "lib/media/pasted-image-20240905154833.png",
@@ -1445,10 +1920,10 @@
         "lib/media/pasted-image-20240905175343.png"
       ]
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Alignment.md": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Sequence Alignment.md": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 2689,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/sequence-alignment.html",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/sequence-alignment.html",
       "dependencies": [
         "lib/media/pasted-image-20240922175829.png",
         "lib/media/pasted-image-20240922180150.png",
@@ -1460,18 +1935,51 @@
         "lib/media/pasted-image-20240922191810.png"
       ]
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Evolution.md": {
-      "modifiedTime": 1727091853355,
-      "sourceSize": 7103,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/sequence-evolution.html",
+    "Notes/Bioinformatics/Introdução à Bioinformática/Sequence Evolution.md": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 7253,
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/sequence-evolution.html",
       "dependencies": [
         "lib/media/pasted-image-20240922131352.png"
       ]
     },
-    "Notes/Bioinformatics/Introdução à Bioinformárica/Translated Regions Detection.md": {
-      "modifiedTime": 1727091853355,
+    "Notes/Bioinformatics/Introdução à Bioinformática/Sequence Pairwise-Alignment Fast Algorithms, Heuristics to the Rescue.md": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 5598,
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/sequence-pairwise-alignment-fast-algorithms,-heuristics-to-the-rescue.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240929182815.png",
+        "lib/media/pasted-image-20240929190919.png",
+        "lib/media/pasted-image-20240929191522.png",
+        "lib/media/pasted-image-20240929190736.png",
+        "lib/media/pasted-image-20240930151220.png",
+        "lib/media/pasted-image-20240930152652.png",
+        "lib/media/pasted-image-20240930153048.png",
+        "lib/media/pasted-image-20240930155916.png"
+      ]
+    },
+    "Notes/Bioinformatics/Introdução à Bioinformática/The Substitution Matrix.md": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 4134,
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/the-substitution-matrix.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240927051237.png",
+        "lib/media/pasted-image-20240927051721.png",
+        "lib/media/pasted-image-20240927094403.png",
+        "lib/media/pasted-image-20240927101144.png",
+        "lib/media/pasted-image-20240927103743.png",
+        "lib/media/pasted-image-20240927104427.png",
+        "lib/media/pasted-image-20240927105919.png",
+        "lib/media/pasted-image-20240927114542.png",
+        "lib/media/pasted-image-20240927125439.png",
+        "lib/media/pasted-image-20240927125240.png",
+        "lib/media/pasted-image-20240927133630.png"
+      ]
+    },
+    "Notes/Bioinformatics/Introdução à Bioinformática/Translated Regions Detection.md": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 7250,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/translated-regions-detection.html",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/translated-regions-detection.html",
       "dependencies": [
         "lib/media/pasted-image-20240916160745.png",
         "lib/media/pasted-image-20240916183414.png",
@@ -1496,1153 +2004,1459 @@
       ]
     },
     "lib/media/pasted-image-20240913151759.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 279137,
       "exportedPath": "lib/media/pasted-image-20240913151759.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240913162020.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 36637,
       "exportedPath": "lib/media/pasted-image-20240913162020.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240913162326.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 35226,
       "exportedPath": "lib/media/pasted-image-20240913162326.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240913164307.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 30096,
       "exportedPath": "lib/media/pasted-image-20240913164307.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240913170709.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 10745,
       "exportedPath": "lib/media/pasted-image-20240913170709.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240913221119.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 71637,
       "exportedPath": "lib/media/pasted-image-20240913221119.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240914075516.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 27093,
       "exportedPath": "lib/media/pasted-image-20240914075516.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240913221731.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 55265,
       "exportedPath": "lib/media/pasted-image-20240913221731.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240913221831.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 33475,
       "exportedPath": "lib/media/pasted-image-20240913221831.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916105730.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 138172,
       "exportedPath": "lib/media/pasted-image-20240916105730.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916113200.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 291555,
       "exportedPath": "lib/media/pasted-image-20240916113200.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904150308.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 187559,
       "exportedPath": "lib/media/pasted-image-20240904150308.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904150202.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 68947,
       "exportedPath": "lib/media/pasted-image-20240904150202.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904152337.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 57386,
       "exportedPath": "lib/media/pasted-image-20240904152337.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904152412.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 249728,
       "exportedPath": "lib/media/pasted-image-20240904152412.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904165644.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 68158,
       "exportedPath": "lib/media/pasted-image-20240904165644.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904165926.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 2120952,
       "exportedPath": "lib/media/pasted-image-20240904165926.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904173216.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 43215,
       "exportedPath": "lib/media/pasted-image-20240904173216.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904174533.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 83830,
       "exportedPath": "lib/media/pasted-image-20240904174533.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904181118.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 79304,
       "exportedPath": "lib/media/pasted-image-20240904181118.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904190452.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 91097,
       "exportedPath": "lib/media/pasted-image-20240904190452.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904190932.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 121446,
       "exportedPath": "lib/media/pasted-image-20240904190932.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904191010.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 99152,
       "exportedPath": "lib/media/pasted-image-20240904191010.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904191310.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 136663,
       "exportedPath": "lib/media/pasted-image-20240904191310.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904192404.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 705084,
       "exportedPath": "lib/media/pasted-image-20240904192404.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904192603.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 99114,
       "exportedPath": "lib/media/pasted-image-20240904192603.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904192747.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 30778,
       "exportedPath": "lib/media/pasted-image-20240904192747.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904192846.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 147628,
       "exportedPath": "lib/media/pasted-image-20240904192846.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904193017.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 107805,
       "exportedPath": "lib/media/pasted-image-20240904193017.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904193643.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 225195,
       "exportedPath": "lib/media/pasted-image-20240904193643.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904193729.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 93024,
       "exportedPath": "lib/media/pasted-image-20240904193729.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904201541.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 47687,
       "exportedPath": "lib/media/pasted-image-20240904201541.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904201634.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 77389,
       "exportedPath": "lib/media/pasted-image-20240904201634.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904200143.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 117983,
       "exportedPath": "lib/media/pasted-image-20240904200143.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904200217.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 73264,
       "exportedPath": "lib/media/pasted-image-20240904200217.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904200308.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 91316,
       "exportedPath": "lib/media/pasted-image-20240904200308.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904200816.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 392023,
       "exportedPath": "lib/media/pasted-image-20240904200816.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240904201401.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 111568,
       "exportedPath": "lib/media/pasted-image-20240904201401.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905120939.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 1332609,
       "exportedPath": "lib/media/pasted-image-20240905120939.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905123253.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 565105,
       "exportedPath": "lib/media/pasted-image-20240905123253.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905123658.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 182886,
       "exportedPath": "lib/media/pasted-image-20240905123658.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240915075206.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 24552,
       "exportedPath": "lib/media/pasted-image-20240915075206.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240915075221.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 25922,
       "exportedPath": "lib/media/pasted-image-20240915075221.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240915075234.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 24932,
       "exportedPath": "lib/media/pasted-image-20240915075234.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240915075843.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 25168,
       "exportedPath": "lib/media/pasted-image-20240915075843.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240915075857.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 27801,
       "exportedPath": "lib/media/pasted-image-20240915075857.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240915075912.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 27928,
       "exportedPath": "lib/media/pasted-image-20240915075912.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240915075928.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 24969,
       "exportedPath": "lib/media/pasted-image-20240915075928.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240915080140.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 27668,
       "exportedPath": "lib/media/pasted-image-20240915080140.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240915080152.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 27357,
       "exportedPath": "lib/media/pasted-image-20240915080152.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240915090024.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 855193,
       "exportedPath": "lib/media/pasted-image-20240915090024.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240915091746.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 92119,
       "exportedPath": "lib/media/pasted-image-20240915091746.png",
       "dependencies": []
     },
-    "notes/bioinformatics/introdução-à-bioinformárica/materials/ibi24_protocol4ap02.pdf": {
-      "modifiedTime": 1727091853355,
+    "notes/bioinformatics/introdução-à-bioinformática/materials/ibi24_protocol4ap02.pdf": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 74474,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/ibi24_protocol4ap02.pdf",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/materials/ibi24_protocol4ap02.pdf",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930185636.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 33390,
+      "exportedPath": "lib/media/pasted-image-20240930185636.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930194511.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 12213,
+      "exportedPath": "lib/media/pasted-image-20240930194511.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916203126.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 5313,
       "exportedPath": "lib/media/pasted-image-20240916203126.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920162959.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 446529,
       "exportedPath": "lib/media/pasted-image-20240920162959.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920163344.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 259049,
       "exportedPath": "lib/media/pasted-image-20240920163344.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920163618.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 208469,
       "exportedPath": "lib/media/pasted-image-20240920163618.png",
       "dependencies": []
     },
-    "notes/bioinformatics/introdução-à-bioinformárica/materials/knowledge-representation-and-ontologies.pdf": {
-      "modifiedTime": 1727091853355,
+    "notes/bioinformatics/introdução-à-bioinformática/materials/knowledge-representation-and-ontologies.pdf": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 78,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/knowledge-representation-and-ontologies.pdf",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/materials/knowledge-representation-and-ontologies.pdf",
       "dependencies": []
     },
-    "notes/bioinformatics/introdução-à-bioinformárica/materials/what-is-a-knowledge-representation.pdf": {
-      "modifiedTime": 1727091853355,
+    "notes/bioinformatics/introdução-à-bioinformática/materials/what-is-a-knowledge-representation.pdf": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 49,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/what-is-a-knowledge-representation.pdf",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/materials/what-is-a-knowledge-representation.pdf",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930163253.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 131863,
+      "exportedPath": "lib/media/pasted-image-20240930163253.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930175620.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 214378,
+      "exportedPath": "lib/media/pasted-image-20240930175620.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930180624.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 180874,
+      "exportedPath": "lib/media/pasted-image-20240930180624.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930180914.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 82795,
+      "exportedPath": "lib/media/pasted-image-20240930180914.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930181012.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 270478,
+      "exportedPath": "lib/media/pasted-image-20240930181012.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930181229.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 117862,
+      "exportedPath": "lib/media/pasted-image-20240930181229.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930181434.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 94785,
+      "exportedPath": "lib/media/pasted-image-20240930181434.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927142020.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 54229,
+      "exportedPath": "lib/media/pasted-image-20240927142020.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927142856.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 208886,
+      "exportedPath": "lib/media/pasted-image-20240927142856.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927142919.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 205770,
+      "exportedPath": "lib/media/pasted-image-20240927142919.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927142938.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 207755,
+      "exportedPath": "lib/media/pasted-image-20240927142938.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927142733.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 248078,
+      "exportedPath": "lib/media/pasted-image-20240927142733.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927141819.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 15078,
+      "exportedPath": "lib/media/pasted-image-20240927141819.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240928001217.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 18762,
+      "exportedPath": "lib/media/pasted-image-20240928001217.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240928001626.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 22244,
+      "exportedPath": "lib/media/pasted-image-20240928001626.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240928003341.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 29792,
+      "exportedPath": "lib/media/pasted-image-20240928003341.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240928004857.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 31680,
+      "exportedPath": "lib/media/pasted-image-20240928004857.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240928010314.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 33567,
+      "exportedPath": "lib/media/pasted-image-20240928010314.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240928010331.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 31188,
+      "exportedPath": "lib/media/pasted-image-20240928010331.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240928010406.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 33145,
+      "exportedPath": "lib/media/pasted-image-20240928010406.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240928010417.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 34448,
+      "exportedPath": "lib/media/pasted-image-20240928010417.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240928010730.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 35374,
+      "exportedPath": "lib/media/pasted-image-20240928010730.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240928010530.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 50901,
+      "exportedPath": "lib/media/pasted-image-20240928010530.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240928011142.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 79508,
+      "exportedPath": "lib/media/pasted-image-20240928011142.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240928011231.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 73112,
+      "exportedPath": "lib/media/pasted-image-20240928011231.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240928011319.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 88995,
+      "exportedPath": "lib/media/pasted-image-20240928011319.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240929131355.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 157580,
+      "exportedPath": "lib/media/pasted-image-20240929131355.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240929132127.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 73598,
+      "exportedPath": "lib/media/pasted-image-20240929132127.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240929132300.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 25275,
+      "exportedPath": "lib/media/pasted-image-20240929132300.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240929132326.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 23155,
+      "exportedPath": "lib/media/pasted-image-20240929132326.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240919191853.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 222394,
       "exportedPath": "lib/media/pasted-image-20240919191853.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240919192223.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 215965,
       "exportedPath": "lib/media/pasted-image-20240919192223.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240919202007.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 173204,
       "exportedPath": "lib/media/pasted-image-20240919202007.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240919202054.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 235923,
       "exportedPath": "lib/media/pasted-image-20240919202054.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240919203613.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 280909,
       "exportedPath": "lib/media/pasted-image-20240919203613.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240919220841.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 27870,
       "exportedPath": "lib/media/pasted-image-20240919220841.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240919221807.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 302178,
       "exportedPath": "lib/media/pasted-image-20240919221807.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920095317.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 427361,
       "exportedPath": "lib/media/pasted-image-20240920095317.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920111602.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 103316,
       "exportedPath": "lib/media/pasted-image-20240920111602.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920115839.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 36152,
       "exportedPath": "lib/media/pasted-image-20240920115839.png",
       "dependencies": []
     },
     "lib/media/869px-peptidformationball.svg.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 247744,
       "exportedPath": "lib/media/869px-peptidformationball.svg.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920145431.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 85271,
       "exportedPath": "lib/media/pasted-image-20240920145431.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920145134.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 186039,
       "exportedPath": "lib/media/pasted-image-20240920145134.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920150621.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 71572,
       "exportedPath": "lib/media/pasted-image-20240920150621.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920154043.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 237617,
       "exportedPath": "lib/media/pasted-image-20240920154043.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920164906.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 218511,
       "exportedPath": "lib/media/pasted-image-20240920164906.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920164712.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 542212,
       "exportedPath": "lib/media/pasted-image-20240920164712.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920165331.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 64980,
       "exportedPath": "lib/media/pasted-image-20240920165331.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920175050.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 164256,
       "exportedPath": "lib/media/pasted-image-20240920175050.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920175404.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 224545,
       "exportedPath": "lib/media/pasted-image-20240920175404.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240920175954.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 109288,
       "exportedPath": "lib/media/pasted-image-20240920175954.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922120257.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 76736,
       "exportedPath": "lib/media/pasted-image-20240922120257.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922121841.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 168391,
       "exportedPath": "lib/media/pasted-image-20240922121841.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240921230416.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 67186,
       "exportedPath": "lib/media/pasted-image-20240921230416.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922124804.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 279352,
       "exportedPath": "lib/media/pasted-image-20240922124804.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922125219.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 717262,
       "exportedPath": "lib/media/pasted-image-20240922125219.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240921155247.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 499458,
       "exportedPath": "lib/media/pasted-image-20240921155247.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240921163930.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 87084,
       "exportedPath": "lib/media/pasted-image-20240921163930.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240921164400.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 57796,
       "exportedPath": "lib/media/pasted-image-20240921164400.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240921164530.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 31322,
       "exportedPath": "lib/media/pasted-image-20240921164530.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240921220413.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 410428,
       "exportedPath": "lib/media/pasted-image-20240921220413.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240921223256.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 68224,
       "exportedPath": "lib/media/pasted-image-20240921223256.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240921224440.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 600284,
       "exportedPath": "lib/media/pasted-image-20240921224440.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240909094830.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 10740,
       "exportedPath": "lib/media/pasted-image-20240909094830.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240909095817.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 11388,
       "exportedPath": "lib/media/pasted-image-20240909095817.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240909100650.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 1875,
       "exportedPath": "lib/media/pasted-image-20240909100650.png",
       "dependencies": []
     },
-    "notes/bioinformatics/introdução-à-bioinformárica/materials/protocolo_2.pdf": {
-      "modifiedTime": 1727091853355,
+    "notes/bioinformatics/introdução-à-bioinformática/materials/protocolo_2.pdf": {
+      "modifiedTime": 1727723817526,
       "sourceSize": 213394,
-      "exportedPath": "notes/bioinformatics/introdução-à-bioinformárica/materials/protocolo_2.pdf",
+      "exportedPath": "notes/bioinformatics/introdução-à-bioinformática/materials/protocolo_2.pdf",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905154759.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 332768,
       "exportedPath": "lib/media/pasted-image-20240905154759.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905154833.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 14694,
       "exportedPath": "lib/media/pasted-image-20240905154833.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905154142.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 299302,
       "exportedPath": "lib/media/pasted-image-20240905154142.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905154253.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 44685,
       "exportedPath": "lib/media/pasted-image-20240905154253.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905162035.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 466064,
       "exportedPath": "lib/media/pasted-image-20240905162035.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905162318.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 1932622,
       "exportedPath": "lib/media/pasted-image-20240905162318.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905173548.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 150714,
       "exportedPath": "lib/media/pasted-image-20240905173548.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905174043.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 54845,
       "exportedPath": "lib/media/pasted-image-20240905174043.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905161542.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 82258,
       "exportedPath": "lib/media/pasted-image-20240905161542.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905174337.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 120935,
       "exportedPath": "lib/media/pasted-image-20240905174337.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905174541.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 111705,
       "exportedPath": "lib/media/pasted-image-20240905174541.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905174724.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 177427,
       "exportedPath": "lib/media/pasted-image-20240905174724.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905175216.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 182191,
       "exportedPath": "lib/media/pasted-image-20240905175216.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240905175343.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 162360,
       "exportedPath": "lib/media/pasted-image-20240905175343.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922175829.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 28538,
       "exportedPath": "lib/media/pasted-image-20240922175829.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922180150.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 44214,
       "exportedPath": "lib/media/pasted-image-20240922180150.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922182153.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 92053,
       "exportedPath": "lib/media/pasted-image-20240922182153.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922184258.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 194329,
       "exportedPath": "lib/media/pasted-image-20240922184258.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922190016.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 431136,
       "exportedPath": "lib/media/pasted-image-20240922190016.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922191412.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 456879,
       "exportedPath": "lib/media/pasted-image-20240922191412.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922191456.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 207242,
       "exportedPath": "lib/media/pasted-image-20240922191456.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922191810.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 69434,
       "exportedPath": "lib/media/pasted-image-20240922191810.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240922131352.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 117215,
       "exportedPath": "lib/media/pasted-image-20240922131352.png",
       "dependencies": []
     },
+    "lib/media/pasted-image-20240929182815.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 212662,
+      "exportedPath": "lib/media/pasted-image-20240929182815.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240929190919.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 239978,
+      "exportedPath": "lib/media/pasted-image-20240929190919.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240929191522.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 381549,
+      "exportedPath": "lib/media/pasted-image-20240929191522.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240929190736.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 173535,
+      "exportedPath": "lib/media/pasted-image-20240929190736.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930151220.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 60335,
+      "exportedPath": "lib/media/pasted-image-20240930151220.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930152652.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 134721,
+      "exportedPath": "lib/media/pasted-image-20240930152652.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930153048.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 416587,
+      "exportedPath": "lib/media/pasted-image-20240930153048.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240930155916.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 88458,
+      "exportedPath": "lib/media/pasted-image-20240930155916.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927051237.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 4592,
+      "exportedPath": "lib/media/pasted-image-20240927051237.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927051721.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 346843,
+      "exportedPath": "lib/media/pasted-image-20240927051721.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927094403.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 38506,
+      "exportedPath": "lib/media/pasted-image-20240927094403.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927101144.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 32366,
+      "exportedPath": "lib/media/pasted-image-20240927101144.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927103743.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 111886,
+      "exportedPath": "lib/media/pasted-image-20240927103743.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927104427.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 216374,
+      "exportedPath": "lib/media/pasted-image-20240927104427.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927105919.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 52165,
+      "exportedPath": "lib/media/pasted-image-20240927105919.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927114542.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 1582,
+      "exportedPath": "lib/media/pasted-image-20240927114542.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927125439.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 122161,
+      "exportedPath": "lib/media/pasted-image-20240927125439.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927125240.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 4124,
+      "exportedPath": "lib/media/pasted-image-20240927125240.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240927133630.png": {
+      "modifiedTime": 1727723817526,
+      "sourceSize": 124205,
+      "exportedPath": "lib/media/pasted-image-20240927133630.png",
+      "dependencies": []
+    },
     "lib/media/pasted-image-20240916160745.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 647511,
       "exportedPath": "lib/media/pasted-image-20240916160745.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916183414.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 26617,
       "exportedPath": "lib/media/pasted-image-20240916183414.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916184119.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 6384,
       "exportedPath": "lib/media/pasted-image-20240916184119.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916185115.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 329470,
       "exportedPath": "lib/media/pasted-image-20240916185115.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916185318.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 156493,
       "exportedPath": "lib/media/pasted-image-20240916185318.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916190828.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 82530,
       "exportedPath": "lib/media/pasted-image-20240916190828.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916191025.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 91092,
       "exportedPath": "lib/media/pasted-image-20240916191025.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916191040.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 52057,
       "exportedPath": "lib/media/pasted-image-20240916191040.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916190457.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 185334,
       "exportedPath": "lib/media/pasted-image-20240916190457.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916201242.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 147606,
       "exportedPath": "lib/media/pasted-image-20240916201242.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916201336.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 40205,
       "exportedPath": "lib/media/pasted-image-20240916201336.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916201646.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 136595,
       "exportedPath": "lib/media/pasted-image-20240916201646.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916202406.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 1171496,
       "exportedPath": "lib/media/pasted-image-20240916202406.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916202929.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 202350,
       "exportedPath": "lib/media/pasted-image-20240916202929.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916210639.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 388935,
       "exportedPath": "lib/media/pasted-image-20240916210639.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916210313.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 156175,
       "exportedPath": "lib/media/pasted-image-20240916210313.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916211050.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 591743,
       "exportedPath": "lib/media/pasted-image-20240916211050.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916211812.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 490055,
       "exportedPath": "lib/media/pasted-image-20240916211812.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240916212318.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 31305,
       "exportedPath": "lib/media/pasted-image-20240916212318.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1727091853355,
-      "sourceSize": 142905,
+      "modifiedTime": 1727723817526,
+      "sourceSize": 192796,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1727091853355,
-      "sourceSize": 2341,
+      "modifiedTime": 1727723817526,
+      "sourceSize": 3440,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 19750,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 711831,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 368,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 2836,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1727091853355,
+      "modifiedTime": 1727723817526,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []

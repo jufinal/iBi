@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Workshop03]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Workshop03</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 23 Sep 2024 11:44:29 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 23 Sep 2024 11:44:13 GMT</pubDate><copyright><![CDATA[jmgcfdea]]></copyright><ttl>60</ttl><dc:creator>jmgcfdea</dc:creator><item><title><![CDATA[Algorithms for Bioinformatics]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Workshop03]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Workshop03</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 30 Sep 2024 19:17:19 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 30 Sep 2024 19:16:57 GMT</pubDate><copyright><![CDATA[jmgcfdea]]></copyright><ttl>60</ttl><dc:creator>jmgcfdea</dc:creator><item><title><![CDATA[Algorithms for Bioinformatics]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Algorithms for Bioinformatics.md<br>
 Created: 2024-09-13 15:10<br>
 Updated: 2024-09-13 15:10<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Algorithms for Bioinformatics</a><br>
 Subject:  Algorithms for Bioinformatics<br>
 Tags:<br>Ontology
-parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Biological Sequences" href="notes\bioinformatics\introdução-à-bioinformárica\biological-sequences.html" class="internal-link" target="_self" rel="noopener">Biological Sequences</a> <a data-href="molecular mass" href="workshop\edam__nodes\data\molecular-mass.html" class="internal-link" target="_self" rel="noopener">molecular mass</a> <a data-href="Nucleic acid melting temperature" href="workshop\edam__nodes\data\nucleic-acid-melting-temperature.html" class="internal-link" target="_self" rel="noopener">Nucleic acid melting temperature</a> <a data-href="CpG island and isochore detection" href="workshop\edam__nodes\operations\cpg-island-and-isochore-detection.html" class="internal-link" target="_self" rel="noopener">CpG island and isochore detection</a> <a data-href="k-mer counting" href="workshop\edam__nodes\data\k-mer-counting.html" class="internal-link" target="_self" rel="noopener">k-mer counting</a> <a data-href="Regular expression" href="workshop\edam__nodes\data\regular-expression.html" class="internal-link" target="_self" rel="noopener">Regular expression</a> <a data-href="Hidden Markov model" href="workshop\edam__nodes\data\hidden-markov-model.html" class="internal-link" target="_self" rel="noopener">Hidden Markov model</a> <a data-href="Position-specific scoring matrix" href="workshop\edam__nodes\data\position-specific-scoring-matrix.html" class="internal-link" target="_self" rel="noopener">Position-specific scoring matrix</a> <a data-href="Genetic engineering" href="workshop\edam__nodes\topics\genetic-engineering.html" class="internal-link" target="_self" rel="noopener">Genetic engineering</a> <a data-href="Quality control report" href="workshop\edam__nodes\quality-control-report.html" class="internal-link" target="_self" rel="noopener">Quality control report</a> <a data-href="Probes and primers" href="workshop\edam__nodes\topics\probes-and-primers.html" class="internal-link" target="_self" rel="noopener">Probes and primers</a> <a data-href="PCR primer design" href="workshop\edam__nodes\operations\pcr-primer-design.html" class="internal-link" target="_self" rel="noopener">PCR primer design</a>
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Biological Sequences" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html" class="internal-link" target="_self" rel="noopener">Biological Sequences</a> <a data-href="molecular mass" href="workshop\edam__nodes\data\molecular-mass.html" class="internal-link" target="_self" rel="noopener">molecular mass</a> <a data-href="Nucleic acid melting temperature" href="workshop\edam__nodes\data\nucleic-acid-melting-temperature.html" class="internal-link" target="_self" rel="noopener">Nucleic acid melting temperature</a> <a data-href="CpG island and isochore detection" href="workshop\edam__nodes\operations\cpg-island-and-isochore-detection.html" class="internal-link" target="_self" rel="noopener">CpG island and isochore detection</a> <a data-href="k-mer counting" href="workshop\edam__nodes\data\k-mer-counting.html" class="internal-link" target="_self" rel="noopener">k-mer counting</a> <a data-href="Regular expression" href="workshop\edam__nodes\data\regular-expression.html" class="internal-link" target="_self" rel="noopener">Regular expression</a> <a data-href="Hidden Markov model" href="workshop\edam__nodes\data\hidden-markov-model.html" class="internal-link" target="_self" rel="noopener">Hidden Markov model</a> <a data-href="Position-specific scoring matrix" href="workshop\edam__nodes\data\position-specific-scoring-matrix.html" class="internal-link" target="_self" rel="noopener">Position-specific scoring matrix</a> <a data-href="Genetic engineering" href="workshop\edam__nodes\topics\genetic-engineering.html" class="internal-link" target="_self" rel="noopener">Genetic engineering</a> <a data-href="Quality control report" href="workshop\edam__nodes\quality-control-report.html" class="internal-link" target="_self" rel="noopener">Quality control report</a> <a data-href="Probes and primers" href="workshop\edam__nodes\topics\probes-and-primers.html" class="internal-link" target="_self" rel="noopener">Probes and primers</a> <a data-href="PCR primer design" href="workshop\edam__nodes\operations\pcr-primer-design.html" class="internal-link" target="_self" rel="noopener">PCR primer design</a>
 <br><br><br>Definition
 An algorithm is a specific set of instructions for carrying out a procedure or solving a problem, usually with the requirement that the procedure terminate at some point. Specific algorithms sometimes also go by the name method, procedure, or technique. The word "algorithm" is a distortion of al-Khwārizmī, a Persian mathematician who wrote an influential treatise about algebraic methods.
   <img alt="Pasted image 20240913151759.png" src="lib\media\pasted-image-20240913151759.png" style="width: 600px; max-width: 100%;"> 
@@ -206,7 +206,7 @@ Internal comparison for a sequence
 .
 
 
-<br><a data-tooltip-position="top" aria-label="Dot-Plot" data-href="Dot-Plot" href="notes\bioinformatics\introdução-à-bioinformárica\dot-plot.html" class="internal-link" target="_self" rel="noopener">Looking further into the Dot-Plot technique</a> (MANDATORY.)
+<br><a data-tooltip-position="top" aria-label="Dot-Plot" data-href="Dot-Plot" href="notes\bioinformatics\introdução-à-bioinformática\dot-plot.html" class="internal-link" target="_self" rel="noopener">Looking further into the Dot-Plot technique</a> (MANDATORY.)
 
 
 
@@ -364,14 +364,14 @@ Sample output
 
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Algorithms for Bioinformatics.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240913151759.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240913151759.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Biological Sequences]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\algorithms-for-bioinformatics.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Algorithms for Bioinformatics.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240913151759.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240913151759.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Biological Sequences]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Biological Sequences.md<br>
 Created: 2024-09-03 15:51<br>
 Updated: 2024-09-03 15:51<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Biological Sequences</a><br>
 Subject:  Biological Sequences<br>
 Tags:<br>Ontology
-parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Sequence" href="workshop\edam__nodes\data\sequence.html" class="internal-link" target="_self" rel="noopener">Sequence</a> <a data-href="Nucleic acids" href="workshop\edam__nodes\topics\nucleic-acids.html" class="internal-link" target="_self" rel="noopener">Nucleic acids</a> <a data-href="Proteins" href="workshop\edam__nodes\topics\proteins.html" class="internal-link" target="_self" rel="noopener">Proteins</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/topics/RNA" data-href="Workshop/EDAM__Nodes/topics/RNA" href="workshop\edam__nodes\topics\rna.html" class="internal-link" target="_self" rel="noopener">RNA</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/topics/DNA" data-href="Workshop/EDAM__Nodes/topics/DNA" href="workshop\edam__nodes\topics\dna.html" class="internal-link" target="_self" rel="noopener">DNA</a> <a data-href="Format" href="workshop\edam__nodes\formats\format.html" class="internal-link" target="_self" rel="noopener">Format</a> <a data-href="Sequence annotation" href="workshop\edam__nodes\operations\sequence-annotation.html" class="internal-link" target="_self" rel="noopener">Sequence annotation</a> <a data-href="Sequencing" href="workshop\edam__nodes\topics\sequencing.html" class="internal-link" target="_self" rel="noopener">Sequencing</a> <a data-href="Scaffolding" href="workshop\edam__nodes\operations\scaffolding.html" class="internal-link" target="_self" rel="noopener">Scaffolding</a>
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Sequence" href="workshop\edam__nodes\data\sequence.html" class="internal-link" target="_self" rel="noopener">Sequence</a> <a data-href="Nucleic acids" href="workshop\edam__nodes\topics\nucleic-acids.html" class="internal-link" target="_self" rel="noopener">Nucleic acids</a> <a data-href="Proteins" href="workshop\edam__nodes\topics\proteins.html" class="internal-link" target="_self" rel="noopener">Proteins</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/topics/RNA" data-href="Workshop/EDAM__Nodes/topics/RNA" href="workshop\edam__nodes\topics\rna.html" class="internal-link" target="_self" rel="noopener">RNA</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/topics/DNA" data-href="Workshop/EDAM__Nodes/topics/DNA" href="workshop\edam__nodes\topics\dna.html" class="internal-link" target="_self" rel="noopener">DNA</a> <a data-href="Format" href="workshop\edam__nodes\formats\format.html" class="internal-link" target="_self" rel="noopener">Format</a> <a data-href="Sequence annotation" href="workshop\edam__nodes\operations\sequence-annotation.html" class="internal-link" target="_self" rel="noopener">Sequence annotation</a> <a data-href="Sequencing" href="workshop\edam__nodes\topics\sequencing.html" class="internal-link" target="_self" rel="noopener">Sequencing</a> <a data-href="Scaffolding" href="workshop\edam__nodes\operations\scaffolding.html" class="internal-link" target="_self" rel="noopener">Scaffolding</a>
 <br><br><a data-tooltip-position="top" aria-label="http://edamontology.org/data_2044" rel="noopener" class="external-link" href="http://edamontology.org/data_2044" target="_blank">EDAM::data_2044</a><br><br>Definition
 “Polymers are very large molecules made of repeating patterns of small molecules, called monomers.  Many polymers are made by repeating the same small molecule over and over again.  Others are made from two monomers linked in a pattern.”<br>
 <a data-tooltip-position="top" aria-label="http://chemistry.need.org/curriculum/polymers" rel="noopener" class="external-link" href="http://chemistry.need.org/curriculum/polymers" target="_blank">Source</a>
@@ -825,14 +825,14 @@ Source: EDAM::format_1915<br>
 
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\biological-sequences.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Biological Sequences.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240904150308.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240904150308.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dot-Plot]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Biological Sequences.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240904150308.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240904150308.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dot-Plot]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Dot-Plot.md<br>
 Created: 2024-09-14 09:09<br>
 Updated: 2024-09-14 09:09<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Dot-Plot</a><br>
 Subject:  Dot-Plot<br>
 Tags:<br>Ontology
-parent::<a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a>
+parent::<a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformática\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a>
 <br><br><br><br>
 <br>n-tuple / <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/K-mer" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/K-mer" target="_blank">k-mer</a>
 <br>
@@ -1036,14 +1036,14 @@ Source: <a data-tooltip-position="top" aria-label="https://myhits.sib.swiss/util
 <br>Non interactive.
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\dot-plot.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Dot-Plot.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 15 Sep 2024 10:01:06 GMT</pubDate><enclosure url="lib\media\pasted-image-20240915075206.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240915075206.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hands-on Class - AP02 - Algorithms in Action]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\dot-plot.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Dot-Plot.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 15 Sep 2024 10:01:06 GMT</pubDate><enclosure url="lib\media\pasted-image-20240915075206.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240915075206.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hands-on Class - AP02 - Algorithms in Action]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP02 - Algorithms in Action.md<br>
 Created: 2024-09-17 16:09<br>
 Updated: 2024-09-17 16:09<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Hands-on Class - AP02 - Algorithms in Action</a><br>
 Subject:  Hands-on Class - AP02 - Algorithms in Action<br>
 Tags:<br>Ontology
-parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a>
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformática\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a>
 <br><br><br><br>
 <br>Input Sequence
 
@@ -1158,14 +1158,14 @@ Source: <a data-tooltip-position="top" aria-label="http://genomeview.org/" rel="
 
 <br>Compare this ab initio  result with the former annotations.
 <br>
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\hands-on-class-ap02-algorithms-in-action.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP02 - Algorithms in Action.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Wed, 18 Sep 2024 18:15:00 GMT</pubDate></item><item><title><![CDATA[Hands-on Class - AP03 - Algorithms in Action]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\hands-on-class-ap02-algorithms-in-action.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Hands-on Class - AP02 - Algorithms in Action.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Wed, 18 Sep 2024 18:15:00 GMT</pubDate></item><item><title><![CDATA[Hands-on Class - AP03 - Algorithms in Action]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP02 - Algorithms in Action.md<br>
 Created: 2024-09-16 11:48<br>
 Updated: 2024-09-16 11:48<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Hands-on Class - AP03 - Algorithms in Action</a><br>
 Subject:  Hands-on Class - AP03 - Algorithms in Action<br>
 Tags:<br>Ontology
-parent::<a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a> <a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a>
+parent::<a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformática\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a> <a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a>
 <br><br><br>
 <br>Input Sequences
 
@@ -1184,14 +1184,132 @@ Source: <a data-tooltip-position="top" aria-label="https://rest.uniprot.org/unip
 
 
 
-<br><br><br><a data-href="ibi24_Protocol4AP02.pdf" href="notes\bioinformatics\introdução-à-bioinformárica\materials\ibi24_protocol4ap02.pdf" class="internal-link" target="_self" rel="noopener">ibi24_Protocol4AP02.pdf</a>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\hands-on-class-ap03-algorithms-in-action.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Class - AP03 - Algorithms in Action.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Tue, 17 Sep 2024 15:09:21 GMT</pubDate></item><item><title><![CDATA[Hands-on Session_Proteins, sequences & algorithms]]></title><description><![CDATA[ 
+<br><br><br><a data-href="ibi24_Protocol4AP02.pdf" href="notes\bioinformatics\introdução-à-bioinformática\materials\ibi24_protocol4ap02.pdf" class="internal-link" target="_self" rel="noopener">ibi24_Protocol4AP02.pdf</a>]]></description><link>notes\bioinformatics\introdução-à-bioinformática\hands-on-class-ap03-algorithms-in-action.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Hands-on Class - AP03 - Algorithms in Action.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Tue, 17 Sep 2024 15:09:21 GMT</pubDate></item><item><title><![CDATA[Hands-on Session_Pairwise Alignment]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformática/Hands-on Session_Pairwise Alignment.md<br>
+Created: 2024-09-30 18:24<br>
+Updated: 2024-09-30 18:24<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Hands-on Session_Pairwise Alignment</a><br>
+Subject:  Hands-on Session_Pairwise Alignment<br>
+Tags:<br>Ontology
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Pairwise Alignment, wrapping up" href="notes\bioinformatics\introdução-à-bioinformática\pairwise-alignment,-wrapping-up.html" class="internal-link" target="_self" rel="noopener">Pairwise Alignment, wrapping up</a>
+<br><br><br><br>&gt;Seq_01
+MAPGQLALFSVSDKTGLVEFARNLTALGLNLVASGGTAKALRDAGLAVRDVSELTGFPEM
+LGGRVKTLHPAVHAGILARNIPEDNADMARLDFNLIRVVACNLYPFVKTVASPGVTVEEA
+VEQIDIGGVTLLRAAAKNHARVTVVCEPEDYVVVSTEMQSSESKDTSLETRRQLALKAFT
+HTAQYDEAISDYFRKQYSKGVSQMPLRYGMNPHQTPAQLYTLQPKLPITVLNGAPGFINL
+CDALNAWQLVKELKEALGIPAAASFKHVSPAGAAVGIPLSEDEAKVCMVYDLYKTLTPIS
+AAYARARGADRMSSFGDFVALSDVCDVPTAKIISREVSDGIIAPGYEEEALTILSKKKNG
+NYCVLQMDQSYKPDENEVRTLFGLHLSQKRNNGVVDKSLFSNVVTKNKDLPESALRDLIV
+ATIAVKYTQSNSVCYAKNGQVIGIGAGQQSRIHCTRLAGDKANYWWLRHHPQVLSMKFKT
+GVKRAEISNAIDQYVTGTIGEDEDLIKWKALFEEVPELLTEAEKKEWVEKLTEVSISSDA
+FFPFRDNVDRAKRSGVAYIAAPSGSAADKVVIEACDELGIILAHTNLRLFHH
+Copy<br>&gt;Seq_02
+MAVTVICDPNDYEGVSHEILSSPSRQTSLDTRRRLAVKAFLHTAQYDAAISDYFRKQYLQ
+GVAQLPLRYGMNPHQVPAQLCTSLPQLPLKVVNGAPGFINLCDALNAWQLVRELKAALGL
+YDILTPIATAYARARGADRMSSFGDFLTPEALEILKKKKGGNYCVLQMDPTYEPALLESR
+TLFGLTLEQRRNDARINKSLFDNIVSKNKALPEPAVRDLIVATIALKYTQSNSVCYAKDG
+QVIGIGAGQQSRIHCTRLAGDKANNWWLRQHPNIKSMVFRKGVKRAEISNVIDVYVGGVF
+QQSRIHCTRLAGDKANYWWLRHHPQVLSMWFKTWVMLSSDAFFPFRDNIDRAHQTGVQYI
+ASPGGSTNDQGVIEACDEYGITLCHTGLRLFHH
+Copy<br><br>
+<br><a data-tooltip-position="top" aria-label="https://dotlet.vital-it.ch/" rel="noopener" class="external-link" href="https://dotlet.vital-it.ch/" target="_blank">Dotlet JS</a>
+
+<br>
+
+
+
+
+
+<br><a data-tooltip-position="top" aria-label="http://emboss.bioinformatics.nl/cgi-bin/emboss/" rel="noopener" class="external-link" href="http://emboss.bioinformatics.nl/cgi-bin/emboss/" target="_blank">EMBOSS</a> (EMBL, Univ Waggeningen)
+
+<br>
+
+
+
+
+
+<br><a data-tooltip-position="top" aria-label="https://www.ebi.ac.uk/jdispatcher/sss/fasta" rel="noopener" class="external-link" href="https://www.ebi.ac.uk/jdispatcher/sss/fasta" target="_blank">FASTA</a> (EBI)
+
+<br>
+
+
+
+
+
+<br><a data-tooltip-position="top" aria-label="https://www.ebi.ac.uk/jdispatcher/sss/ncbiblast" rel="noopener" class="external-link" href="https://www.ebi.ac.uk/jdispatcher/sss/ncbiblast" target="_blank">BLAST</a> (EBI)
+
+<br>
+
+
+
+
+
+<br><br>
+<br>Store locally the supplied sequences.
+<br>Compare visually the similarity shared betwee the sequences.
+<br>Using tools from the EMBOSS package for the following tasks.
+
+<br>Choose for the output in all of them the format
+
+<br>EMBOSS Pairwise
+
+
+
+
+<br>Align both sequences using the Needleman-Wunsch algorithm.
+<br>Assess their similarity, and decide on the best BLOSUM matrix to be used
+
+<br>
+Looking for available blosum matrices
+ <img alt="Pasted image 20240930185636.png" src="lib\media\pasted-image-20240930185636.png" style="width: 500px; max-width: 100%;"><br>
+.
+
+
+
+
+<br>Repeat the process using an implementation of the Myers-Miller algorithm. Scan the documentation for that purpose.
+<br>Compare both global alignment solutions.
+<br>Now, changing the alignment paradigm, align both sequences through the Smith-Water algorithm.
+
+<br>
+
+<img alt="Pasted image 20240930194511.png" src="lib\media\pasted-image-20240930194511.png"><br>
+. 
+
+
+<br>Consider the yielded similarity level, and consider if the substitution matrix should be reconsidered
+
+
+<br>Next, locate an implementation for the Waterman-Eggert algorithm. Run an alignment, but ask for the 3 best solutions.
+
+<br>Check if the solutions are mutually exclusive.
+<br>Compare the best one with the solution from the 8.
+
+
+<br>From now on, the procedure is to be applied just to the first sequence.
+<br>Use that sequence as a query to search the database UNIPROT::SwissProt through both FASTA and BLAST.
+
+<br>Locate and open "Tool Output" panel.
+<br>Store that textual output.
+<br>Consider the best results for each query:
+
+<br>Look at the identity found
+<br>Recover the target sequence
+<br>Align globally both the query and the target
+<br>Compare either the FASTA or BLAST similarities to the latter.
+
+
+<br>Locate the e-value column.
+
+
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\hands-on-session_pairwise-alignment.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Hands-on Session_Pairwise Alignment.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 30 Sep 2024 19:00:23 GMT</pubDate><enclosure url="lib\media\pasted-image-20240930185636.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240930185636.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hands-on Session_Proteins, sequences & algorithms]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Session_Proteins, sequences &amp; algorithms.md<br>
 Created: 2024-09-23 10:54<br>
 Updated: 2024-09-23 10:54<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Hands-on Session_Proteins, sequences &amp; algorithms</a><br>
 Subject:  Hands-on Session_Proteins, sequences &amp; algorithms<br>
 Tags:<br>Ontology
-parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis" data-href="Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis" href="notes\bioinformatics\introdução-à-bioinformárica\protein-sequence-analysis.html" class="internal-link" target="_self" rel="noopener">Protein Sequence Analysis</a>
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformática/Protein Sequence Analysis" data-href="Notes/Bioinformatics/Introdução à Bioinformática/Protein Sequence Analysis" href="notes\bioinformatics\introdução-à-bioinformática\protein-sequence-analysis.html" class="internal-link" target="_self" rel="noopener">Protein Sequence Analysis</a>
 <br><br><br>This hands-on session is part of a procedure that will continued at a later session.<br>
 Students are invited to keep an individual record for each one of the sequences being  analyzed.<br>
 Students are strongly encouraged to rely on text-only record, both for input, and output.<br>
@@ -1311,14 +1429,14 @@ Copy<br><br>
 <br>Disordered regions with binding potential
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\hands-on-session_proteins,-sequences-&amp;-algorithms.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Hands-on Session_Proteins, sequences &amp; algorithms.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 23 Sep 2024 11:42:00 GMT</pubDate></item><item><title><![CDATA[HMM - Hidden Markov Models]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\hands-on-session_proteins,-sequences-&amp;-algorithms.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Hands-on Session_Proteins, sequences &amp; algorithms.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Fri, 27 Sep 2024 12:47:17 GMT</pubDate></item><item><title><![CDATA[HMM - Hidden Markov Models]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/HMM - Hidden Markov Models.md<br>
 Created: 2024-09-20 16:14<br>
 Updated: 2024-09-20 16:14<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">HMM - Hidden Markov Models</a><br>
 Subject:  HMM - Hidden Markov Models<br>
 Tags:<br>Ontology
-parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis" data-href="Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis" href="notes\bioinformatics\introdução-à-bioinformárica\protein-sequence-analysis.html" class="internal-link" target="_self" rel="noopener">Protein Sequence Analysis</a>
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformática/Protein Sequence Analysis" data-href="Notes/Bioinformatics/Introdução à Bioinformática/Protein Sequence Analysis" href="notes\bioinformatics\introdução-à-bioinformática\protein-sequence-analysis.html" class="internal-link" target="_self" rel="noopener">Protein Sequence Analysis</a>
 <br><br><br>
 <br>A door to the invisible
 
@@ -1403,7 +1521,7 @@ parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinf
 
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\hmm-hidden-markov-models.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/HMM - Hidden Markov Models.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Fri, 20 Sep 2024 15:39:45 GMT</pubDate><enclosure url="lib\media\pasted-image-20240916203126.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240916203126.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Introdução à Bioinformática]]></title><description><![CDATA[<a class="tag" href="?query=tag:undidadeCurricular" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#undidadeCurricular</a> <a class="tag" href="?query=tag:lbcm" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#lbcm</a> <a class="tag" href="?query=tag:jmgcfdea" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#jmgcfdea</a> 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\hmm-hidden-markov-models.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/HMM - Hidden Markov Models.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Fri, 27 Sep 2024 12:47:17 GMT</pubDate><enclosure url="lib\media\pasted-image-20240916203126.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240916203126.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Introdução à Bioinformática]]></title><description><![CDATA[<a class="tag" href="?query=tag:undidadeCurricular" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#undidadeCurricular</a> <a class="tag" href="?query=tag:lbcm" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#lbcm</a> <a class="tag" href="?query=tag:jmgcfdea" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#jmgcfdea</a> 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md<br>
 Created: 2024-09-03 15:47<br>
 Updated: 2024-09-03 15:47<br>
@@ -1418,14 +1536,14 @@ Source: EDAM
 <br><br>Bioinformatics in time
 
 Source: <a data-tooltip-position="top" aria-label="https://doi.org/10.1093/bib/bby063" rel="noopener" class="external-link" href="https://doi.org/10.1093/bib/bby063" target="_blank">Briefings in Bioinformatics</a>
-<br>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\introdução-à-bioinformática.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Introdução à Bioinformática.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 08 Sep 2024 15:29:11 GMT</pubDate></item><item><title><![CDATA[Ontologies & Knowledge Representation]]></title><description><![CDATA[ 
+<br>]]></description><link>notes\bioinformatics\introdução-à-bioinformática\introdução-à-bioinformática.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Introdução à Bioinformática.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 08 Sep 2024 15:29:11 GMT</pubDate></item><item><title><![CDATA[Ontologies & Knowledge Representation]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies &amp; Knowledge Representation.md<br>
 Created: 2024-09-05 10:18<br>
 Updated: 2024-09-05 10:18<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Ontologies &amp; Knowledge Representation</a><br>
 Subject:  Ontologies &amp; Knowledge Representation<br>
 Tags:<br>Ontology
-parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a>
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a>
 <br><br>Definition
 "an ontology is the description of what exist specifically within a determined field. For example, every part that exists in a specific information system. This includes the relationship and hierarchy between these parts."<br>
 Kent Lofgren<br>
@@ -1453,47 +1571,461 @@ Kent Lofgren<br>
 
 
 
-<br><br>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\ontologies-&amp;-knowledge-representation.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Ontologies &amp; Knowledge Representation.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate></item><item><title><![CDATA[Program]]></title><description><![CDATA[ 
+<br><br>]]></description><link>notes\bioinformatics\introdução-à-bioinformática\ontologies-&amp;-knowledge-representation.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Ontologies &amp; Knowledge Representation.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate></item><item><title><![CDATA[Pairwise Alignment, wrapping up]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformática/Pairwise Alignment, wrapping up .md<br>
+Created: 2024-09-30 16:34<br>
+Updated: 2024-09-30 16:34<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Pairwise Alignment, wrapping up </a><br>
+Subject:  Pairwise Alignment, wrapping up<br>
+Tags:<br>Ontology
+parent::<a data-href="program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">program</a> <a data-href="Sequence Pairwise-Alignment Fast Algorithms, Heuristics to the Rescue" href="notes\bioinformatics\introdução-à-bioinformática\sequence-pairwise-alignment-fast-algorithms,-heuristics-to-the-rescue.html" class="internal-link" target="_self" rel="noopener">Sequence Pairwise-Alignment Fast Algorithms, Heuristics to the Rescue</a>
+<br><br><br>
+<br>Alignment Paradigm / Type
+
+<br>Global
+<br>Local
+
+
+<br>Alignment Algorithm Type
+
+<br>Slow
+
+<br>Without Heuristics involvement
+
+
+<br>Fast
+
+<br>Heuristics
+<br>Sometimes, dynamic programming also
+
+
+
+
+<br>
+Common reference
+<img alt="Pasted image 20240930163253.png" src="lib\media\pasted-image-20240930163253.png" style="width: 400px; max-width: 100%;"><br>
+.
+
+
+<br><br>
+<br>Global Alignment
+
+<br>Aims
+
+<br>Comparison of sequences that share several conserved regions and are of comparable length
+<br>Polymorphism mapping
+<br>Sequence version comparison 
+
+
+<br>Example Implementations
+
+<br>Needleman &amp; Wunsch
+
+<br>EMBOSS::needle
+
+
+<br>Myers &amp; Miller
+
+<br>EMBOSS::stretcher
+<br>FASTA::align(0)
+
+
+
+
+
+
+<br>Local Alignment
+
+<br>Aims
+
+<br>Localized similarity
+<br>Local similarity in repeats
+
+
+<br>Example Implementations
+
+<br>Smith-Waterman
+
+<br>EMBOSS::water
+
+
+<br>Waterman-Eggert
+
+<br>EMBOSS::matcher
+
+
+
+
+
+
+<br><br>
+<br>Approaches
+
+<br>Brute force?
+
+<br>Try until you find.
+
+
+<br>Map similarity between the two sequences
+
+<br>Dot-Plot
+
+<br>Qualitative result
+<br>Example Implementations
+
+<br>Dotter (Karolinska Inst.)
+
+<br>The original tool
+<br>Command line
+
+
+<br>JDotter VBRC, Univ. Victoria
+
+<br>Dotter on a server with a JAVA GUI
+<br>Severe limitations regarding data input
+
+
+<br>Dotlet (SIB)
+
+<br>Dotter on a server with a JAVA applet – LEGACY
+<br>Applets were phased out from modern browsers
+
+
+<br><a data-tooltip-position="top" aria-label="https://dotlet.vital-it.ch/" rel="noopener" class="external-link" href="https://dotlet.vital-it.ch/" target="_blank">Dotlet JS beta</a> (SIB)
+
+<br>Modern implementation for Dotlet
+<br>Not all Dotlet capabilities were ported to JS
+
+<br>Namely concurrent reverse window matching
+
+
+<br>"Tolerance" effect through score range representation
+<br>
+
+<img alt="Pasted image 20240930175620.png" src="lib\media\pasted-image-20240930175620.png"><br>
+.  
+
+
+<br>Taming the Beast
+
+<br>Two humps, and the Bactrian Camel
+
+<br>
+Output
+ <img alt="Pasted image 20240930180624.png" src="lib\media\pasted-image-20240930180624.png"><br>
+.
+
+
+<br>
+Scoring range
+<img alt="Pasted image 20240930180914.png" src="lib\media\pasted-image-20240930180914.png"><br>
+.
+
+
+<br>
+Hence the bactrian camel
+<img alt="Pasted image 20240930181012.png" src="lib\media\pasted-image-20240930181012.png"><br>
+. 
+
+
+
+
+<br>Separating Noise from Signal
+
+<br>
+The sweet spot
+<img alt="Pasted image 20240930181229.png" src="lib\media\pasted-image-20240930181229.png"><br>
+.
+
+
+
+
+<br>Reversing the Background
+
+<br>
+Swapping cursors
+<img alt="Pasted image 20240930181434.png" src="lib\media\pasted-image-20240930181434.png"><br>
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\pairwise-alignment,-wrapping-up.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Pairwise Alignment, wrapping up.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 30 Sep 2024 17:14:40 GMT</pubDate><enclosure url="lib\media\pasted-image-20240930163253.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240930163253.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pairwise-Alignment, the Dynamic Programming Role]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Pairwise-Alignment, the Dynamic Programming Role.md<br>
+Created: 2024-09-27 04:54<br>
+Updated: 2024-09-27 04:54<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Pairwise-Alignment, the Dynamic Programming Role</a><br>
+Subject:  Pairwise-Alignment, the Dynamic Programming Role<br>
+Tags:<br>Ontology
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformática/Sequence Alignment" data-href="Notes/Bioinformatics/Introdução à Bioinformática/Sequence Alignment" href="notes\bioinformatics\introdução-à-bioinformática\sequence-alignment.html" class="internal-link" target="_self" rel="noopener">Sequence Alignment</a>
+<br><br><br>
+<br>Sequence alignment 
+
+<br>Optimization of the superposition of sites
+
+<br>Guiding by a metric
+
+<br>Substitution matrix
+
+
+<br>Goal
+
+<br>Maximizing the score 
+
+<br>
+
+<img alt="Pasted image 20240927142020.png" src="lib\media\pasted-image-20240927142020.png" style="width: 200px; max-width: 100%;"><br>
+. 
+
+
+<br>Possible approaches
+
+<br>Monte-Carlo sampling
+
+<br>Example
+
+<br>
+
+<img alt="Pasted image 20240927142856.png" src="lib\media\pasted-image-20240927142856.png"><br>
+.<br>
+<img alt="Pasted image 20240927142919.png" src="lib\media\pasted-image-20240927142919.png"><br>
+.<br>
+<img alt="Pasted image 20240927142938.png" src="lib\media\pasted-image-20240927142938.png"><br>
+.<br>
+<img alt="Pasted image 20240927142733.png" src="lib\media\pasted-image-20240927142733.png"><br>
+.
+
+
+
+
+<br>Non-efficient
+<br>Prone to stumble on local maxima
+
+<br>Ignoring the global maximum score
+
+
+
+
+<br>Dynamic programming
+
+<br>Efficient solution to evaluate the whole solution space
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br>Devised by Bellman (1957) to address the optimization of dynamic system modelling
+
+<br>The paradigm of Optimum Management (Optionality)
+
+
+<br>Based on the principle "divide et impera" (divide and rule)
+
+<br>An intractable problem is divided in a set of component problems
+<br>Each component problem is solved
+<br>Their solution contribute to a global solution for the initial problem
+<br>
+
+<img alt="Pasted image 20240927141819.png" src="lib\media\pasted-image-20240927141819.png" style="width: 400px; max-width: 100%;"><br>
+.
+
+
+
+
+<br>The oldest implementation of this class of algorithms for pairwise-alignment 
+
+<br>Needleman-Wunsch Algorithm (1970)
+
+
+<br><br><br>
+<br>Filling the scores matrix
+
+<br>
+Scores matrix using identity matrix
+<img alt="Pasted image 20240928001217.png" src="lib\media\pasted-image-20240928001217.png" style="width: 350px; max-width: 100%;"><br>
+.
+
+
+
+
+<br>Score accumulation
+
+<br>
+Accumulation starts from a corner
+<img alt="Pasted image 20240928001626.png" src="lib\media\pasted-image-20240928001626.png" style="width: 350px; max-width: 100%;"><br>
+.
+
+
+<br>
+Second column and row
+<img alt="Pasted image 20240928003341.png" src="lib\media\pasted-image-20240928003341.png" style="width: 350px; max-width: 100%;"> 
+The maximum of the submatrix is added to the existing score.<br>
+.
+
+
+<br>
+Going forward
+<img alt="Pasted image 20240928004857.png" src="lib\media\pasted-image-20240928004857.png" style="width: 350px; max-width: 100%;"><br>
+.<br>
+<img alt="Pasted image 20240928010314.png" src="lib\media\pasted-image-20240928010314.png" style="width: 350px; max-width: 100%;"><br>
+.<br>
+<img alt="Pasted image 20240928010331.png" src="lib\media\pasted-image-20240928010331.png" style="width: 350px; max-width: 100%;"><br>
+.<br>
+<img alt="Pasted image 20240928010406.png" src="lib\media\pasted-image-20240928010406.png" style="width: 350px; max-width: 100%;"><br>
+.<br>
+<img alt="Pasted image 20240928010417.png" src="lib\media\pasted-image-20240928010417.png" style="width: 350px; max-width: 100%;"><br>
+.<br>
+<img alt="Pasted image 20240928010730.png" src="lib\media\pasted-image-20240928010730.png" style="width: 350px; max-width: 100%;"><br>
+.<br>
+<img alt="Pasted image 20240928010530.png" src="lib\media\pasted-image-20240928010530.png" style="width: 350px; max-width: 100%;"><br>
+.
+
+
+
+
+<br>Diminishing scores path
+
+<br>
+
+<img alt="Pasted image 20240928011142.png" src="lib\media\pasted-image-20240928011142.png">
+
+
+<br>
+
+<img alt="Pasted image 20240928011231.png" src="lib\media\pasted-image-20240928011231.png">
+
+
+<br>
+Possible solutions
+<img alt="Pasted image 20240928011319.png" src="lib\media\pasted-image-20240928011319.png"><br>
+.
+
+
+
+
+<br><br>
+<br>Local alignment based on the Dynamic Programming paradigm (1981)
+
+<br>
+
+
+.
+
+
+
+
+<br>
+<br>Filling the scores matrix
+
+<br>
+Scores matrix using identity matrix
+<img alt="Pasted image 20240928001217.png" src="lib\media\pasted-image-20240928001217.png" style="width: 350px; max-width: 100%;"><br>
+.
+
+
+
+
+<br>Score accumulation
+
+<br>
+Accumulation starts from a corner
+<img alt="Pasted image 20240928001626.png" src="lib\media\pasted-image-20240928001626.png" style="width: 350px; max-width: 100%;"><br>
+.
+
+
+<br>
+Accumulation favors prior diagonals
+<img alt="Pasted image 20240929131355.png" src="lib\media\pasted-image-20240929131355.png">
+Only the corner of the submatrix is considered for the accumulation.<br>
+.<br>
+<img alt="Pasted image 20240929132127.png" src="lib\media\pasted-image-20240929132127.png"><br>
+.
+
+
+
+
+<br>
+Decreasing scores path
+<img alt="Pasted image 20240929132300.png" src="lib\media\pasted-image-20240929132300.png"><br>
+.
+
+
+<br>
+Resulting solutions
+<img alt="Pasted image 20240929132326.png" src="lib\media\pasted-image-20240929132326.png"><br>
+.
+
+
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\pairwise-alignment,-the-dynamic-programming-role.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Pairwise-Alignment, the Dynamic Programming Role.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 29 Sep 2024 16:26:41 GMT</pubDate><enclosure url="lib\media\pasted-image-20240927142020.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240927142020.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Program]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Programa.md<br>
 Created: 2024-09-02 14:55<br>
 Updated: 2024-09-02 14:55<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Program</a><br>
 Subject:  Program<br>
 Tags:<br>Ontology
-parent::<a data-href="Introdução à Bioinformática" href="notes\bioinformatics\introdução-à-bioinformárica\introdução-à-bioinformática.html" class="internal-link" target="_self" rel="noopener">Introdução à Bioinformática</a>
+parent::<a data-href="Introdução à Bioinformática" href="notes\bioinformatics\introdução-à-bioinformática\introdução-à-bioinformática.html" class="internal-link" target="_self" rel="noopener">Introdução à Bioinformática</a>
 <br><br><br><br>
-<br>Topic 0: <a data-href="Ontologies &amp; Knowledge Representation" href="notes\bioinformatics\introdução-à-bioinformárica\ontologies-&amp;-knowledge-representation.html" class="internal-link" target="_self" rel="noopener">Ontologies &amp; Knowledge Representation</a>
+<br>Topic 0: <a data-href="Ontologies &amp; Knowledge Representation" href="notes\bioinformatics\introdução-à-bioinformática\ontologies-&amp;-knowledge-representation.html" class="internal-link" target="_self" rel="noopener">Ontologies &amp; Knowledge Representation</a>
 <br><br>
 <br>
-Lecture 1: <a data-href="Biological Sequences" href="notes\bioinformatics\introdução-à-bioinformárica\biological-sequences.html" class="internal-link" target="_self" rel="noopener">Biological Sequences</a>
+Lecture 1: <a data-href="Biological Sequences" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html" class="internal-link" target="_self" rel="noopener">Biological Sequences</a>
 
-<br>Support Topic 1: <a data-href="Relational Databases" href="notes\bioinformatics\introdução-à-bioinformárica\relational-databases.html" class="internal-link" target="_self" rel="noopener">Relational Databases</a>
-<br>Hands-on Session 1: <a data-href="Protocolo_1_Registo_Armazenamento_Sequências" href="notes\bioinformatics\introdução-à-bioinformárica\protocolo_1_registo_armazenamento_sequências.html" class="internal-link" target="_self" rel="noopener">Protocolo_1_Registo_Armazenamento_Sequências</a>
-
-
-<br>
-Lecture 2:  <a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a>
-
-<br>Additional Topic 2: <a data-href="Translated Regions Detection" href="notes\bioinformatics\introdução-à-bioinformárica\translated-regions-detection.html" class="internal-link" target="_self" rel="noopener">Translated Regions Detection</a>
-<br>Hands-on Session 2: <a data-href="Hands-on Class - AP02 - Algorithms in Action" href="notes\bioinformatics\introdução-à-bioinformárica\hands-on-class-ap02-algorithms-in-action.html" class="internal-link" target="_self" rel="noopener">Hands-on Class - AP02 - Algorithms in Action</a>
+<br>Support Topic 1: <a data-href="Relational Databases" href="notes\bioinformatics\introdução-à-bioinformática\relational-databases.html" class="internal-link" target="_self" rel="noopener">Relational Databases</a>
+<br>Hands-on Session 1: <a data-href="Protocolo_1_Registo_Armazenamento_Sequências" href="notes\bioinformatics\introdução-à-bioinformática\protocolo_1_registo_armazenamento_sequências.html" class="internal-link" target="_self" rel="noopener">Protocolo_1_Registo_Armazenamento_Sequências</a>
 
 
 <br>
-Lecture 3:  <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis" data-href="Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis" href="notes\bioinformatics\introdução-à-bioinformárica\protein-sequence-analysis.html" class="internal-link" target="_self" rel="noopener">Protein Sequence Analysis</a>
+Lecture 2:  <a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformática\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a>
 
-<br>Additional Topic 3a: <a data-href="Sequence Evolution" href="notes\bioinformatics\introdução-à-bioinformárica\sequence-evolution.html" class="internal-link" target="_self" rel="noopener">Sequence Evolution</a>
-<br>Additional Topic 3b: <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Alignment" data-href="Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Alignment" href="notes\bioinformatics\introdução-à-bioinformárica\sequence-alignment.html" class="internal-link" target="_self" rel="noopener">Sequence Alignment</a>
-<br>Hands-on Session 2: <a data-href="Hands-on Session_Proteins, sequences &amp; algorithms" href="notes\bioinformatics\introdução-à-bioinformárica\hands-on-session_proteins,-sequences-&amp;-algorithms.html" class="internal-link" target="_self" rel="noopener">Hands-on Session_Proteins, sequences &amp; algorithms</a>
+<br>Additional Topic 2: <a data-href="Translated Regions Detection" href="notes\bioinformatics\introdução-à-bioinformática\translated-regions-detection.html" class="internal-link" target="_self" rel="noopener">Translated Regions Detection</a>
+<br>Hands-on Session 2: <a data-href="Hands-on Class - AP02 - Algorithms in Action" href="notes\bioinformatics\introdução-à-bioinformática\hands-on-class-ap02-algorithms-in-action.html" class="internal-link" target="_self" rel="noopener">Hands-on Class - AP02 - Algorithms in Action</a>
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\program.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Program.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 23 Sep 2024 10:34:34 GMT</pubDate></item><item><title><![CDATA[Protein Sequence Analysis]]></title><description><![CDATA[ 
+<br>
+Lecture 3:  <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformática/Protein Sequence Analysis" data-href="Notes/Bioinformatics/Introdução à Bioinformática/Protein Sequence Analysis" href="notes\bioinformatics\introdução-à-bioinformática\protein-sequence-analysis.html" class="internal-link" target="_self" rel="noopener">Protein Sequence Analysis</a>
+
+<br>Additional Topic 3a: <a data-href="Sequence Evolution" href="notes\bioinformatics\introdução-à-bioinformática\sequence-evolution.html" class="internal-link" target="_self" rel="noopener">Sequence Evolution</a>
+<br>Additional Topic 3b: <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformática/Sequence Alignment" data-href="Notes/Bioinformatics/Introdução à Bioinformática/Sequence Alignment" href="notes\bioinformatics\introdução-à-bioinformática\sequence-alignment.html" class="internal-link" target="_self" rel="noopener">Sequence Alignment</a>
+<br>Hands-on Session 3: <a data-href="Hands-on Session_Proteins, sequences &amp; algorithms" href="notes\bioinformatics\introdução-à-bioinformática\hands-on-session_proteins,-sequences-&amp;-algorithms.html" class="internal-link" target="_self" rel="noopener">Hands-on Session_Proteins, sequences &amp; algorithms</a>
+
+
+<br>
+Lecture 4:  <a data-href="The Substitution Matrix" href="notes\bioinformatics\introdução-à-bioinformática\the-substitution-matrix.html" class="internal-link" target="_self" rel="noopener">The Substitution Matrix</a>
+
+<br>Additional Topic 4a: <a data-href="Pairwise-Alignment, the Dynamic Programming Role" href="notes\bioinformatics\introdução-à-bioinformática\pairwise-alignment,-the-dynamic-programming-role.html" class="internal-link" target="_self" rel="noopener">Pairwise-Alignment, the Dynamic Programming Role</a>
+<br>Additional Topic 4b: <a data-href="Sequence Pairwise-Alignment Fast Algorithms, Heuristics to the Rescue" href="notes\bioinformatics\introdução-à-bioinformática\sequence-pairwise-alignment-fast-algorithms,-heuristics-to-the-rescue.html" class="internal-link" target="_self" rel="noopener">Sequence Pairwise-Alignment Fast Algorithms, Heuristics to the Rescue</a>
+<br>Additional Topic 4c: <a data-href="Pairwise Alignment, wrapping up" href="notes\bioinformatics\introdução-à-bioinformática\pairwise-alignment,-wrapping-up.html" class="internal-link" target="_self" rel="noopener">Pairwise Alignment, wrapping up</a>
+<br>Hands-on Session 4: <a data-href="Hands-on Session_Pairwise Alignment" href="notes\bioinformatics\introdução-à-bioinformática\hands-on-session_pairwise-alignment.html" class="internal-link" target="_self" rel="noopener">Hands-on Session_Pairwise Alignment</a>
+
+
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\program.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Program.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 30 Sep 2024 19:15:49 GMT</pubDate></item><item><title><![CDATA[Protein Sequence Analysis]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis.md<br>
 Created: 2024-09-19 13:08<br>
 Updated: 2024-09-19 13:08<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Protein Sequence Analysis</a><br>
 Subject:  Protein Sequence Analysis<br>
 Tags:<br>Ontology
-parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="[Algorithms for Bioinformatics" href="[Algorithms for Bioinformatics" class="internal-link" target="_self" rel="noopener">[Algorithms for Bioinformatics</a> 
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="[Algorithms for Bioinformatics" href="[Algorithms for Bioinformatics" class="internal-link" target="_self" rel="noopener">[Algorithms for Bioinformatics</a> 
 <br><br><br>
 <br>The flow of the information
 
@@ -1547,7 +2079,7 @@ Crick, F.H.C. (1970) Central dogma of molecular biology. Nature 227(5258):561-56
 
 <br>5 to 7 groups
 
-<br>For most purposes each group may be considered as a general aminoacids.
+<br>For most purposes each group may be considered as a general amino acid.
 <br>
 Division in 7 groups
 <img alt="Pasted image 20240919192223.png" src="lib\media\pasted-image-20240919192223.png">
@@ -1559,7 +2091,7 @@ Division in 7 groups
 
 <br>The native residue properties may undergo changes after the synthesis
 
-<br>Post-transcriptional modifications
+<br>Post-translational modifications
 
 <br>
 
@@ -1840,7 +2372,7 @@ Source: <a data-tooltip-position="top" aria-label="https://www.frontiersin.org/j
 
 <br>But a limited degree of conservation do exist
 
-<br>Trained <a data-tooltip-position="top" aria-label="HMM - Hidden Markov Models" data-href="HMM - Hidden Markov Models" href="notes\bioinformatics\introdução-à-bioinformárica\hmm-hidden-markov-models.html" class="internal-link" target="_self" rel="noopener">Hidden Markov Model (HMM)</a> are able to portray the conservation present
+<br>Trained <a data-tooltip-position="top" aria-label="HMM - Hidden Markov Models" data-href="HMM - Hidden Markov Models" href="notes\bioinformatics\introdução-à-bioinformática\hmm-hidden-markov-models.html" class="internal-link" target="_self" rel="noopener">Hidden Markov Model (HMM)</a> are able to portray the conservation present
 <br>Example Implementations
 
 <br><a data-tooltip-position="top" aria-label="https://phobius.sbc.su.se/" rel="noopener" class="external-link" href="https://phobius.sbc.su.se/" target="_blank">Phobius (SBC)</a>
@@ -1884,7 +2416,7 @@ Source: <a data-tooltip-position="top" aria-label="https://www.frontiersin.org/j
 
 
 
-<br><a data-tooltip-position="top" aria-label="https://dtu.biolib.com/DeepTMHMM/" rel="noopener" class="external-link" href="https://dtu.biolib.com/DeepTMHMM/" target="_blank">TMHMM (DTU)</a>
+<br><a data-tooltip-position="top" aria-label="https://dtu.biolib.com/DeepTMHMM/" rel="noopener" class="external-link" href="https://dtu.biolib.com/DeepTMHMM/" target="_blank">DeepTMHMM (DTU)</a>
 
 <br>
 
@@ -2076,7 +2608,11 @@ Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki
 
 <br>Sliding Windows
 
+<br>Heptamer multiples scored through
+
 <br>2 alternative metrics
+
+
 <br>Concurrent run for different window sizes
 
 <br>Instant Robustness assessment
@@ -2179,14 +2715,14 @@ Sample output
 
 
 <br>
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\protein-sequence-analysis.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Protein Sequence Analysis.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 22 Sep 2024 11:56:29 GMT</pubDate><enclosure url="lib\media\pasted-image-20240919191853.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240919191853.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Protocolo_1_Registo_Armazenamento_Sequências]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\protein-sequence-analysis.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Protein Sequence Analysis.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Tue, 24 Sep 2024 15:00:20 GMT</pubDate><enclosure url="lib\media\pasted-image-20240919191853.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240919191853.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Protocolo_1_Registo_Armazenamento_Sequências]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md<br>
 Created: 2024-09-05 18:02<br>
 Updated: 2024-09-05 18:02<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Protocolo_1_Registo_Armazenamento_Sequências</a><br>
 Subject:  Protocolo_1_Registo_Armazenamento_Sequências<br>
 Tags:<br>Ontology
-parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a>
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a>
 <br><br><br>
 <br>NotePad++
 
@@ -2230,14 +2766,14 @@ As usual, Windows systems are advised to go for the <a data-tooltip-position="to
 
 
 
-<br><br><br><a data-tooltip-position="top" aria-label="Protocolo_2.pdf" data-href="Protocolo_2.pdf" href="notes\bioinformatics\introdução-à-bioinformárica\materials\protocolo_2.pdf" class="internal-link" target="_self" rel="noopener">Protocol</a>]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\protocolo_1_registo_armazenamento_sequências.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Protocolo_1_Registo_Armazenamento_Sequências.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240909094830.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240909094830.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Relational Databases]]></title><description><![CDATA[ 
+<br><br><br><a data-tooltip-position="top" aria-label="Protocolo_2.pdf" data-href="Protocolo_2.pdf" href="notes\bioinformatics\introdução-à-bioinformática\materials\protocolo_2.pdf" class="internal-link" target="_self" rel="noopener">Protocol</a>]]></description><link>notes\bioinformatics\introdução-à-bioinformática\protocolo_1_registo_armazenamento_sequências.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Protocolo_1_Registo_Armazenamento_Sequências.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240909094830.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240909094830.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Relational Databases]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md<br>
 Created: 2024-09-05 14:52<br>
 Updated: 2024-09-05 14:52<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Relational Databases</a><br>
 Subject:  Relational Databases<br>
 Tags:<br>Ontology
-parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> 
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a> 
 <br><br>Concept definition
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Database)
@@ -2404,14 +2940,14 @@ Join (Tables)<br>
 
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\relational-databases.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Relational Databases.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240905154759.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240905154759.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sequence Alignment]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\relational-databases.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Relational Databases.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 14:52:57 GMT</pubDate><enclosure url="lib\media\pasted-image-20240905154759.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240905154759.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sequence Alignment]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Alignment.md<br>
 Created: 2024-09-22 17:45<br>
 Updated: 2024-09-22 17:45<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Sequence Alignment</a><br>
 Subject:  Sequence Alignment<br>
 Tags:<br>Ontology
-parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Sequence Evolution" href="notes\bioinformatics\introdução-à-bioinformárica\sequence-evolution.html" class="internal-link" target="_self" rel="noopener">Sequence Evolution</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/operations/Sequence alignment" data-href="Workshop/EDAM__Nodes/operations/Sequence alignment" href="workshop\edam__nodes\operations\sequence-alignment.html" class="internal-link" target="_self" rel="noopener">Sequence alignment</a> <a data-href="Global alignment" href="workshop\edam__nodes\operations\global-alignment.html" class="internal-link" target="_self" rel="noopener">Global alignment</a>   <a data-href="Local alignment" href="workshop\edam__nodes\operations\local-alignment.html" class="internal-link" target="_self" rel="noopener">Local alignment</a>
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Sequence Evolution" href="notes\bioinformatics\introdução-à-bioinformática\sequence-evolution.html" class="internal-link" target="_self" rel="noopener">Sequence Evolution</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/operations/Sequence alignment" data-href="Workshop/EDAM__Nodes/operations/Sequence alignment" href="workshop\edam__nodes\operations\sequence-alignment.html" class="internal-link" target="_self" rel="noopener">Sequence alignment</a> <a data-href="Global alignment" href="workshop\edam__nodes\operations\global-alignment.html" class="internal-link" target="_self" rel="noopener">Global alignment</a>   <a data-href="Local alignment" href="workshop\edam__nodes\operations\local-alignment.html" class="internal-link" target="_self" rel="noopener">Local alignment</a>
 <br><br><br>
 <br>Mapping the putative homologous sites between sequences
 <br>Purely mathematical process
@@ -2531,20 +3067,22 @@ Distant homologous matches may require phylogenetic analysis as evidence.<br>
 
 
 <br>
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\sequence-alignment.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Alignment.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 22 Sep 2024 18:21:50 GMT</pubDate><enclosure url="lib\media\pasted-image-20240922175829.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240922175829.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sequence Evolution]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\sequence-alignment.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Sequence Alignment.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 22 Sep 2024 18:21:50 GMT</pubDate><enclosure url="lib\media\pasted-image-20240922175829.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240922175829.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sequence Evolution]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Evolution.md<br>
 Created: 2024-09-22 13:01<br>
 Updated: 2024-09-22 13:01<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Sequence Evolution</a><br>
 Subject:  Sequence Evolution<br>
 Tags:<br>Ontology
-parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a>
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a>
 <br><br><br>Homology, a definition
 "similarity due to shared ancestry between a pair of structures or genes in different taxa.<br>
 (...)<br>
 Two segments of DNA can have shared ancestry because of either a speciation event (orthologs) or a duplication event (paralogs). Homology among proteins or DNA is inferred from their sequence similarity. Significant similarity is strong evidence that two sequences are related by divergent evolution from a common ancestor. Alignments of multiple sequences are used to discover the homologous regions."
 Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Homology_(biology)" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Homology_(biology)" target="_blank">Wikipedia</a><br>
-.
+.<br>
+HOMOLOGY is a PROPERTY shared by several sequences, either exists or is absent.<br>
+HOMOLOGY is NOT TO BE MEASURED, rather to be assessed.
 <br>Homoplasy, definitions
 "the term used to describe a feature that has been gained or lost independently in separate lineages over the course of evolution. (...)<br>
 Homoplasy can arise from both similar selection pressures acting on adapting species, and the effects of genetic drift."
@@ -2687,14 +3225,529 @@ Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki
 <br><br>
 <br>Patterson C. Homology in classical and molecular biology. Mol Biol Evol. 1988 Nov;5(6):603-25. [doi: 10.1093/oxfordjournals.molbev.a040523](<a data-tooltip-position="top" aria-label="https://watermark.silverchair.com/1patt.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1wwggNYBgkqhkiG9w0BBwagggNJMIIDRQIBADCCAz4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMoAltTrNYNhrHvbeDAgEQgIIDDxJMQ-SG8zAHw7MUrpaTzNPAsuHYuGJtfGSyWjua_NgqRixXB0wopnU2gMaJHpp6D63ZYaYHh1Qpd09k_aLag--ox6mJlJXHzajhoEaPpHrOlLr9fFSh4vDQNfRRb3tZC_H-fZvtJyBsFUels17NwmrqQHKXHBzTkkEJepAtXHy2_8PurJXBLump7sfpC4W-V0aD5CPhj2-Pk-9HGH8siG10DwAVsfzmWMJtnduabt5Bxjpq_5Ye1XslNQst6ErAS86DmcbLtjMXoXKYtemzANJQhQmd28LABMKgsyd4AzU0IjNMxgbzWUbLC8tEPKjPTrPiu-1NW5iO38stgZrVAiRZ5NEFa2F1_Lz4vBV6T6fTOO0lcKtKNEJFUl2IKKZqa0Cx2BXU9H204b23sCkq7kdRzRm2_Y9YNPhV6ixQ1U6AW8t0LoLGBpVBTJewkHszsDejqgpufb_tE1pjJnvJZWA4ofNRSIQMewTm2U3Lshf6GFUbbPupiMPoLhhAVnu4k4eaFckm-bXnUiOyEAQzmSDct81K79IK055yFSKmcaP51ddr_y_c6YeXnOasC9ewoR6Q7dycbBe1eWGF2N6Yl3md0WV2YovM_ZV20X57ZeVRb_AyuQdB8_xBcdmKJX7EZmlG6M6nm_2k4OrHR9FRb_Ujlep1OvSvvQ1HRJ-rNfrK_5LzprxWC0QF-k0QhKApx2PGXrp6dxzgbHc9d3rHydhPTIbfljkndI0UA310in0R6JCY-qjQOGBaFE0QbGdRhge7mmNJ_NKxF5CyLdkTuyGI_2su_OVPlXDqwZH-nla2tfq4JTn5Tqe894RT0bqESNvaVRLInfBIHiGDDh7BSTovGtzWkxwOe8MjTNdx3F2C8up0euYPH5mZ9hO2la6z0uIHmbLSiZYN7QbpypwRxeq7unQ0Ggx6UWBuf3Q948N-7ctWKVR4O0cs2zHCYOPubkFn6Y1DlawoY6kEcuDEkhW45YwVeDycMIFCq5RUpdJg-H-0DNquL-IXIzClBM3qTmq5yeXn5bEajNkud7UurQ" rel="noopener" class="external-link" href="https://watermark.silverchair.com/1patt.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1wwggNYBgkqhkiG9w0BBwagggNJMIIDRQIBADCCAz4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMoAltTrNYNhrHvbeDAgEQgIIDDxJMQ-SG8zAHw7MUrpaTzNPAsuHYuGJtfGSyWjua_NgqRixXB0wopnU2gMaJHpp6D63ZYaYHh1Qpd09k_aLag--ox6mJlJXHzajhoEaPpHrOlLr9fFSh4vDQNfRRb3tZC_H-fZvtJyBsFUels17NwmrqQHKXHBzTkkEJepAtXHy2_8PurJXBLump7sfpC4W-V0aD5CPhj2-Pk-9HGH8siG10DwAVsfzmWMJtnduabt5Bxjpq_5Ye1XslNQst6ErAS86DmcbLtjMXoXKYtemzANJQhQmd28LABMKgsyd4AzU0IjNMxgbzWUbLC8tEPKjPTrPiu-1NW5iO38stgZrVAiRZ5NEFa2F1_Lz4vBV6T6fTOO0lcKtKNEJFUl2IKKZqa0Cx2BXU9H204b23sCkq7kdRzRm2_Y9YNPhV6ixQ1U6AW8t0LoLGBpVBTJewkHszsDejqgpufb_tE1pjJnvJZWA4ofNRSIQMewTm2U3Lshf6GFUbbPupiMPoLhhAVnu4k4eaFckm-bXnUiOyEAQzmSDct81K79IK055yFSKmcaP51ddr_y_c6YeXnOasC9ewoR6Q7dycbBe1eWGF2N6Yl3md0WV2YovM_ZV20X57ZeVRb_AyuQdB8_xBcdmKJX7EZmlG6M6nm_2k4OrHR9FRb_Ujlep1OvSvvQ1HRJ-rNfrK_5LzprxWC0QF-k0QhKApx2PGXrp6dxzgbHc9d3rHydhPTIbfljkndI0UA310in0R6JCY-qjQOGBaFE0QbGdRhge7mmNJ_NKxF5CyLdkTuyGI_2su_OVPlXDqwZH-nla2tfq4JTn5Tqe894RT0bqESNvaVRLInfBIHiGDDh7BSTovGtzWkxwOe8MjTNdx3F2C8up0euYPH5mZ9hO2la6z0uIHmbLSiZYN7QbpypwRxeq7unQ0Ggx6UWBuf3Q948N-7ctWKVR4O0cs2zHCYOPubkFn6Y1DlawoY6kEcuDEkhW45YwVeDycMIFCq5RUpdJg-H-0DNquL-IXIzClBM3qTmq5yeXn5bEajNkud7UurQ" target="_blank">1patt.pdf (silverchair.com)</a>). PMID: 3065587.
 <br>de Pinna, M.C.C. (1991), CONCEPTS AND TESTS OF HOMOLOGY IN THE CLADISTIC PARADIGM. Cladistics, 7: 367-394. <a rel="noopener" class="external-link" href="https://doi.org/10.1111/j.1096-0031.1991.tb00045.x" target="_blank">https://doi.org/10.1111/j.1096-0031.1991.tb00045.x</a>
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\sequence-evolution.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Sequence Evolution.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Sun, 22 Sep 2024 18:26:48 GMT</pubDate><enclosure url="lib\media\pasted-image-20240922131352.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240922131352.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Translated Regions Detection]]></title><description><![CDATA[ 
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\sequence-evolution.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Sequence Evolution.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Tue, 24 Sep 2024 09:18:01 GMT</pubDate><enclosure url="lib\media\pasted-image-20240922131352.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240922131352.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sequence Pairwise-Alignment Fast Algorithms, Heuristics to the Rescue]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Sequence Pairwise-Alignment Fast Algorithms, Heuristics to the Rescue.md<br>
+Created: 2024-09-29 17:25<br>
+Updated: 2024-09-29 17:25<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Sequence Pairwise-Alignment Fast Algorithms, Heuristics to the Rescue</a><br>
+Subject:  Sequence Pairwise-Alignment Fast Algorithms, Heuristics to the Rescue<br>
+Tags:<br>Ontology
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Pairwise-Alignment, the Dynamic Programming Role" href="notes\bioinformatics\introdução-à-bioinformática\pairwise-alignment,-the-dynamic-programming-role.html" class="internal-link" target="_self" rel="noopener">Pairwise-Alignment, the Dynamic Programming Role</a>
+<br><br><br>
+<br>Slow Algorithms
+
+<br>Algorithms based on Dynamic Programming
+<br>Typically explore the whole solutions space
+
+<br>Return the best solution available
+<br>But they are inherently slow
+
+<br>Some variants present strategies to slim the solutions space to be explored
+
+<br>The gains are small
+<br>The loss of result quality is slight
+
+
+
+
+
+
+
+
+<br>Fast Algorithms
+
+<br>Algorithms that depart from strict Dynamic Programming
+
+<br>Inclusion of <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Heuristic" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Heuristic" target="_blank">heuristics</a>
+
+<br>
+Definition
+"approach to problem solving that employs a pragmatic method that is not fully optimized, perfected, or rationalized, but is nevertheless "good enough" as an approximation or attribute substitution."
+Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Heuristic" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Heuristic" target="_blank">Wikipedia</a><br>
+.
+
+
+<br>Drastic reduction of the solutions space to be explored
+
+<br>Relevant compromises on the result quality
+
+<br>Good results versus Optimum results
+
+
+<br>Alignment speeds compatible with database searching 
+
+
+
+
+
+
+
+
+<br><br><br>
+<br>
+Definition
+"The FASTA program follows a largely heuristic method which contributes to the high speed of its execution. It initially observes the pattern of word hits, word-to-word matches of a given length, and marks potential matches before performing a more time-consuming optimized search using a Smith–Waterman type of algorithm."
+Source: <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/FASTA#Search_method" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/FASTA#Search_method" target="_blank">Wikipedia</a><br>
+.
+
+
+<br>Vocabulary-based alignment
+<br>Steps
+
+<br>Listing all the available words in the query sequence
+
+<br>Hashing
+
+<br>k-mer
+
+<br>Peptides
+
+<br>k = 2
+
+
+<br>Nucleic Acids
+
+<br>k = 4..6
+
+
+
+
+
+
+
+
+<br>Word-based sequence database retrieval
+
+<br>Sequence pool to be aligned
+
+<br>Entries for sequences vocabulary with the query
+
+
+
+
+<br>For each matchable sequence
+
+<br>Word occurrence map
+<br>Word-pair relevance
+
+<br>Assessed through PAM250
+
+
+<br>Definition of a diagonal band 
+
+<br>Incorporating the best matches
+
+
+
+
+<br>Extension of word pairs
+
+<br>Limited to the 10 highest-scoring
+<br>Extension through formal alignement
+
+<br>Needle-Wunsch algorithm
+
+
+
+
+<br>Statistical assessment
+
+<br>Empirical evaluation for the <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Statistical_significance" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Statistical_significance" target="_blank">Level of Significance</a>
+
+
+
+
+<br>
+Summary
+<img alt="Pasted image 20240929182815.png" src="lib\media\pasted-image-20240929182815.png"><br>
+. 
+
+
+
+
+<br><br>
+<br>Strict vocabulary-based alignment
+<br>Steps
+
+<br>Listing all the available words in the query sequence
+
+<br>Hashing 
+
+<br>k-mer
+
+<br>Peptides
+
+<br>k = 3
+
+
+<br>Nucleic Acids
+
+<br>k = 12
+
+
+
+
+
+
+<br>Vocabulary enrichment
+
+<br>Observed vocabulary
+
+<br>
+Hashing
+<img alt="Pasted image 20240929190919.png" src="lib\media\pasted-image-20240929190919.png"><br>
+.<br>
+Source: <a data-tooltip-position="top" aria-label="https://www.researchgate.net/figure/Steps-in-the-BLAST-algorithm_fig1_49820945" rel="noopener" class="external-link" href="https://www.researchgate.net/figure/Steps-in-the-BLAST-algorithm_fig1_49820945" target="_blank">Researchgate</a><br>
+. 
+
+
+
+
+<br>Neighborhood words 
+
+<br>Through BLOSUM62
+
+<br>Words absent from the observed set
+
+<br>
+Finding words that also matter
+<img alt="Pasted image 20240929191522.png" src="lib\media\pasted-image-20240929191522.png">
+ Source: <a data-tooltip-position="top" aria-label="https://www.researchgate.net/figure/Steps-in-the-BLAST-algorithm_fig1_49820945" rel="noopener" class="external-link" href="https://www.researchgate.net/figure/Steps-in-the-BLAST-algorithm_fig1_49820945" target="_blank">Researchgate</a><br>
+.
+
+
+
+
+<br>Similar enough to each one of the observed k-mer
+<br>
+From high scoring words to high scoring pairs
+<img alt="Pasted image 20240929190736.png" src="lib\media\pasted-image-20240929190736.png">
+Source: NCBI<br>
+.
+
+
+
+
+
+
+<br>Mapping High Scoring Pairs (HSP) &amp; Extending into Maximum Scoring Pairs (MSP)
+
+<br>
+Assigning high scoring words to high scoring pairs
+<img alt="Pasted image 20240930151220.png" src="lib\media\pasted-image-20240930151220.png">
+Source: <a data-tooltip-position="top" aria-label="https://www.researchgate.net/figure/Steps-in-the-BLAST-algorithm_fig1_49820945" rel="noopener" class="external-link" href="https://www.researchgate.net/figure/Steps-in-the-BLAST-algorithm_fig1_49820945" target="_blank">Researchgate</a><br>
+.
+
+
+<br>
+Extending hsp into maximum scoring pairs
+“Pasted image 20240930151726.png” could not be found.<br>
+.
+
+
+
+
+<br>Finishing the alignment without formal alignment
+
+<br>
+Extending the pairing until reasonable
+<img alt="Pasted image 20240930152652.png" src="lib\media\pasted-image-20240930152652.png" style="width: 600px; max-width: 100%;">
+Source: <a data-tooltip-position="top" aria-label="https://www.researchgate.net/figure/Steps-in-the-BLAST-algorithm_fig1_49820945" rel="noopener" class="external-link" href="https://www.researchgate.net/figure/Steps-in-the-BLAST-algorithm_fig1_49820945" target="_blank">Researchgate</a><br>
+.
+
+
+
+
+<br>Final alignment &amp; statistics generation
+
+<br>
+Blast output
+<img alt="Pasted image 20240930153048.png" src="lib\media\pasted-image-20240930153048.png">
+Source: <a data-tooltip-position="top" aria-label="https://www.researchgate.net/figure/Steps-in-the-BLAST-algorithm_fig1_49820945" rel="noopener" class="external-link" href="https://www.researchgate.net/figure/Steps-in-the-BLAST-algorithm_fig1_49820945" target="_blank">Researchgate</a><br>
+.
+
+
+
+
+
+
+
+
+
+
+<br>Graphical Abstract
+
+<br>
+
+<img alt="Pasted image 20240930155916.png" src="lib\media\pasted-image-20240930155916.png"><br>
+.
+
+
+
+
+<br><br>
+<br>BLAST is implemented in different <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/books/NBK1734/#_blast_s7_" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/books/NBK1734/#_blast_s7_" target="_blank">variants</a> that receive a specific kind of input, and match it against a defined type of databases
+
+<br>
+Main variants
+
+Note: TBLASTX matches the translations of the query to the translations of the targets.<br>
+.
+
+
+
+
+<br>]]></description><link>notes\bioinformatics\introdução-à-bioinformática\sequence-pairwise-alignment-fast-algorithms,-heuristics-to-the-rescue.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Sequence Pairwise-Alignment Fast Algorithms, Heuristics to the Rescue.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 30 Sep 2024 15:37:27 GMT</pubDate><enclosure url="lib\media\pasted-image-20240929182815.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240929182815.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[The Substitution Matrix]]></title><description><![CDATA[ 
+ <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/The Substitution Matrix.md<br>
+Created: 2024-09-27 04:59<br>
+Updated: 2024-09-27 04:59<br>
+Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">The Substitution Matrix</a><br>
+Subject:  The Substitution Matrix<br>
+Tags:<br>Ontology
+parent::<a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-tooltip-position="top" aria-label="Notes/Bioinformatics/Introdução à Bioinformática/Sequence Alignment" data-href="Notes/Bioinformatics/Introdução à Bioinformática/Sequence Alignment" href="notes\bioinformatics\introdução-à-bioinformática\sequence-alignment.html" class="internal-link" target="_self" rel="noopener">Sequence Alignment</a> <a data-href="Sequence Evolution" href="notes\bioinformatics\introdução-à-bioinformática\sequence-evolution.html" class="internal-link" target="_self" rel="noopener">Sequence Evolution</a>
+<br><br><br>
+<br>How to score different differences?
+
+<br>
+
+<img alt="Pasted image 20240927051237.png" src="lib\media\pasted-image-20240927051237.png"><br>
+. 
+
+
+<br>A scoring metric that reflects evolution probability through substitutions between extant residues
+
+<br>The Substitution Matrix
+
+<br>
+The blosum62
+<img alt="Pasted image 20240927051721.png" src="lib\media\pasted-image-20240927051721.png" style="width: 500px; max-width: 100%;"><br>
+.
+
+
+
+
+
+
+
+
+<br><br>
+<br>General content<br>
+- The score assigned to each substitution meant by the crossing between column and row amino acids.<br>
+-  &gt; [! Fragment]<br>
+&gt; <img alt="Pasted image 20240927094403.png" src="lib\media\pasted-image-20240927094403.png" style="width: 300px; max-width: 100%;"><br>
+&gt; .<br>
+- Substitution<br>
+- &gt; [! Definition]<br>
+&gt; "" [[]]<br>
+-From the simplest...<br>
+- Identity Matrix<br>
+- Only scores the no substitution condition<br>
+- &gt; [! Identity Matrix]<br>
+&gt; <img alt="Pasted image 20240927101144.png" src="lib\media\pasted-image-20240927101144.png" style="width: 200px; max-width: 100%;"><br>
+&gt; .<br>
+- Destined to situations where similar is restricted to being equal<br>
+- Nucleic acid residues matching<br>
+- It may include IUPAC ambiguity symbols<br>
+- Values may differ from [0,1]<br>
+- e.g. BLASTN 
+<br>...through the discontinued...
+
+<br>Genetic Code Matrix
+
+<br>Substitution score following the minimum number of nucleotide changes required to turn the codon from coding one amino acid to the other 
+
+<br>higher scores for conserved CDSs
+
+
+<br>Did not prove to be better than more sound models
+
+<br>Discontinued
+
+
+<br>
+
+<img alt="Pasted image 20240927103743.png" src="lib\media\pasted-image-20240927103743.png" style="width: 300px; max-width: 100%;"><br>
+.
+
+
+
+
+
+
+<br>...to the PAM revolution and...
+
+<br>Observable evolution, Margaret Dayhoff et al. 1978
+
+<br>
+Margaret dayhoff
+<img alt="Pasted image 20240927104427.png" src="lib\media\pasted-image-20240927104427.png" style="width: 300px; max-width: 100%;"><br>
+.
+
+
+<br>Dataset (from the Atlas of Protein Sequence and Structure)
+
+<br>Groups of proteins
+
+<br>71
+
+
+<br>Shared identity
+
+<br>85% (very close)
+
+
+<br>Substitutions found 
+
+<br>1572
+
+
+
+
+<br>Procedure
+
+<br>Phylogenetic analysis
+<br>Ancestor sequence reconstruction
+<br>Log Odd Ratio calculations for each studied substitution
+
+<br>
+Pam   log odd ratio
+ <img alt="Pasted image 20240927105919.png" src="lib\media\pasted-image-20240927105919.png" style="width: 400px; max-width: 100%;"><br>
+.
+
+
+
+
+
+
+<br>Product
+
+<br>MDM/PAM 1
+
+<br>Describes the situation for
+
+<br>A tiny amount of evolution
+
+<br>Sequences 99% similar
+<br>About
+
+<br>10 million years of evolution time
+
+
+
+
+
+
+<br>Covers an evolution span too small to be really useful.
+
+
+<br>Higher grade PAM matrices
+
+<br>Much more useful
+<br>Derived from PAM1
+
+<br>e.g. PAM120
+
+<br>
+
+<img alt="Pasted image 20240927114542.png" src="lib\media\pasted-image-20240927114542.png"><br>
+.
+
+
+
+
+<br>PAM250
+
+<br>Suitable to score substitutions sharing between 40 to 60% identity
+<br>May be used as a
+
+<br>Default matrix for prior use
+
+
+
+
+
+
+
+
+
+
+<br>Gonnet Matrices
+
+<br>The same approach
+<br>Wider dataset
+
+
+
+
+
+
+<br>... then back to an empirical solution
+
+<br>BLOSUM Matrices
+
+<br>Henikoff &amp; Henikoff 1992
+<br>Substrate to build on
+
+<br>Set of sequences sharing a given precise identity (~62%) maximum threshold
+<br>The set is aligned
+<br>Blocks are identified along the alignment
+
+<br>Consecutive sites (columns) that does not include gaps
+
+<br>Most conserved regions of the alignment
+
+<br>
+
+<img alt="Pasted image 20240927125439.png" src="lib\media\pasted-image-20240927125439.png" style="width: 200px; max-width: 100%;">
+
+
+
+
+
+
+
+
+<br>All substitutions present in all blocks are assessed
+<br>Calculation of Log Odd Ratio over the whole substitutions dataset
+
+<br>
+Log odd ratio
+<img alt="Pasted image 20240927125240.png" src="lib\media\pasted-image-20240927125240.png"> 
+<img alt="Pasted image 20240927133630.png" src="lib\media\pasted-image-20240927133630.png"><br>
+.
+
+
+
+
+
+
+<br>Practical
+
+<br>The numerical suffix of each matrix indicates 
+
+<br>The intended identity for the sequences that can be processed with this BLOSUM matrix.
+
+
+
+
+<br>Powerful
+
+<br>The results obtained through the employment of these matrices seem better that even with MDM / PAM
+<br>
+
+
+
+
+
+
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\the-substitution-matrix.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/The Substitution Matrix.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Fri, 27 Sep 2024 12:47:19 GMT</pubDate><enclosure url="lib\media\pasted-image-20240927051237.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240927051237.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Translated Regions Detection]]></title><description><![CDATA[ 
  <br>Path: Notes/Bioinformatics/Introdução à Bioinformárica/Translated Regions Detection.md<br>
 Created: 2024-09-16 15:59<br>
 Updated: 2024-09-16 15:59<br>
 Source: <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">Translated Regions Detection</a><br>
 Subject:  Translated Regions Detection<br>
 Tags:<br>Ontology
-parent::<a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformárica\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a> <a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformárica\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Coding region prediction" href="workshop\edam__nodes\operations\coding-region-prediction.html" class="internal-link" target="_self" rel="noopener">Coding region prediction</a> <a data-href="Ab-initio gene prediction" href="workshop\edam__nodes\operations\ab-initio-gene-prediction.html" class="internal-link" target="_self" rel="noopener">Ab-initio gene prediction</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/data/Genetic code" data-href="Workshop/EDAM__Nodes/data/Genetic code" href="workshop\edam__nodes\data\genetic-code.html" class="internal-link" target="_self" rel="noopener">Genetic code</a> <a data-href="Hidden Markov model" href="workshop\edam__nodes\data\hidden-markov-model.html" class="internal-link" target="_self" rel="noopener">Hidden Markov model</a> <a data-href="Workflows" href="workshop\edam__nodes\topics\workflows.html" class="internal-link" target="_self" rel="noopener">Workflows</a> <a data-href="GFF3" href="workshop\edam__nodes\formats\gff3.html" class="internal-link" target="_self" rel="noopener">GFF3</a>
+parent::<a data-href="Algorithms for Bioinformatics" href="notes\bioinformatics\introdução-à-bioinformática\algorithms-for-bioinformatics.html" class="internal-link" target="_self" rel="noopener">Algorithms for Bioinformatics</a> <a data-href="Program" href="notes\bioinformatics\introdução-à-bioinformática\program.html" class="internal-link" target="_self" rel="noopener">Program</a> <a data-href="Coding region prediction" href="workshop\edam__nodes\operations\coding-region-prediction.html" class="internal-link" target="_self" rel="noopener">Coding region prediction</a> <a data-href="Ab-initio gene prediction" href="workshop\edam__nodes\operations\ab-initio-gene-prediction.html" class="internal-link" target="_self" rel="noopener">Ab-initio gene prediction</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/data/Genetic code" data-href="Workshop/EDAM__Nodes/data/Genetic code" href="workshop\edam__nodes\data\genetic-code.html" class="internal-link" target="_self" rel="noopener">Genetic code</a> <a data-href="Hidden Markov model" href="workshop\edam__nodes\data\hidden-markov-model.html" class="internal-link" target="_self" rel="noopener">Hidden Markov model</a> <a data-href="Workflows" href="workshop\edam__nodes\topics\workflows.html" class="internal-link" target="_self" rel="noopener">Workflows</a> <a data-href="GFF3" href="workshop\edam__nodes\formats\gff3.html" class="internal-link" target="_self" rel="noopener">GFF3</a>
 <br><br><br>
 <br>
 Where to begin?
@@ -3090,4 +4143,4 @@ Generic example
 
 
 
-]]></description><link>notes\bioinformatics\introdução-à-bioinformárica\translated-regions-detection.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformárica/Translated Regions Detection.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 20:31:03 GMT</pubDate><enclosure url="lib\media\pasted-image-20240916160745.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240916160745.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+]]></description><link>notes\bioinformatics\introdução-à-bioinformática\translated-regions-detection.html</link><guid isPermaLink="false">Notes/Bioinformatics/Introdução à Bioinformática/Translated Regions Detection.md</guid><dc:creator><![CDATA[jmgcfdea]]></dc:creator><pubDate>Mon, 16 Sep 2024 20:31:03 GMT</pubDate><enclosure url="lib\media\pasted-image-20240916160745.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20240916160745.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
