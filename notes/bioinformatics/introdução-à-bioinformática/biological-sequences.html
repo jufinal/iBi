@@ -1,0 +1,479 @@
+<!DOCTYPE html> <html><head>
+		<title>Biological Sequences</title>
+		<base href="..\..\../">
+		<meta id="root-path" root-path="..\..\../">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=5.0">
+		<meta charset="UTF-8">
+		<meta name="description" content="iBi24 - Biological Sequences">
+		<meta property="og:title" content="Biological Sequences">
+		<meta property="og:description" content="iBi24 - Biological Sequences">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="notes/bioinformatics/introdução-à-bioinformática/biological-sequences.html">
+		<meta property="og:image" content="lib\media\pasted-image-20240904150308.png">
+		<meta property="og:site_name" content="iBi24">
+		<meta name="author" content="jmgcfdea"><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="lib/rss.xml"><script async="" id="webpage-script" src="lib/scripts/webpage.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script type="module" async="" id="graph-view-script" src="lib/scripts/graph-view.js"></script><script async="" id="graph-wasm-script" src="lib/scripts/graph-wasm.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="graph-render-worker-script" src="lib/scripts/graph-render-worker.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="tinycolor-script" src="lib/scripts/tinycolor.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="pixi-script" src="lib/scripts/pixi.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="minisearch-script" src="lib/scripts/minisearch.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><link rel="icon" href="lib/media/favicon.png"><script async="" id="graph-data-script" src="lib/scripts/graph-data.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><style>body{--line-width:40em;--line-width-adaptive:40em;--file-line-width:40em;--sidebar-width:min(20em, 80vw);--collapse-arrow-size:11px;--tree-horizontal-spacing:0.6em;--tree-vertical-spacing:0.6em;--sidebar-margin:12px}.sidebar{height:100%;min-width:calc(var(--sidebar-width) + var(--divider-width-hover));max-width:calc(var(--sidebar-width) + var(--divider-width-hover));font-size:14px;z-index:10;position:relative;overflow:hidden;transition:min-width ease-in-out,max-width ease-in-out;transition-duration:.2s;contain:size}.sidebar-left{left:0}.sidebar-right{right:0}.sidebar.is-collapsed{min-width:0;max-width:0}body.floating-sidebars .sidebar{position:absolute}.sidebar-content{height:100%;min-width:calc(var(--sidebar-width) - var(--divider-width-hover));top:0;padding:var(--sidebar-margin);padding-top:4em;line-height:var(--line-height-tight);background-color:var(--background-secondary);transition:background-color,border-right,border-left,box-shadow;transition-duration:var(--color-fade-speed);transition-timing-function:ease-in-out;position:absolute;display:flex;flex-direction:column}.sidebar:not(.is-collapsed) .sidebar-content{min-width:calc(max(100%,var(--sidebar-width)) - 3px);max-width:calc(max(100%,var(--sidebar-width)) - 3px)}.sidebar-left .sidebar-content{left:0;border-top-right-radius:var(--radius-l);border-bottom-right-radius:var(--radius-l)}.sidebar-right .sidebar-content{right:0;border-top-left-radius:var(--radius-l);border-bottom-left-radius:var(--radius-l)}.sidebar:has(.sidebar-content:empty):has(.topbar-content:empty){display:none}.sidebar-topbar{height:2em;width:var(--sidebar-width);top:var(--sidebar-margin);padding-inline:var(--sidebar-margin);z-index:1;position:fixed;display:flex;align-items:center;transition:width ease-in-out;transition-duration:inherit}.sidebar.is-collapsed .sidebar-topbar{width:calc(2.3em + var(--sidebar-margin) * 2)}.sidebar .sidebar-topbar.is-collapsed{width:0}.sidebar-left .sidebar-topbar{left:0}.sidebar-right .sidebar-topbar{right:0}.topbar-content{overflow:hidden;overflow:clip;width:100%;height:100%;display:flex;align-items:center;transition:inherit}.sidebar.is-collapsed .topbar-content{width:0;transition:inherit}.clickable-icon.sidebar-collapse-icon{background-color:transparent;color:var(--icon-color-focused);padding:0!important;margin:0!important;height:100%!important;width:2.3em!important;margin-inline:0.14em!important;position:absolute}.sidebar-left .clickable-icon.sidebar-collapse-icon{transform:rotateY(180deg);right:var(--sidebar-margin)}.sidebar-right .clickable-icon.sidebar-collapse-icon{transform:rotateY(180deg);left:var(--sidebar-margin)}.clickable-icon.sidebar-collapse-icon svg.svg-icon{width:100%;height:100%}.sidebar-section-header{margin:0 0 1em 0;text-transform:uppercase;letter-spacing:.06em;font-weight:600}body{transition:background-color var(--color-fade-speed) ease-in-out}.webpage-container{display:flex;flex-direction:row;height:100%;width:100%;align-items:stretch;justify-content:center}.document-container{opacity:1;flex-basis:100%;max-width:100%;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;transition:opacity .2s ease-in-out;contain:inline-size}.hide{opacity:0;transition:opacity .2s ease-in-out}.document-container>.markdown-preview-view{margin:var(--sidebar-margin);margin-bottom:0;width:100%;width:-webkit-fill-available;width:-moz-available;width:fill-available;background-color:var(--background-primary);transition:background-color var(--color-fade-speed) ease-in-out;border-top-right-radius:var(--window-radius,var(--radius-m));border-top-left-radius:var(--window-radius,var(--radius-m));overflow-x:hidden!important;overflow-y:auto!important;display:flex!important;flex-direction:column!important;align-items:center!important;contain:inline-size}.document-container>.markdown-preview-view>.markdown-preview-sizer{padding-bottom:80vh!important;width:100%!important;max-width:var(--line-width)!important;flex-basis:var(--line-width)!important;transition:background-color var(--color-fade-speed) ease-in-out;contain:inline-size}.markdown-rendered img:not([width]),.view-content img:not([width]){max-width:100%;outline:0}.document-container>.view-content.embed{display:flex;padding:1em;height:100%;width:100%;align-items:center;justify-content:center}.document-container>.view-content.embed>*{max-width:100%;max-height:100%;object-fit:contain}:has(> :is(.math,table)){overflow-x:auto!important}.document-container>.view-content{overflow-x:auto;contain:content;padding:0;margin:0;height:100%}.scroll-highlight{position:absolute;width:100%;height:100%;pointer-events:none;z-index:1000;background-color:hsla(var(--color-accent-hsl),.25);opacity:0;padding:1em;inset:50%;translate:-50% -50%;border-radius:var(--radius-s)}</style><script defer="">async function loadIncludes(){if("file:"!=location.protocol){let e=document.querySelectorAll("include");for(let t=0;t<e.length;t++){let o=e[t],l=o.getAttribute("src");try{const e=await fetch(l);if(!e.ok){console.log("Could not include file: "+l),o?.remove();continue}let t=await e.text(),n=document.createRange().createContextualFragment(t),i=Array.from(n.children);for(let e of i)e.classList.add("hide"),e.style.transition="opacity 0.5s ease-in-out",setTimeout((()=>{e.classList.remove("hide")}),10);o.before(n),o.remove(),console.log("Included file: "+l)}catch(e){o?.remove(),console.log("Could not include file: "+l,e);continue}}}else{if(document.querySelectorAll("include").length>0){var e=document.createElement("div");e.id="error",e.textContent="Web server exports must be hosted on an http / web server to be viewed correctly.",e.style.position="fixed",e.style.top="50%",e.style.left="50%",e.style.transform="translate(-50%, -50%)",e.style.fontSize="1.5em",e.style.fontWeight="bold",e.style.textAlign="center",document.body.appendChild(e),document.querySelector(".document-container")?.classList.remove("hide")}}}document.addEventListener("DOMContentLoaded",(()=>{loadIncludes()}));let isFileProtocol="file:"==location.protocol;function waitLoadScripts(e,t){let o=e.map((e=>document.getElementById(e+"-script"))),l=0;!function e(){let n=o[l];l++,n&&"true"!=n.getAttribute("loaded")||l<o.length&&e(),l<o.length?n.addEventListener("load",e):t()}()}</script><link rel="stylesheet" href="lib/styles/obsidian.css"><link rel="preload" href="lib/styles/other-plugins.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/other-plugins.css"></noscript><link rel="stylesheet" href="lib/styles/theme.css"><link rel="preload" href="lib/styles/global-variable-styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/global-variable-styles.css"></noscript><link rel="preload" href="lib/styles/main-styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/main-styles.css"></noscript></head><body class="publish css-settings-manager theme-light show-inline-title show-ribbon check-color check-bg"><script defer="">let theme=localStorage.getItem("theme")||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");"dark"==theme?(document.body.classList.add("theme-dark"),document.body.classList.remove("theme-light")):(document.body.classList.add("theme-light"),document.body.classList.remove("theme-dark")),window.innerWidth<480?document.body.classList.add("is-phone"):window.innerWidth<768?document.body.classList.add("is-tablet"):window.innerWidth<1024?document.body.classList.add("is-small-screen"):document.body.classList.add("is-large-screen")</script><div class="webpage-container workspace"><div class="sidebar-left sidebar"><div class="sidebar-handle"></div><div class="sidebar-topbar"><div class="topbar-content"><label class="theme-toggle-container" for="theme_toggle"><input class="theme-toggle-input" type="checkbox" id="theme_toggle"><div class="toggle-background"></div></label></div><div class="clickable-icon sidebar-collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><path d="M21 3H3C1.89543 3 1 3.89543 1 5V19C1 20.1046 1.89543 21 3 21H21C22.1046 21 23 20.1046 23 19V5C23 3.89543 22.1046 3 21 3Z"></path><path d="M10 4V20"></path><path d="M4 7H7"></path><path d="M4 10H7"></path><path d="M4 13H7"></path></svg></div></div><div class="sidebar-content"><div class="search-input-container"><input enterkeyhint="search" type="search" spellcheck="false" placeholder="Search..."><div class="search-input-clear-button" aria-label="Clear search"></div></div><include src="lib/html/file-tree.html"></include></div><script defer="">let ls = document.querySelector(".sidebar-left"); ls.classList.add("is-collapsed"); if (window.innerWidth > 768) ls.classList.remove("is-collapsed"); ls.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-left-width"));</script></div><div class="document-container markdown-reading-view hide"><div class="markdown-preview-view markdown-rendered allow-fold-headings allow-fold-lists is-readable-line-width"><style id="MJX-CHTML-styles"></style><div class="markdown-preview-sizer markdown-preview-section"><h1 class="page-title heading inline-title" id="Biological Sequences"><p dir="auto">Biological Sequences</p></h1><div class="el-p"><p dir="auto"><font color="#00b050"><strong>Path:</strong></font> Notes/Bioinformatics/Introdução à Bioinformárica/Biological Sequences.md<br>
+<font color="#00b050"><strong>Created:</strong></font> 2024-09-03 15:51<br>
+<font color="#00b050"><strong>Updated:</strong></font> 2024-09-03 15:51<br>
+<font color="#00b050"><strong>Source:</strong></font> <a data-tooltip-position="top" aria-label="" rel="noopener nofollow" class="external-link" href="" target="_blank">Biological Sequences</a><br>
+<font color="#00b050"><strong>Subject:</strong></font>  Biological Sequences<br>
+<font color="#00b050"><strong>Tags:</strong></font></p></div><div class="el-div"><div data-callout-metadata="" data-callout-fold="" data-callout="ontology" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Ontology</div></div><div class="callout-content">
+<p dir="auto"><font color="#00b050"><strong>parent::</strong></font><a data-href="Program" href="notes/bioinformatics/introdução-à-bioinformática/program.html" class="internal-link" target="_self" rel="noopener nofollow">Program</a> <a data-href="Sequence" href="workshop/edam__nodes/data/sequence.html" class="internal-link" target="_self" rel="noopener nofollow">Sequence</a> <a data-href="Nucleic acids" href="workshop/edam__nodes/topics/nucleic-acids.html" class="internal-link" target="_self" rel="noopener nofollow">Nucleic acids</a> <a data-href="Proteins" href="workshop/edam__nodes/topics/proteins.html" class="internal-link" target="_self" rel="noopener nofollow">Proteins</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/topics/RNA" data-href="Workshop/EDAM__Nodes/topics/RNA" href="workshop/edam__nodes/topics/rna.html" class="internal-link" target="_self" rel="noopener nofollow">RNA</a> <a data-tooltip-position="top" aria-label="Workshop/EDAM__Nodes/topics/DNA" data-href="Workshop/EDAM__Nodes/topics/DNA" href="workshop/edam__nodes/topics/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a> <a data-href="Format" href="workshop/edam__nodes/formats/format.html" class="internal-link" target="_self" rel="noopener nofollow">Format</a> <a data-href="Sequence annotation" href="workshop/edam__nodes/operations/sequence-annotation.html" class="internal-link" target="_self" rel="noopener nofollow">Sequence annotation</a> <a data-href="Sequencing" href="workshop/edam__nodes/topics/sequencing.html" class="internal-link" target="_self" rel="noopener nofollow">Sequencing</a> <a data-href="Scaffolding" href="workshop/edam__nodes/operations/scaffolding.html" class="internal-link" target="_self" rel="noopener nofollow">Scaffolding</a></p>
+</div></div></div><div class="el-h2 heading-wrapper"><h2 data-heading="Note:" dir="auto" class="heading" id="Note:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Note:</h2><div class="heading-children"><div class="el-p"><p dir="auto"><a data-tooltip-position="top" aria-label="http://edamontology.org/data_2044" rel="noopener nofollow" class="external-link" href="http://edamontology.org/data_2044" target="_blank">EDAM::data_2044</a></p></div></div></div><div class="el-h2 heading-wrapper"><h2 data-heading="Polymers" dir="auto" class="heading" id="Polymers"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Polymers</h2><div class="heading-children"><div class="el-div"><div data-callout-metadata="" data-callout-fold="" data-callout="note" class="callout drop-shadow"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Definition</div></div><div class="callout-content">
+<p dir="auto">“Polymers are very large molecules made of repeating patterns of small molecules, called monomers.  Many polymers are made by repeating the same small molecule over and over again.  Others are made from two monomers linked in a pattern.”<br>
+<a data-tooltip-position="top" aria-label="http://chemistry.need.org/curriculum/polymers" rel="noopener nofollow" class="external-link" href="http://chemistry.need.org/curriculum/polymers" target="_blank">Source</a></p>
+<p dir="auto">&nbsp;  </p>
+<blockquote dir="auto">
+<p>&nbsp;  <span alt="Pasted image 20240904150308.png" src="Pasted image 20240904150308.png" class="internal-embed media-embed image-embed is-loaded" style="width: 400px; max-width: 100%;"><img alt="Pasted image 20240904150308.png" src="lib/media/pasted-image-20240904150308.png" style="width: 400px; max-width: 100%;"></span></p>
+</blockquote>
+</div></div></div><div class="el-h3 heading-wrapper"><h3 data-heading="Monomer Nature" dir="auto" class="heading" id="Monomer_Nature"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Monomer Nature</h3><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto">Sugars, e.g cellulose</li>
+<li data-line="1" dir="auto">Amino-acids, e.g. <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0078" rel="noopener nofollow" class="external-link" href="http://edamontology.org/topic_0078" target="_blank">proteins</a></li>
+<li data-line="2" dir="auto">Nucleotides, e.g. <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0077" rel="noopener nofollow" class="external-link" href="http://edamontology.org/topic_0077" target="_blank">nucleic acids</a></li>
+</ul></div></div></div><div class="el-h3 heading-wrapper"><h3 data-heading="Biological Function" dir="auto" class="heading" id="Biological_Function"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Biological Function</h3><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto">Structural, e.g. <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0078" rel="noopener nofollow" class="external-link" href="http://edamontology.org/topic_0078" target="_blank">proteins</a>, cellulose</li>
+<li data-line="1" dir="auto">Enzymatic Activity, e.g. <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0078" rel="noopener nofollow" class="external-link" href="http://edamontology.org/topic_0078" target="_blank">proteins</a></li>
+<li data-line="2" dir="auto">Storage, e.g. glycogen</li>
+<li data-line="3" dir="auto">Information Transmission, e.g. <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0099" rel="noopener nofollow" class="external-link" href="http://edamontology.org/topic_0099" target="_blank">RNA</a>, <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0078" rel="noopener nofollow" class="external-link" href="http://edamontology.org/topic_0078" target="_blank">proteins</a></li>
+<li data-line="4" dir="auto">Information Storage, e.g. <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_0077" rel="noopener nofollow" class="external-link" href="http://edamontology.org/topic_0077" target="_blank">nucleic acids</a></li>
+</ul></div></div></div><div class="el-h3 heading-wrapper"><h3 data-heading="Structure &amp; Organization" dir="auto" class="heading" id="Structure_&amp;_Organization"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Structure &amp; Organization</h3><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Linear
+<ul>
+<li data-line="1" dir="auto">Sequence of residues</li>
+</ul>
+</li>
+<li data-line="2" dir="auto">Branched</li>
+<li data-line="3" dir="auto">Network</li>
+</ul></div><div class="el-blockquote"><blockquote dir="auto">
+<p><span alt="Pasted image 20240904150202.png" src="Pasted image 20240904150202.png" class="internal-embed media-embed image-embed is-loaded" style="width: 400px; max-width: 100%;"><img alt="Pasted image 20240904150202.png" src="lib/media/pasted-image-20240904150202.png" style="width: 400px; max-width: 100%;"></span></p>
+</blockquote></div></div></div></div></div><div class="el-h2 heading-wrapper"><h2 data-heading="Sequence _versus_ Polymer" dir="auto" class="heading" id="Sequence__versus__Polymer"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Sequence <em>versus</em> Polymer</h2><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>The <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Polymer" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Polymer" target="_blank">polymer</a> is an existing <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Chemical_substance" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Chemical_substance" target="_blank">substance</a> with properties, structure and possible roles in the cell or otherwise
+<ul>
+<li data-line="1" dir="auto">The sequence is a limited <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Representation_(arts)" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Representation_(arts)" target="_blank">representation</a> of the existing <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Molecule" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Molecule" target="_blank">molecule</a>.</li>
+<li data-line="2" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Only the sequential order of the <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Residue_(chemistry)" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Residue_(chemistry)" target="_blank">residues</a> is portrayed.
+<ul>
+<li data-line="3" dir="auto">Implications of that sequential order are up to the reader of the sequence.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="4" dir="auto">The way residues are represented depends on the intended use or volition of the sequence coder.</li>
+</ul></div><div class="el-blockquote"><blockquote dir="auto">
+<p><span alt="Pasted image 20240904152337.png" src="Pasted image 20240904152337.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904152337.png" src="lib/media/pasted-image-20240904152337.png"></span></p>
+<p><span alt="Pasted image 20240904152412.png" src="Pasted image 20240904152412.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904152412.png" src="lib/media/pasted-image-20240904152412.png"></span></p>
+</blockquote></div><div class="el-h3 heading-wrapper"><h3 data-heading="Sequence _versus_ Information" dir="auto" class="heading" id="Sequence__versus__Information"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Sequence <em>versus</em> Information</h3><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>The sequence as an <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Information" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Information" target="_blank">information</a> container.
+<ul>
+<li data-line="1" dir="auto">The sequential order of residues is the information contained</li>
+</ul>
+</li>
+<li data-line="2" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Other features conveying information
+<ul>
+<li data-line="3" dir="auto">Modifications to the residues</li>
+<li data-line="4" dir="auto">Molecule folding</li>
+<li data-line="5" dir="auto">Association with other <a data-tooltip-position="top" aria-label="https://www.merriam-webster.com/dictionary/concomitant" rel="noopener nofollow" class="external-link" href="https://www.merriam-webster.com/dictionary/concomitant" target="_blank">concomitant</a> molecules</li>
+</ul>
+</li>
+<li data-line="6" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>How to measure the information content in a <a data-tooltip-position="top" aria-label="https://www.merriam-webster.com/dictionary/naive" rel="noopener nofollow" class="external-link" href="https://www.merriam-webster.com/dictionary/naive" target="_blank">naive</a> approach?
+<ul>
+<li data-line="7" dir="auto">Deviation to a random result</li>
+<li data-line="8" dir="auto">Looking at the sequence as a sequence of "choices" between available states</li>
+<li data-line="9" dir="auto">Assessing the degree of "organization" conveyed by the sequence</li>
+</ul>
+</li>
+<li data-line="10" dir="auto">Information content varies throughout gene expression
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904165644.png" src="Pasted image 20240904165644.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904165644.png" src="lib/media/pasted-image-20240904165644.png"></span></p>
+</blockquote>
+</li>
+</ul></div></div></div></div></div><div class="el-h2 heading-wrapper"><h2 data-heading="Sequence Recording" dir="auto" class="heading" id="Sequence_Recording"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Sequence Recording</h2><div class="heading-children"><div class="el-blockquote"><blockquote dir="auto">
+<p><span alt="Pasted image 20240904165926.png" src="Pasted image 20240904165926.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904165926.png" src="lib/media/pasted-image-20240904165926.png"></span></p>
+</blockquote></div><div class="el-h3 heading-wrapper"><h3 data-heading="Notation" dir="auto" class="heading" id="Notation"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Notation</h3><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Notation_system" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Notation_system" target="_blank">Notation</a>
+<ul>
+<li data-line="1" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Symbol" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Symbol" target="_blank">Symbols</a> for residue representation along the sequence being recorded.
+<ul>
+<li data-line="2" dir="auto">Definite residues</li>
+<li data-line="3" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Ambiguous situations
+<ul>
+<li data-line="4" dir="auto">Ill defined residue occurrence</li>
+<li data-line="5" dir="auto"><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Polymorphism_(biology)" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Polymorphism_(biology)" target="_blank">Polymorphic</a> site (e.g. <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism" target="_blank">SNP</a>)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="6" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><a data-tooltip-position="top" aria-label="https://iupac.org/" rel="noopener nofollow" class="external-link" href="https://iupac.org/" target="_blank">IUPAC</a>
+<ul>
+<li data-line="7" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><a data-tooltip-position="top" aria-label="https://www.bioinformatics.org/sms2/iupac.html" rel="noopener nofollow" class="external-link" href="https://www.bioinformatics.org/sms2/iupac.html" target="_blank">Nucleotide Notation</a>
+<ul>
+<li data-line="8" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904173216.png" src="Pasted image 20240904173216.png" class="internal-embed media-embed image-embed is-loaded" style="width: 300px; max-width: 100%;"><img alt="Pasted image 20240904173216.png" src="lib/media/pasted-image-20240904173216.png" style="width: 300px; max-width: 100%;"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="9" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><a data-tooltip-position="top" aria-label="https://www.bioinformatics.org/sms2/iupac.html" rel="noopener nofollow" class="external-link" href="https://www.bioinformatics.org/sms2/iupac.html" target="_blank">Amino-Acid Notation</a>
+<ul>
+<li data-line="10" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904174533.png" src="Pasted image 20240904174533.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904174533.png" src="lib/media/pasted-image-20240904174533.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="11" dir="auto"></li>
+</ul>
+</li>
+</ul></div></div></div><div class="el-h3 heading-wrapper"><h3 data-heading="Format" dir="auto" class="heading" id="Format"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Format</h3><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><a data-tooltip-position="top" aria-label="http://edamontology.org/format_1915" rel="noopener nofollow" class="external-link" href="http://edamontology.org/format_1915" target="_blank">Format</a>
+<ul>
+<li data-line="1" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="definition" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Definition</div></div><div class="callout-content">
+<p dir="auto">A defined way or layout of representing and structuring data in a computer file, blob, string, message, or elsewhere.<br>
+Source: EDAM::format_1915<br>
+.</p>
+</div></div>
+</li>
+<li data-line="5" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Sequence recording formats
+<ul>
+<li data-line="6" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Separate sequences
+<ul>
+<li data-line="7" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>RAW 
+<ul>
+<li data-line="8" dir="auto">Only sequence as a single line
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904181118.png" src="Pasted image 20240904181118.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904181118.png" src="lib/media/pasted-image-20240904181118.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="10" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>FASTA / Pearson
+<ul>
+<li data-line="11" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>First line
+<ul>
+<li data-line="12" dir="auto"><a data-tooltip-position="top" aria-label="http://edamontology.org/operation_0361" rel="noopener nofollow" class="external-link" href="http://edamontology.org/operation_0361" target="_blank">Sequence annotation</a></li>
+</ul>
+</li>
+<li data-line="13" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Second line
+<ul>
+<li data-line="14" dir="auto">Sequence</li>
+</ul>
+</li>
+<li data-line="15" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904190452.png" src="Pasted image 20240904190452.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904190452.png" src="lib/media/pasted-image-20240904190452.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="16" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Specialized formats
+<ul>
+<li data-line="17" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Phylip
+<ul>
+<li data-line="18" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904190932.png" src="Pasted image 20240904190932.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904190932.png" src="lib/media/pasted-image-20240904190932.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="19" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>NBRF / PIR
+<ul>
+<li data-line="20" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904191010.png" src="Pasted image 20240904191010.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904191010.png" src="lib/media/pasted-image-20240904191010.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="21" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>GDE
+<ul>
+<li data-line="22" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904191310.png" src="Pasted image 20240904191310.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904191310.png" src="lib/media/pasted-image-20240904191310.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="23" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Aligned sequences
+<ul>
+<li data-line="24" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Sequence alignment in a nutshell
+<ul>
+<li data-line="25" dir="auto">Mathematical technique for assessing homologous sites across different, but related sequences</li>
+<li data-line="26" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904192404.png" src="Pasted image 20240904192404.png" class="internal-embed media-embed image-embed is-loaded" style="width: 600px; max-width: 100%;"><img alt="Pasted image 20240904192404.png" src="lib/media/pasted-image-20240904192404.png" style="width: 600px; max-width: 100%;"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="27" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Main formats
+<ul>
+<li data-line="28" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Clustal
+<ul>
+<li data-line="29" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904192603.png" src="Pasted image 20240904192603.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904192603.png" src="lib/media/pasted-image-20240904192603.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="30" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>FASTA / Pearson
+<ul>
+<li data-line="31" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904192747.png" src="Pasted image 20240904192747.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904192747.png" src="lib/media/pasted-image-20240904192747.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="32" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Exquisite formats
+<ul>
+<li data-line="33" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>GCG / MSF
+<ul>
+<li data-line="34" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904192846.png" src="Pasted image 20240904192846.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904192846.png" src="lib/media/pasted-image-20240904192846.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="35" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Codata
+<ul>
+<li data-line="36" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904193017.png" src="Pasted image 20240904193017.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904193017.png" src="lib/media/pasted-image-20240904193017.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="37" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>The definitive format?
+<ul>
+<li data-line="38" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>NEXUS
+<ul>
+<li data-line="39" dir="auto">A modular format that can encompass a complete phylogenetic analysis</li>
+<li data-line="40" dir="auto">Modules go from the annotation for the individual sequences, through their multiple alignment, distance matrix up to complete sets of trees resulting from bootstrap analysis, and the resulting consensus tree.</li>
+<li data-line="41" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904193643.png" src="Pasted image 20240904193643.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904193643.png" src="lib/media/pasted-image-20240904193643.png"></span><br>
+...<br>
+<span alt="Pasted image 20240904193729.png" src="Pasted image 20240904193729.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904193729.png" src="lib/media/pasted-image-20240904193729.png"></span></p>
+</blockquote>
+</li>
+<li data-line="44" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Blocks for specific elements
+<ul>
+<li data-line="45" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Taxa (name + annotation)
+<ul>
+<li data-line="46" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904201541.png" src="Pasted image 20240904201541.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904201541.png" src="lib/media/pasted-image-20240904201541.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="47" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Sequences
+<ul>
+<li data-line="48" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904201634.png" src="Pasted image 20240904201634.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904201634.png" src="lib/media/pasted-image-20240904201634.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="49" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Alignment
+<ul>
+<li data-line="50" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904200143.png" src="Pasted image 20240904200143.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904200143.png" src="lib/media/pasted-image-20240904200143.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="51" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Distance matrix
+<ul>
+<li data-line="52" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904200217.png" src="Pasted image 20240904200217.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904200217.png" src="lib/media/pasted-image-20240904200217.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="53" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Phylogenetic trees
+<ul>
+<li data-line="54" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904200308.png" src="Pasted image 20240904200308.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904200308.png" src="lib/media/pasted-image-20240904200308.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul></div></div></div><div class="el-h3 heading-wrapper"><h3 data-heading="Writing or Editing Sequences" dir="auto" class="heading" id="Writing_or_Editing_Sequences"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Writing or Editing Sequences</h3><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Sequences are usually recorded manually as a plain text through a regular text editor
+<ul>
+<li data-line="1" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904200816.png" src="Pasted image 20240904200816.png" class="internal-embed media-embed image-embed is-loaded" style="width: 400px; max-width: 100%;"><img alt="Pasted image 20240904200816.png" src="lib/media/pasted-image-20240904200816.png" style="width: 400px; max-width: 100%;"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="2" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Software also records sequences as output
+<ul>
+<li data-line="3" dir="auto">As no human is involved, formats can be more complex</li>
+</ul>
+</li>
+<li data-line="4" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Fluorograms resulting from sequencing DNA can also be regarded as a form of sequence recording
+<ul>
+<li data-line="5" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240904201401.png" src="Pasted image 20240904201401.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240904201401.png" src="lib/media/pasted-image-20240904201401.png"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ul></div></div></div></div></div><div class="el-h2 heading-wrapper"><h2 data-heading="Sequence Production" dir="auto" class="heading" id="Sequence_Production"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Sequence Production</h2><div class="heading-children"><div class="el-blockquote"><blockquote dir="auto">
+<p><span alt="Pasted image 20240905120939.png" src="Pasted image 20240905120939.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240905120939.png" src="lib/media/pasted-image-20240905120939.png"></span></p>
+</blockquote></div><div class="el-ul"><ul>
+<li data-line="0" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Biopolymer <a data-tooltip-position="top" aria-label="http://edamontology.org/topic_3168" rel="noopener nofollow" class="external-link" href="http://edamontology.org/topic_3168" target="_blank">sequencing</a>
+<ul>
+<li data-line="1" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>DNA <em>versus</em> Protein
+<ul>
+<li data-line="2" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Completely different analytical concepts
+<ul>
+<li data-line="3" dir="auto">Residue position through template</li>
+<li data-line="4" dir="auto">Residue chemical properties </li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="5" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>DNA Sequencing (~50 years record) 
+<ul>
+<li data-line="6" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Methodology
+<ul>
+<li data-line="7" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Chemical - Maxam &amp; Gilbert
+<ul>
+<li data-line="8" dir="auto">
+<blockquote dir="auto">
+<iframe allow="fullscreen" allowfullscreen="" style="aspect-ratio: 1.33333 / 1; width: 100%; height: 100%;" width="200" height="150" src="https://www.youtube.com/embed/AEygkyoBBLs?feature=oembed" title="Maxam and Gilbert Sequencing Fin 0001" sandbox="allow-forms allow-presentation allow-same-origin allow-scripts allow-modals" loading="lazy"></iframe>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="9" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Enzymatic - Sanger
+<ul>
+<li data-line="10" dir="auto">
+<blockquote dir="auto">
+<iframe allow="fullscreen" allowfullscreen="" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" width="200" height="113" src="https://www.youtube.com/embed/6ldtdWjDwes?feature=oembed" title="Sanger Sequencing" sandbox="allow-forms allow-presentation allow-same-origin allow-scripts allow-modals" loading="lazy"></iframe>
+</blockquote>
+</li>
+<li data-line="11" dir="auto">Conceptual foundation for most of the subsequent developments</li>
+<li data-line="12" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>PCR revolution (~40 years record)
+<ul>
+<li data-line="13" dir="auto">Increased agility</li>
+</ul>
+</li>
+<li data-line="14" dir="auto">Robotization </li>
+</ul>
+</li>
+<li data-line="15" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Massive_parallel_sequencing" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Massive_parallel_sequencing" target="_blank">Next Generation Sequencing (NGS)</a>
+<ul>
+<li data-line="16" dir="auto">
+<blockquote dir="auto">
+<iframe style="height:100%;width:100%; aspect-ratio: 16 / 9;" allowfullscreen="" allow="fullscreen" src="https://en.wikipedia.org/wiki/Massive_parallel_sequencing" sandbox="allow-forms allow-presentation allow-same-origin allow-scripts allow-modals" loading="lazy"></iframe>
+</blockquote>
+</li>
+<li data-line="17" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Sequence_assembly" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Sequence_assembly" target="_blank">Read Assembly</a> 
+<ul>
+<li data-line="18" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240905123253.png" src="Pasted image 20240905123253.png" class="internal-embed media-embed image-embed is-loaded" style="width: 300px; max-width: 100%;"><img alt="Pasted image 20240905123253.png" src="lib/media/pasted-image-20240905123253.png" style="width: 300px; max-width: 100%;"></span></p>
+</blockquote>
+</li>
+<li data-line="19" dir="auto">The process limiting step </li>
+<li data-line="20" dir="auto">Higher parallelization =&gt; shorter reads</li>
+<li data-line="21" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Reads are the building blocks in Genome Assembly
+<ul>
+<li data-line="22" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240905123658.png" src="Pasted image 20240905123658.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240905123658.png" src="lib/media/pasted-image-20240905123658.png"></span></p>
+</blockquote>
+</li>
+<li data-line="23" dir="auto">Read</li>
+<li data-line="24" dir="auto">Contig </li>
+<li data-line="25" dir="auto"><a data-tooltip-position="top" aria-label="http://edamontology.org/operation_3216" rel="noopener nofollow" class="external-link" href="http://edamontology.org/operation_3216" target="_blank">Scaffold</a></li>
+<li data-line="26" dir="auto">Chromosome</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="27" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Protein Sequencing (~70years record)
+<ul>
+<li data-line="28" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Direct sequencing
+<ul>
+<li data-line="29" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Classical methods
+<ul>
+<li data-line="30" dir="auto">Work intensive</li>
+<li data-line="31" dir="auto">Not amenable to automatisation</li>
+</ul>
+</li>
+<li data-line="32" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Mass spectroscopy based methods
+<ul>
+<li data-line="33" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Based on peptide signature recognition
+<ul>
+<li data-line="34" dir="auto">"Black Box"</li>
+<li data-line="35" dir="auto">Not completely deterministic</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="36" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Conceptual Translation Inference
+<ul>
+<li data-line="37" dir="auto">Genomic sequence annotation</li>
+<li data-line="38" dir="auto">Automatic translation of inferred <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Coding_region" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Coding_region" target="_blank">coding sequences (CDS)</a></li>
+<li data-line="39" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Abundant source for debatable protein sequences
+<ul>
+<li data-line="40" dir="auto">Most available protein sequences generated through this process</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul></div><div class="mod-footer mod-ui"></div></div></div></div></div></div><div class="sidebar-right sidebar"><div class="sidebar-handle"></div><div class="sidebar-topbar"><div class="topbar-content"></div><div class="clickable-icon sidebar-collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><path d="M21 3H3C1.89543 3 1 3.89543 1 5V19C1 20.1046 1.89543 21 3 21H21C22.1046 21 23 20.1046 23 19V5C23 3.89543 22.1046 3 21 3Z"></path><path d="M10 4V20"></path><path d="M4 7H7"></path><path d="M4 10H7"></path><path d="M4 13H7"></path></svg></div></div><div class="sidebar-content"><div class="graph-view-wrapper"><div class="sidebar-section-header">Interactive Graph</div><div class="graph-view-placeholder">
+		<div class="graph-view-container">
+			<div class="graph-icon graph-expand" role="button" aria-label="Expand" data-tooltip-position="top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg></div>
+			<canvas id="graph-canvas" class="hide" width="512px" height="512px"></canvas>
+		</div>
+		</div></div><div class="tree-container mod-root nav-folder tree-item outline-tree" data-depth="0"><div class="tree-header"><span class="sidebar-section-header">Table Of Contents</span><button class="clickable-icon collapse-tree-button is-collapsed" aria-label="Collapse All"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></svg></button></div><div class="tree-scroll-area tree-item-children nav-folder-children"><div class="tree-item mod-tree-folder nav-folder mod-collapsible is-collapsed" style="display: none;"></div><div class="tree-item" data-depth="1"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html#Biological Sequences"><div class="tree-item-contents heading-link" heading-name="Biological Sequences"><span class="tree-item-title">Biological Sequences</span></div></a><div class="tree-item-children nav-folder-children"><div class="tree-item" data-depth="2"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html#Note:"><div class="tree-item-contents heading-link" heading-name="Note:"><span class="tree-item-title">Note:</span></div></a><div class="tree-item-children nav-folder-children"></div></div><div class="tree-item mod-collapsible is-collapsed" data-depth="2"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html#Polymers"><div class="tree-item-contents heading-link" heading-name="Polymers"><div class="collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="tree-item-title">Polymers</span></div></a><div class="tree-item-children nav-folder-children" style="display: none;"><div class="tree-item" data-depth="3"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html#Monomer_Nature"><div class="tree-item-contents heading-link" heading-name="Monomer Nature"><span class="tree-item-title">Monomer Nature</span></div></a><div class="tree-item-children nav-folder-children"></div></div><div class="tree-item" data-depth="3"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html#Biological_Function"><div class="tree-item-contents heading-link" heading-name="Biological Function"><span class="tree-item-title">Biological Function</span></div></a><div class="tree-item-children nav-folder-children"></div></div><div class="tree-item" data-depth="3"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html#Structure_&amp;_Organization"><div class="tree-item-contents heading-link" heading-name="Structure &amp; Organization"><span class="tree-item-title">Structure &amp; Organization</span></div></a><div class="tree-item-children nav-folder-children"></div></div></div></div><div class="tree-item mod-collapsible is-collapsed" data-depth="2"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html#Sequence__versus__Polymer"><div class="tree-item-contents heading-link" heading-name="Sequence _versus_ Polymer"><div class="collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="tree-item-title">Sequence <em>versus</em> Polymer</span></div></a><div class="tree-item-children nav-folder-children" style="display: none;"><div class="tree-item" data-depth="3"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html#Sequence__versus__Information"><div class="tree-item-contents heading-link" heading-name="Sequence _versus_ Information"><span class="tree-item-title">Sequence <em>versus</em> Information</span></div></a><div class="tree-item-children nav-folder-children"></div></div></div></div><div class="tree-item mod-collapsible is-collapsed" data-depth="2"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html#Sequence_Recording"><div class="tree-item-contents heading-link" heading-name="Sequence Recording"><div class="collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="tree-item-title">Sequence Recording</span></div></a><div class="tree-item-children nav-folder-children" style="display: none;"><div class="tree-item" data-depth="3"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html#Notation"><div class="tree-item-contents heading-link" heading-name="Notation"><span class="tree-item-title">Notation</span></div></a><div class="tree-item-children nav-folder-children"></div></div><div class="tree-item" data-depth="3"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html#Format"><div class="tree-item-contents heading-link" heading-name="Format"><span class="tree-item-title">Format</span></div></a><div class="tree-item-children nav-folder-children"></div></div><div class="tree-item" data-depth="3"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html#Writing_or_Editing_Sequences"><div class="tree-item-contents heading-link" heading-name="Writing or Editing Sequences"><span class="tree-item-title">Writing or Editing Sequences</span></div></a><div class="tree-item-children nav-folder-children"></div></div></div></div><div class="tree-item" data-depth="2"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\biological-sequences.html#Sequence_Production"><div class="tree-item-contents heading-link" heading-name="Sequence Production"><span class="tree-item-title">Sequence Production</span></div></a><div class="tree-item-children nav-folder-children"></div></div></div></div></div></div></div><script defer="">let rs = document.querySelector(".sidebar-right"); rs.classList.add("is-collapsed"); if (window.innerWidth > 768) rs.classList.remove("is-collapsed"); rs.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-right-width"));</script></div></div></body></html>

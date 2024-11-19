@@ -1,0 +1,469 @@
+<!DOCTYPE html> <html><head>
+		<title>Annotated Genome Assemblies, how to get there_</title>
+		<base href="..\..\../">
+		<meta id="root-path" root-path="..\..\../">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=5.0">
+		<meta charset="UTF-8">
+		<meta name="description" content="iBi24 - Annotated Genome Assemblies, how to get there_">
+		<meta property="og:title" content="Annotated Genome Assemblies, how to get there_">
+		<meta property="og:description" content="iBi24 - Annotated Genome Assemblies, how to get there_">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="notes/bioinformatics/introdução-à-bioinformática/annotated-genome-assemblies,-how-to-get-there_.html">
+		<meta property="og:image" content="lib\media\pasted-image-20241031112227.png">
+		<meta property="og:site_name" content="iBi24">
+		<meta name="author" content="jmgcfdea"><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="lib/rss.xml"><script async="" id="webpage-script" src="lib/scripts/webpage.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script type="module" async="" id="graph-view-script" src="lib/scripts/graph-view.js"></script><script async="" id="graph-wasm-script" src="lib/scripts/graph-wasm.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="graph-render-worker-script" src="lib/scripts/graph-render-worker.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="tinycolor-script" src="lib/scripts/tinycolor.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="pixi-script" src="lib/scripts/pixi.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="minisearch-script" src="lib/scripts/minisearch.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><link rel="icon" href="lib/media/favicon.png"><script async="" id="graph-data-script" src="lib/scripts/graph-data.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><style>body{--line-width:40em;--line-width-adaptive:40em;--file-line-width:40em;--sidebar-width:min(20em, 80vw);--collapse-arrow-size:11px;--tree-horizontal-spacing:0.6em;--tree-vertical-spacing:0.6em;--sidebar-margin:12px}.sidebar{height:100%;min-width:calc(var(--sidebar-width) + var(--divider-width-hover));max-width:calc(var(--sidebar-width) + var(--divider-width-hover));font-size:14px;z-index:10;position:relative;overflow:hidden;transition:min-width ease-in-out,max-width ease-in-out;transition-duration:.2s;contain:size}.sidebar-left{left:0}.sidebar-right{right:0}.sidebar.is-collapsed{min-width:0;max-width:0}body.floating-sidebars .sidebar{position:absolute}.sidebar-content{height:100%;min-width:calc(var(--sidebar-width) - var(--divider-width-hover));top:0;padding:var(--sidebar-margin);padding-top:4em;line-height:var(--line-height-tight);background-color:var(--background-secondary);transition:background-color,border-right,border-left,box-shadow;transition-duration:var(--color-fade-speed);transition-timing-function:ease-in-out;position:absolute;display:flex;flex-direction:column}.sidebar:not(.is-collapsed) .sidebar-content{min-width:calc(max(100%,var(--sidebar-width)) - 3px);max-width:calc(max(100%,var(--sidebar-width)) - 3px)}.sidebar-left .sidebar-content{left:0;border-top-right-radius:var(--radius-l);border-bottom-right-radius:var(--radius-l)}.sidebar-right .sidebar-content{right:0;border-top-left-radius:var(--radius-l);border-bottom-left-radius:var(--radius-l)}.sidebar:has(.sidebar-content:empty):has(.topbar-content:empty){display:none}.sidebar-topbar{height:2em;width:var(--sidebar-width);top:var(--sidebar-margin);padding-inline:var(--sidebar-margin);z-index:1;position:fixed;display:flex;align-items:center;transition:width ease-in-out;transition-duration:inherit}.sidebar.is-collapsed .sidebar-topbar{width:calc(2.3em + var(--sidebar-margin) * 2)}.sidebar .sidebar-topbar.is-collapsed{width:0}.sidebar-left .sidebar-topbar{left:0}.sidebar-right .sidebar-topbar{right:0}.topbar-content{overflow:hidden;overflow:clip;width:100%;height:100%;display:flex;align-items:center;transition:inherit}.sidebar.is-collapsed .topbar-content{width:0;transition:inherit}.clickable-icon.sidebar-collapse-icon{background-color:transparent;color:var(--icon-color-focused);padding:0!important;margin:0!important;height:100%!important;width:2.3em!important;margin-inline:0.14em!important;position:absolute}.sidebar-left .clickable-icon.sidebar-collapse-icon{transform:rotateY(180deg);right:var(--sidebar-margin)}.sidebar-right .clickable-icon.sidebar-collapse-icon{transform:rotateY(180deg);left:var(--sidebar-margin)}.clickable-icon.sidebar-collapse-icon svg.svg-icon{width:100%;height:100%}.sidebar-section-header{margin:0 0 1em 0;text-transform:uppercase;letter-spacing:.06em;font-weight:600}body{transition:background-color var(--color-fade-speed) ease-in-out}.webpage-container{display:flex;flex-direction:row;height:100%;width:100%;align-items:stretch;justify-content:center}.document-container{opacity:1;flex-basis:100%;max-width:100%;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;transition:opacity .2s ease-in-out;contain:inline-size}.hide{opacity:0;transition:opacity .2s ease-in-out}.document-container>.markdown-preview-view{margin:var(--sidebar-margin);margin-bottom:0;width:100%;width:-webkit-fill-available;width:-moz-available;width:fill-available;background-color:var(--background-primary);transition:background-color var(--color-fade-speed) ease-in-out;border-top-right-radius:var(--window-radius,var(--radius-m));border-top-left-radius:var(--window-radius,var(--radius-m));overflow-x:hidden!important;overflow-y:auto!important;display:flex!important;flex-direction:column!important;align-items:center!important;contain:inline-size}.document-container>.markdown-preview-view>.markdown-preview-sizer{padding-bottom:80vh!important;width:100%!important;max-width:var(--line-width)!important;flex-basis:var(--line-width)!important;transition:background-color var(--color-fade-speed) ease-in-out;contain:inline-size}.markdown-rendered img:not([width]),.view-content img:not([width]){max-width:100%;outline:0}.document-container>.view-content.embed{display:flex;padding:1em;height:100%;width:100%;align-items:center;justify-content:center}.document-container>.view-content.embed>*{max-width:100%;max-height:100%;object-fit:contain}:has(> :is(.math,table)){overflow-x:auto!important}.document-container>.view-content{overflow-x:auto;contain:content;padding:0;margin:0;height:100%}.scroll-highlight{position:absolute;width:100%;height:100%;pointer-events:none;z-index:1000;background-color:hsla(var(--color-accent-hsl),.25);opacity:0;padding:1em;inset:50%;translate:-50% -50%;border-radius:var(--radius-s)}</style><script defer="">async function loadIncludes(){if("file:"!=location.protocol){let e=document.querySelectorAll("include");for(let t=0;t<e.length;t++){let o=e[t],l=o.getAttribute("src");try{const e=await fetch(l);if(!e.ok){console.log("Could not include file: "+l),o?.remove();continue}let t=await e.text(),n=document.createRange().createContextualFragment(t),i=Array.from(n.children);for(let e of i)e.classList.add("hide"),e.style.transition="opacity 0.5s ease-in-out",setTimeout((()=>{e.classList.remove("hide")}),10);o.before(n),o.remove(),console.log("Included file: "+l)}catch(e){o?.remove(),console.log("Could not include file: "+l,e);continue}}}else{if(document.querySelectorAll("include").length>0){var e=document.createElement("div");e.id="error",e.textContent="Web server exports must be hosted on an http / web server to be viewed correctly.",e.style.position="fixed",e.style.top="50%",e.style.left="50%",e.style.transform="translate(-50%, -50%)",e.style.fontSize="1.5em",e.style.fontWeight="bold",e.style.textAlign="center",document.body.appendChild(e),document.querySelector(".document-container")?.classList.remove("hide")}}}document.addEventListener("DOMContentLoaded",(()=>{loadIncludes()}));let isFileProtocol="file:"==location.protocol;function waitLoadScripts(e,t){let o=e.map((e=>document.getElementById(e+"-script"))),l=0;!function e(){let n=o[l];l++,n&&"true"!=n.getAttribute("loaded")||l<o.length&&e(),l<o.length?n.addEventListener("load",e):t()}()}</script><link rel="stylesheet" href="lib/styles/obsidian.css"><link rel="preload" href="lib/styles/other-plugins.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/other-plugins.css"></noscript><link rel="stylesheet" href="lib/styles/theme.css"><link rel="preload" href="lib/styles/global-variable-styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/global-variable-styles.css"></noscript><link rel="preload" href="lib/styles/main-styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/styles/main-styles.css"></noscript></head><body class="publish css-settings-manager theme-light show-inline-title show-ribbon check-color check-bg"><script defer="">let theme=localStorage.getItem("theme")||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");"dark"==theme?(document.body.classList.add("theme-dark"),document.body.classList.remove("theme-light")):(document.body.classList.add("theme-light"),document.body.classList.remove("theme-dark")),window.innerWidth<480?document.body.classList.add("is-phone"):window.innerWidth<768?document.body.classList.add("is-tablet"):window.innerWidth<1024?document.body.classList.add("is-small-screen"):document.body.classList.add("is-large-screen")</script><div class="webpage-container workspace"><div class="sidebar-left sidebar"><div class="sidebar-handle"></div><div class="sidebar-topbar"><div class="topbar-content"><label class="theme-toggle-container" for="theme_toggle"><input class="theme-toggle-input" type="checkbox" id="theme_toggle"><div class="toggle-background"></div></label></div><div class="clickable-icon sidebar-collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><path d="M21 3H3C1.89543 3 1 3.89543 1 5V19C1 20.1046 1.89543 21 3 21H21C22.1046 21 23 20.1046 23 19V5C23 3.89543 22.1046 3 21 3Z"></path><path d="M10 4V20"></path><path d="M4 7H7"></path><path d="M4 10H7"></path><path d="M4 13H7"></path></svg></div></div><div class="sidebar-content"><div class="search-input-container"><input enterkeyhint="search" type="search" spellcheck="false" placeholder="Search..."><div class="search-input-clear-button" aria-label="Clear search"></div></div><include src="lib/html/file-tree.html"></include></div><script defer="">let ls = document.querySelector(".sidebar-left"); ls.classList.add("is-collapsed"); if (window.innerWidth > 768) ls.classList.remove("is-collapsed"); ls.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-left-width"));</script></div><div class="document-container markdown-reading-view hide"><div class="markdown-preview-view markdown-rendered allow-fold-headings allow-fold-lists is-readable-line-width"><style id="MJX-CHTML-styles"></style><div class="markdown-preview-sizer markdown-preview-section"><h1 class="page-title heading inline-title" id="Annotated Genome Assemblies, how to get there_"><p dir="auto">Annotated Genome Assemblies, how to get there_</p></h1><div class="el-p"><p dir="auto"><font color="#00b050"><strong>Path:</strong></font> Notes/Bioinformatics/Introdução à Bioinformática/Annotated Genome Assemblies, how to get there<em>.md<br>
+<font color="#00b050"><strong>Created:</strong></font> 2024-10-31 11:17<br>
+<font color="#00b050"><strong>Updated:</strong></font> 2024-10-31 11:17<br>
+<font color="#00b050"><strong>Source:</strong></font> [Annotated Genome Assemblies, how to get there</em>]()<br>
+<font color="#00b050"><strong>Subject:</strong></font>  Annotated Genome Assemblies, how to get there_<br>
+<font color="#00b050"><strong>Tags:</strong></font></p></div><div class="el-div"><div data-callout-metadata="" data-callout-fold="" data-callout="ontology" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Ontology</div></div><div class="callout-content">
+<p dir="auto"><font color="#00b050"><strong>parent::</strong></font><a data-href="Program" href="notes/bioinformatics/introdução-à-bioinformática/program.html" class="internal-link" target="_self" rel="noopener nofollow">Program</a> <a data-href="The Cornerstones of Bioinformatics, where the data dwells" href="notes/bioinformatics/introdução-à-bioinformática/the-cornerstones-of-bioinformatics,-where-the-data-dwells.html" class="internal-link" target="_self" rel="noopener nofollow">The Cornerstones of Bioinformatics, where the data dwells</a></p>
+</div></div></div><div class="el-h2 heading-wrapper"><h2 data-heading="Note:" dir="auto" class="heading" id="Note:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Note:</h2><div class="heading-children"><div class="el-h3 heading-wrapper"><h3 data-heading="Portal? What is a portal?" dir="auto" class="heading" id="Portal?_What_is_a_portal?"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Portal? What is a portal?</h3><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="definition" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Definition</div></div><div class="callout-content">
+<p dir="auto">" a specially designed website that brings information from diverse sources, like emails, online forums and search engines, together in a uniform way. Usually, each information source gets its dedicated area on the page for displaying information (a portlet);<br>
+(...)<br>
+The term "portal" emerged in the late 1990s to describe a new genre of website."<br>
+.<br>
+<strong>Source:</strong> <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Web_portal" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Web_portal" target="_blank">Wikipedia</a><br>
+.</p>
+</div></div>
+</li>
+</ul></div></div></div><div class="el-h3 heading-wrapper"><h3 data-heading="Tacking stock of the challenge" dir="auto" class="heading" id="Tacking_stock_of_the_challenge"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Tacking stock of the challenge</h3><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Genome
+<ul>
+<li data-line="1" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="definition" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Definition</div></div><div class="callout-content">
+<p dir="auto">"The genetic complement of an organism, including all of its GENES, as represented in its DNA, or in some cases, its RNA."</p>
+<p dir="auto"><span alt="Pasted image 20241031112227.png" src="Pasted image 20241031112227.png" class="internal-embed media-embed image-embed is-loaded" style="width: 400px; max-width: 100%;"><img alt="Pasted image 20241031112227.png" src="lib/media/pasted-image-20241031112227.png" style="width: 400px; max-width: 100%;"></span></p>
+<p dir="auto"><strong>Source:</strong> <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/mesh/68016678" rel="noopener nofollow" class="external-link" href="https://www.ncbi.nlm.nih.gov/mesh/68016678" target="_blank">MeSH</a><br>
+.</p>
+</div></div>
+</li>
+</ul>
+</li>
+<li data-line="8" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Genome Assembly
+<ul>
+<li data-line="9" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="definition" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Definition</div></div><div class="callout-content">
+<p dir="auto">"The genomic assembly refers to the complete genome of an organism, after fragmentation for sequencing experiments and then reassembly."</p>
+<p dir="auto"><span alt="Pasted image 20241031112535.png" src="Pasted image 20241031112535.png" class="internal-embed media-embed image-embed is-loaded" style="width: 300px; max-width: 100%;"><img alt="Pasted image 20241031112535.png" src="lib/media/pasted-image-20241031112535.png" style="width: 300px; max-width: 100%;"></span></p>
+<p dir="auto"><strong>Source:</strong> <a data-tooltip-position="top" aria-label="https://www.ebi.ac.uk/training/online/glossary/genomic-assembly" rel="noopener nofollow" class="external-link" href="https://www.ebi.ac.uk/training/online/glossary/genomic-assembly" target="_blank">EBI</a><br>
+.</p>
+</div></div>
+</li>
+<li data-line="16" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Associated Metadata
+<ul>
+<li data-line="17" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20241027175754.png" src="Pasted image 20241027175754.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241027175754.png" src="lib/media/pasted-image-20241027175754.png"></span><br>
+.</p>
+</blockquote>
+</li>
+<li data-line="19" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20241027180140.png" src="Pasted image 20241027180140.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241027180140.png" src="lib/media/pasted-image-20241027180140.png"></span><br>
+.</p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="21" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>(Sequencing) Coverage
+<ul>
+<li data-line="22" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="definition" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Definition</div></div><div class="callout-content">
+<p dir="auto">"Sequencing coverage describes the average number of reads that align to, or "cover," known reference bases. The next-generation sequencing (NGS) coverage level often determines whether variant discovery can be made with a certain degree of confidence at particular base positions."<br>
+<span alt="Pasted image 20241031113328.png" src="Pasted image 20241031113328.png" class="internal-embed media-embed image-embed is-loaded" style="width: 400px; max-width: 100%;"><img alt="Pasted image 20241031113328.png" src="lib/media/pasted-image-20241031113328.png" style="width: 400px; max-width: 100%;"></span><br>
+"Ideally, the plot will take the form of a Poisson-like distribution with a small standard deviation, as seen in the left-hand histogram image. … However, for a variety of reasons, actual coverage histograms may have a large spread (i.e., broad range of read depths), or have a non-Poisson distribution, as seen in the right-hand histogram image."<br>
+.<br>
+<strong>Source:</strong> <a data-tooltip-position="top" aria-label="https://www.illumina.com/science/education/sequencing-coverage.html" rel="noopener nofollow" class="external-link" href="https://www.illumina.com/science/education/sequencing-coverage.html" target="_blank">Illumina</a><br>
+. </p>
+</div></div>
+</li>
+</ul>
+</li>
+<li data-line="29" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>(Average) Depth
+<ul>
+<li data-line="30" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="definition" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Definition</div></div><div class="callout-content">
+<p dir="auto">"The average depth of sequencing coverage can be defined theoretically as LN/G, where L is the read length, N is the number of reads and G is the haploid genome length."<br>
+<span alt="Pasted image 20241031114233.png" src="Pasted image 20241031114233.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241031114233.png" src="lib/media/pasted-image-20241031114233.png"></span><br>
+"The breadth of coverage is the percentage of target bases that have been sequenced for a given number of times."<br>
+.<br>
+<strong>Source:</strong> <a data-tooltip-position="top" aria-label="https://www.nature.com/articles/nrg3642" rel="noopener nofollow" class="external-link" href="https://www.nature.com/articles/nrg3642" target="_blank">Nature</a><br>
+.</p>
+</div></div>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="37" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Expressed Sequence Tag, EST
+<ul>
+<li data-line="38" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="definition" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Definition</div></div><div class="callout-content">
+<p dir="auto">"A small sequence from an expressed gene that can be amplified by PCR. ESTs act as physical markers for cloning and full length sequencing of the cDNAs of expressed genes. Typically identified by purifying mRNAs, converting to cDNAs, and then sequencing a portion of the cDNAs."</p>
+<p dir="auto"><span alt="Pasted image 20241031114610.png" src="Pasted image 20241031114610.png" class="internal-embed media-embed image-embed is-loaded" style="width: 400px; max-width: 100%;"><img alt="Pasted image 20241031114610.png" src="lib/media/pasted-image-20241031114610.png" style="width: 400px; max-width: 100%;"></span></p>
+<p dir="auto"><strong>Source:</strong> <a data-tooltip-position="top" aria-label="http://www.ebi.ac.uk/2can/glossary" rel="noopener nofollow" class="external-link" href="http://www.ebi.ac.uk/2can/glossary" target="_blank">EBI</a><br>
+.</p>
+</div></div>
+</li>
+</ul>
+</li>
+<li data-line="45" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Different kinds of genomes entail different challenges
+<ul>
+<li data-line="46" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Prokaryotes
+<ul>
+<li data-line="47" dir="auto">No sequence to spare ("life on the fast lane").</li>
+<li data-line="48" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="mycobacterium-tuberculosis" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Mycobacterium tuberculosis</div></div><div class="callout-content">
+<p dir="auto"><span alt="Pasted image 20240916190828.png" src="Pasted image 20240916190828.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240916190828.png" src="lib/media/pasted-image-20240916190828.png"></span><br>
+. </p>
+</div></div>
+</li>
+</ul>
+</li>
+<li data-line="51" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Eukarya
+<ul>
+<li data-line="52" dir="auto">The premium put on the regulation of the expression, length is no problem</li>
+<li data-line="53" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="mus-musculus" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Mus musculus</div></div><div class="callout-content">
+<p dir="auto"><span alt="Pasted image 20240916191025.png" src="Pasted image 20240916191025.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20240916191025.png" src="lib/media/pasted-image-20240916191025.png"></span><br>
+.</p>
+</div></div>
+</li>
+<li data-line="56" dir="auto"></li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="57" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Gene Mapping &amp; Annotation 
+<ul>
+<li data-line="58" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Complex workflows implemented as pipelines
+<ul>
+<li data-line="59" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Heterologous elements
+<ul>
+<li data-line="60" dir="auto">Sequence filtered / masked prior to gene mapping</li>
+</ul>
+</li>
+<li data-line="61" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>More than one <em>ab initio</em> tool
+<ul>
+<li data-line="62" dir="auto">Concordance reinforces confidence</li>
+</ul>
+</li>
+<li data-line="63" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>EST matching
+<ul>
+<li data-line="64" dir="auto">Experimental-grade evidence to support inference</li>
+</ul>
+</li>
+<li data-line="65" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Polish the inference map
+<ul>
+<li data-line="66" dir="auto">Splicing optimization tools</li>
+<li data-line="67" dir="auto">Matching to putative homologous sequences</li>
+</ul>
+</li>
+<li data-line="68" dir="auto">Evidence-based inference consolidation</li>
+<li data-line="69" dir="auto">Functional annotation of protein coding genes</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="70" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Recording genomic annotation
+<ul>
+<li data-line="71" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>For the record
+<ul>
+<li data-line="72" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Line-based open-ended formats
+<ul>
+<li data-line="73" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>e.g. <a data-tooltip-position="top" aria-label="http://www.sequenceontology.org/gff3.shtml" rel="noopener nofollow" class="external-link" href="http://www.sequenceontology.org/gff3.shtml" target="_blank">GFF3</a>
+<ul>
+<li data-line="74" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20240916211812.png" src="Pasted image 20240916211812.png" class="internal-embed media-embed image-embed is-loaded" style="width: 400px; max-width: 100%;"><img alt="Pasted image 20240916211812.png" src="lib/media/pasted-image-20240916211812.png" style="width: 400px; max-width: 100%;"></span></p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="75" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>For distribution (annotation + sequence)
+<ul>
+<li data-line="76" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Plain-Text formats
+<ul>
+<li data-line="77" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>e.g. 
+<ul>
+<li data-line="78" dir="auto">GenBank</li>
+<li data-line="79" dir="auto">EMBL</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul></div><div class="el-hr"><hr></div></div></div><div class="el-h3 heading-wrapper"><h3 data-heading="Generic Portals" dir="auto" class="heading" id="Generic_Portals"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Generic Portals</h3><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Portals distributing a wide gamut of data
+<ul>
+<li data-line="1" dir="auto">They also provide Genome Assembly Data as annotated sequences with peculiar metadata</li>
+<li data-line="2" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="ncbi-entrez-&amp;-genomes" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Ncbi entrez &amp; genomes</div></div><div class="callout-content">
+<p dir="auto"><span alt="Pasted image 20241031132223.png" src="Pasted image 20241031132223.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241031132223.png" src="lib/media/pasted-image-20241031132223.png"></span><br>
+. </p>
+</div></div>
+</li>
+<li data-line="5" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Most of the relevant information can be obtained here
+<ul>
+<li data-line="6" dir="auto">But it may placed in less convenient places</li>
+</ul>
+</li>
+<li data-line="7" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20241031132800.png" src="Pasted image 20241031132800.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241031132800.png" src="lib/media/pasted-image-20241031132800.png"></span><br>
+.</p>
+</blockquote>
+</li>
+<li data-line="9" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="ncbi::genome-for-s.pombe" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Ncbi::genome for s.pombe</div></div><div class="callout-content">
+<p dir="auto"><span alt="Pasted image 20241101121050.png" src="Pasted image 20241101121050.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101121050.png" src="lib/media/pasted-image-20241101121050.png"></span><br>
+.</p>
+</div></div>
+</li>
+<li data-line="12" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="the-assembly-status" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">The assembly status</div></div><div class="callout-content">
+<p dir="auto"><span alt="Pasted image 20241101131725.png" src="Pasted image 20241101131725.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101131725.png" src="lib/media/pasted-image-20241101131725.png"></span><br>
+. </p>
+</div></div>
+</li>
+<li data-line="15" dir="auto">The assembly organized into chromosomes is the trademark of a model organism</li>
+<li data-line="16" dir="auto">The detail degree  may vary, dependent on the amount of research already put in the organism.</li>
+<li data-line="17" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Other assemblies may be available through this pages
+<ul>
+<li data-line="18" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20241101133658.png" src="Pasted image 20241101133658.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101133658.png" src="lib/media/pasted-image-20241101133658.png"></span><br>
+<span alt="Pasted image 20241101134254.png" src="Pasted image 20241101134254.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101134254.png" src="lib/media/pasted-image-20241101134254.png"></span><br>
+.</p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="21" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Also sequencing efforts not yet assembled may be available
+<ul>
+<li data-line="22" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20241101134645.png" src="Pasted image 20241101134645.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101134645.png" src="lib/media/pasted-image-20241101134645.png"></span><br>
+.</p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="24" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>The assemblies are the operational units for the genomic annotation
+<ul>
+<li data-line="25" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="assembly-entry" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Assembly entry</div></div><div class="callout-content">
+<p dir="auto"><span alt="Pasted image 20241101190412.png" src="Pasted image 20241101190412.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101190412.png" src="lib/media/pasted-image-20241101190412.png"></span><br>
+.<br>
+<span alt="Pasted image 20241101190559.png" src="Pasted image 20241101190559.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101190559.png" src="lib/media/pasted-image-20241101190559.png"></span><br>
+.</p>
+</div></div>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="30" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>The real entry point to annotated genomes - The NCBI Taxonomy Database
+<ul>
+<li data-line="31" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20241101190836.png" src="Pasted image 20241101190836.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101190836.png" src="lib/media/pasted-image-20241101190836.png"></span><br>
+.</p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ul></div><div class="el-hr"><hr></div></div></div><div class="el-h3 heading-wrapper"><h3 data-heading="Dedicated Portals" dir="auto" class="heading" id="Dedicated_Portals"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Dedicated Portals</h3><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Portals dedicated to mediate access to annotated genomic sequences
+<ul>
+<li data-line="1" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>They may also distribute the underlying software serving the data
+<ul>
+<li data-line="2" dir="auto">Data structure</li>
+<li data-line="3" dir="auto">Automation scripts</li>
+<li data-line="4" dir="auto">Server scripts</li>
+</ul>
+</li>
+<li data-line="5" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="ensembl!" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Ensembl!</div></div><div class="callout-content">
+<p dir="auto"><span alt="Pasted image 20241101192505.png" src="Pasted image 20241101192505.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101192505.png" src="lib/media/pasted-image-20241101192505.png"></span><br>
+.<br>
+<span alt="Pasted image 20241101192545.png" src="Pasted image 20241101192545.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101192545.png" src="lib/media/pasted-image-20241101192545.png"></span><br>
+.<br>
+<span alt="Pasted image 20241101192628.png" src="Pasted image 20241101192628.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101192628.png" src="lib/media/pasted-image-20241101192628.png"></span><br>
+.</p>
+</div></div>
+</li>
+</ul>
+</li>
+<li data-line="12" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>They provide more specific functionality regarding genomes
+<ul>
+<li data-line="13" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20241101193350.png" src="Pasted image 20241101193350.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101193350.png" src="lib/media/pasted-image-20241101193350.png"></span><br>
+.</p>
+</blockquote>
+</li>
+<li data-line="15" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Namely accessing specific parts of the genome through chromosome ideograms
+<ul>
+<li data-line="16" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="karyotype-view" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Karyotype view</div></div><div class="callout-content">
+<p dir="auto"><span alt="Pasted image 20241101194000.png" src="Pasted image 20241101194000.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101194000.png" src="lib/media/pasted-image-20241101194000.png"></span></p>
+<p dir="auto"><span alt="Pasted image 20241101194352.png" src="Pasted image 20241101194352.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101194352.png" src="lib/media/pasted-image-20241101194352.png"></span><br>
+.</p>
+</div></div>
+</li>
+<li data-line="21" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="chromosome-view" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Chromosome view</div></div><div class="callout-content">
+<p dir="auto"><span alt="Pasted image 20241101194707.png" src="Pasted image 20241101194707.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101194707.png" src="lib/media/pasted-image-20241101194707.png"></span></p>
+<p dir="auto"><span alt="Pasted image 20241101194614.png" src="Pasted image 20241101194614.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101194614.png" src="lib/media/pasted-image-20241101194614.png"></span></p>
+<p dir="auto"><span alt="Pasted image 20241101194737.png" src="Pasted image 20241101194737.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101194737.png" src="lib/media/pasted-image-20241101194737.png"></span><br>
+.</p>
+</div></div>
+</li>
+</ul>
+</li>
+<li data-line="28" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Down to a genomic region viewer
+<ul>
+<li data-line="29" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20241101195244.png" src="Pasted image 20241101195244.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101195244.png" src="lib/media/pasted-image-20241101195244.png"></span><br>
+.</p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="31" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Bottoming at the nucleotide level for SNP inspection
+<ul>
+<li data-line="32" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="ensembl!-region-viewer-bottom-panel" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Ensembl! region viewer bottom panel</div></div><div class="callout-content">
+<p dir="auto"><span alt="Pasted image 20241101195623.png" src="Pasted image 20241101195623.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241101195623.png" src="lib/media/pasted-image-20241101195623.png"></span><br>
+.</p>
+</div></div>
+</li>
+</ul>
+</li>
+<li data-line="35" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Serving several genomes enables cross-genome comparisons, precomputed for practical reasons
+<ul>
+<li data-line="36" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="definition" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Definition</div></div><div class="callout-content">
+<p dir="auto">"In classical genetics, syntenic genes were originally defined as genes that lie on the same chromosome. Today, however, biologists usually refer to synteny as the conservation of blocks of order within two sets of chromosomes that are being compared with each other."<br>
+(...)<br>
+"Fragments of chromosomes from extinct species can be detected in many of their living descendants."</p>
+<p dir="auto"><strong>Source:</strong> <a data-tooltip-position="top" aria-label="https://www.nature.com/scitable/topicpage/synteny-inferring-ancestral-genomes-44022/" rel="noopener nofollow" class="external-link" href="https://www.nature.com/scitable/topicpage/synteny-inferring-ancestral-genomes-44022/" target="_blank">Nature</a><br>
+.</p>
+</div></div>
+</li>
+<li data-line="43" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="synteny-representations" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Synteny representations</div></div><div class="callout-content">
+<p dir="auto"><span alt="Pasted image 20241102114106.png" src="Pasted image 20241102114106.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241102114106.png" src="lib/media/pasted-image-20241102114106.png"></span></p>
+<p dir="auto"><span alt="Pasted image 20241102114128.png" src="Pasted image 20241102114128.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241102114128.png" src="lib/media/pasted-image-20241102114128.png"></span></p>
+<p dir="auto"><strong>Source:</strong> <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Synteny" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Synteny" target="_blank">Wikipedia</a><br>
+.</p>
+</div></div>
+</li>
+<li data-line="50" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Synteny analysis supplied by the portal of the Esembl! Project
+<ul>
+<li data-line="51" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20241102114524.png" src="Pasted image 20241102114524.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241102114524.png" src="lib/media/pasted-image-20241102114524.png"></span></p>
+<p><span alt="Pasted image 20241102114552.png" src="Pasted image 20241102114552.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241102114552.png" src="lib/media/pasted-image-20241102114552.png"></span><br>
+.</p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul></div><div class="el-hr"><hr></div></div></div><div class="el-h3 heading-wrapper"><h3 data-heading="Specific Portals" dir="auto" class="heading" id="Specific_Portals"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Specific Portals</h3><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Portals that serve data regarding the genome of one specific model organism
+<ul>
+<li data-line="1" dir="auto">More than one genome assembly if available</li>
+</ul>
+</li>
+<li data-line="2" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="s.pombe-genome-portal" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">S.pombe genome portal</div></div><div class="callout-content">
+<p dir="auto"><span alt="Pasted image 20241102115437.png" src="Pasted image 20241102115437.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241102115437.png" src="lib/media/pasted-image-20241102115437.png"></span><br>
+.<br>
+<span alt="Pasted image 20241102115535.png" src="Pasted image 20241102115535.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241102115535.png" src="lib/media/pasted-image-20241102115535.png"></span><br>
+.</p>
+</div></div>
+</li>
+<li data-line="7" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>The richest set of data &amp; analysis results
+<ul>
+<li data-line="8" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20241102115854.png" src="Pasted image 20241102115854.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241102115854.png" src="lib/media/pasted-image-20241102115854.png"></span></p>
+<p><span alt="Pasted image 20241102120005.png" src="Pasted image 20241102120005.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241102120005.png" src="lib/media/pasted-image-20241102120005.png"></span><br>
+.</p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="12" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Served by some annotation graphical visualizer 
+<ul>
+<li data-line="13" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20241102120252.png" src="Pasted image 20241102120252.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241102120252.png" src="lib/media/pasted-image-20241102120252.png"></span><br>
+.</p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li data-line="15" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Gene Ontology (GO Project)
+<ul>
+<li data-line="16" dir="auto">
+<div data-callout-metadata="" data-callout-fold="" data-callout="definition" class="callout"><div class="callout-title" dir="auto"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"></path><path d="m15 5 4 4"></path></svg></div><div class="callout-title-inner">Definition</div></div><div class="callout-content">
+<p dir="auto">"a structured, standardized representation of biological knowledge. GO descibes concepts (also known as terms, or formally, classes) that are connected to each other via formally defined relations. Elements of GO terms are described here. The GO is designed to be species-agnostic, to enable the annotation of gene products across the entire tree of life. The computational framework of the GO enables consistent genes annotation, comparison of functions across organisms, and integration of knowledge across diverse biological databases."</p>
+<p dir="auto"><strong>Source:</strong> <a data-tooltip-position="top" aria-label="https://geneontology.org/" rel="noopener nofollow" class="external-link" href="https://geneontology.org/" target="_blank">GO</a> </p>
+<p dir="auto">"Whereas gene nomenclature focuses on gene and gene products, the Gene Ontology focuses on the function of the genes and gene products. The GO also extends the effort by using a markup language to make the data (not only of the genes and their products but also of curated attributes) machine readable, and to do so in a way that is unified across all species (whereas gene nomenclature conventions vary by biological taxon)."</p>
+<p dir="auto"><strong>Source:</strong> <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Gene_Ontology" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Gene_Ontology" target="_blank">Wikipedia</a></p>
+</div></div>
+</li>
+<li data-line="25" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20241102121215.png" src="Pasted image 20241102121215.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241102121215.png" src="lib/media/pasted-image-20241102121215.png"></span></p>
+<p>Source: <a data-tooltip-position="top" aria-label="https://hbctraining.github.io/Training-modules/DGE-functional-analysis/img/go_heirarchy.jpg" rel="noopener nofollow" class="external-link" href="https://hbctraining.github.io/Training-modules/DGE-functional-analysis/img/go_heirarchy.jpg" target="_blank">HBCTraining</a><br>
+.</p>
+</blockquote>
+</li>
+<li data-line="29" dir="auto">Ontology as a Graph</li>
+<li data-line="30" dir="auto">
+<blockquote dir="auto">
+<p><span alt="Pasted image 20241102121529.png" src="Pasted image 20241102121529.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241102121529.png" src="lib/media/pasted-image-20241102121529.png"></span></p>
+<p><strong>Source:</strong>  <a data-tooltip-position="top" aria-label="http://www.geneontology.org/page/ontology-structure" rel="noopener nofollow" class="external-link" href="http://www.geneontology.org/page/ontology-structure" target="_blank">GO</a><br>
+.</p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ul></div><div class="el-hr"><hr></div></div></div><div class="el-h3 heading-wrapper"><h3 data-heading="Going Forward" dir="auto" class="heading" id="Going_Forward"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Going Forward</h3><div class="heading-children"><div class="el-ul"><ul>
+<li data-line="0" dir="auto"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>
+<blockquote dir="auto">
+<p>"To infinity and beyond!"</p>
+<ul>
+<li data-line="1" dir="auto">Buzz Lightyear</li>
+</ul>
+<p><span alt="Pasted image 20241102122125.png" src="Pasted image 20241102122125.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20241102122125.png" src="lib/media/pasted-image-20241102122125.png"></span><br>
+.<br>
+<strong>Source:</strong> <a data-tooltip-position="top" aria-label="https://cdn.geekwire.com/wp-content/uploads/2016/03/Assembly-of-the-moonships-1075-miles-above-the-Hawaiian-Islands-1.jpg" rel="noopener nofollow" class="external-link" href="https://cdn.geekwire.com/wp-content/uploads/2016/03/Assembly-of-the-moonships-1075-miles-above-the-Hawaiian-Islands-1.jpg" target="_blank">cdn.geekwire.com</a><br>
+.</p>
+</blockquote>
+</li>
+</ul></div><div class="mod-footer mod-ui"></div></div></div></div></div></div></div></div><div class="sidebar-right sidebar"><div class="sidebar-handle"></div><div class="sidebar-topbar"><div class="topbar-content"></div><div class="clickable-icon sidebar-collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><path d="M21 3H3C1.89543 3 1 3.89543 1 5V19C1 20.1046 1.89543 21 3 21H21C22.1046 21 23 20.1046 23 19V5C23 3.89543 22.1046 3 21 3Z"></path><path d="M10 4V20"></path><path d="M4 7H7"></path><path d="M4 10H7"></path><path d="M4 13H7"></path></svg></div></div><div class="sidebar-content"><div class="graph-view-wrapper"><div class="sidebar-section-header">Interactive Graph</div><div class="graph-view-placeholder">
+		<div class="graph-view-container">
+			<div class="graph-icon graph-expand" role="button" aria-label="Expand" data-tooltip-position="top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg></div>
+			<canvas id="graph-canvas" class="hide" width="512px" height="512px"></canvas>
+		</div>
+		</div></div><div class="tree-container mod-root nav-folder tree-item outline-tree" data-depth="0"><div class="tree-header"><span class="sidebar-section-header">Table Of Contents</span><button class="clickable-icon collapse-tree-button is-collapsed" aria-label="Collapse All"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></svg></button></div><div class="tree-scroll-area tree-item-children nav-folder-children"><div class="tree-item mod-tree-folder nav-folder mod-collapsible is-collapsed" style="display: none;"></div><div class="tree-item" data-depth="1"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\annotated-genome-assemblies,-how-to-get-there_.html#Annotated Genome Assemblies, how to get there_"><div class="tree-item-contents heading-link" heading-name="Annotated Genome Assemblies, how to get there_"><span class="tree-item-title">Annotated Genome Assemblies, how to get there_</span></div></a><div class="tree-item-children nav-folder-children"><div class="tree-item mod-collapsible is-collapsed" data-depth="2"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\annotated-genome-assemblies,-how-to-get-there_.html#Note:"><div class="tree-item-contents heading-link" heading-name="Note:"><div class="collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="tree-item-title">Note:</span></div></a><div class="tree-item-children nav-folder-children" style="display: none;"><div class="tree-item" data-depth="3"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\annotated-genome-assemblies,-how-to-get-there_.html#Portal?_What_is_a_portal?"><div class="tree-item-contents heading-link" heading-name="Portal? What is a portal?"><span class="tree-item-title">Portal? What is a portal?</span></div></a><div class="tree-item-children nav-folder-children"></div></div><div class="tree-item" data-depth="3"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\annotated-genome-assemblies,-how-to-get-there_.html#Tacking_stock_of_the_challenge"><div class="tree-item-contents heading-link" heading-name="Tacking stock of the challenge"><span class="tree-item-title">Tacking stock of the challenge</span></div></a><div class="tree-item-children nav-folder-children"></div></div><div class="tree-item" data-depth="3"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\annotated-genome-assemblies,-how-to-get-there_.html#Generic_Portals"><div class="tree-item-contents heading-link" heading-name="Generic Portals"><span class="tree-item-title">Generic Portals</span></div></a><div class="tree-item-children nav-folder-children"></div></div><div class="tree-item" data-depth="3"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\annotated-genome-assemblies,-how-to-get-there_.html#Dedicated_Portals"><div class="tree-item-contents heading-link" heading-name="Dedicated Portals"><span class="tree-item-title">Dedicated Portals</span></div></a><div class="tree-item-children nav-folder-children"></div></div><div class="tree-item" data-depth="3"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\annotated-genome-assemblies,-how-to-get-there_.html#Specific_Portals"><div class="tree-item-contents heading-link" heading-name="Specific Portals"><span class="tree-item-title">Specific Portals</span></div></a><div class="tree-item-children nav-folder-children"></div></div><div class="tree-item" data-depth="3"><a class="tree-link" href="notes\bioinformatics\introdução-à-bioinformática\annotated-genome-assemblies,-how-to-get-there_.html#Going_Forward"><div class="tree-item-contents heading-link" heading-name="Going Forward"><span class="tree-item-title">Going Forward</span></div></a><div class="tree-item-children nav-folder-children"></div></div></div></div></div></div></div></div></div><script defer="">let rs = document.querySelector(".sidebar-right"); rs.classList.add("is-collapsed"); if (window.innerWidth > 768) rs.classList.remove("is-collapsed"); rs.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-right-width"));</script></div></div></body></html>
